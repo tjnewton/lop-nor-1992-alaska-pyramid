@@ -1,0 +1,133 @@
+vent_id,volcano,feature,lat,lon,zone,km_outside
+13,Hayes,dome,61.5991,-152.4282,mckinley_nome,116.0
+831,Koyuk-Buckland MF,volcanic field,65.65,-160.5,mckinley_nome,53.3
+836,Koyuk-Buckland MF,cone,66.0637,-160.663,near,98.9
+832,Koyuk-Buckland MF,monogenetic cone,65.9227,-160.776,mckinley_nome,83.0
+835,Koyuk-Buckland MF,cone,66.0139,-160.86,near,93.0
+834,Koyuk-Buckland MF,cone,66.0629,-160.911,near,98.4
+833,Koyuk-Buckland MF,cone,66.0294,-161.005,near,94.6
+879,St Michael MF,monogenetic cone,63.4347,-161.165,denali_nome_band,0.0
+878,St Michael MF,monogenetic cone,63.4263,-161.169,denali_nome_band,0.0
+877,St Michael MF,monogenetic cone,63.4059,-161.184,denali_nome_band,0.0
+876,St Michael MF,monogenetic cone,63.4357,-161.21,denali_nome_band,0.0
+875,St Michael MF,monogenetic cone,63.4433,-161.224,denali_nome_band,0.0
+874,St Michael MF,monogenetic cone,63.4237,-161.304,denali_nome_band,0.0
+873,St Michael MF,monogenetic cone,63.4046,-161.339,denali_nome_band,0.0
+872,St Michael MF,monogenetic cone,63.433,-161.348,denali_nome_band,0.0
+871,St Michael MF,monogenetic cone,63.4109,-161.404,denali_nome_band,0.0
+870,St Michael MF,monogenetic cone,63.4447,-161.433,denali_nome_band,0.0
+869,St Michael MF,monogenetic cone,63.4225,-161.434,denali_nome_band,0.0
+868,St Michael MF,monogenetic cone,63.4182,-161.44,denali_nome_band,0.0
+867,St Michael MF,monogenetic cone,63.4102,-161.49,denali_nome_band,0.0
+865,St Michael MF,monogenetic cone,63.3103,-161.56,denali_nome_band,0.0
+864,St Michael MF,monogenetic cone,63.3148,-161.563,denali_nome_band,0.0
+866,St Michael MF,monogenetic cone,63.3071,-161.58,mckinley_nome,0.7
+863,St Michael MF,monogenetic cone,63.3196,-161.585,denali_nome_band,0.0
+862,St Michael MF,monogenetic cone,63.3272,-161.636,denali_nome_band,0.0
+861,St Michael MF,monogenetic cone,63.3286,-161.65,denali_nome_band,0.0
+860,St Michael MF,monogenetic cone,63.3507,-161.662,denali_nome_band,0.0
+387,St Michael MF,monogenetic cone,63.32618,-161.66693,denali_nome_band,0.0
+880,St Michael MF,monogenetic cone,63.2576,-161.673,mckinley_nome,7.0
+386,St Michael MF,monogenetic cone,63.32996,-161.69318,denali_nome_band,0.0
+385,St Michael MF,monogenetic cone,63.31848,-161.69739,mckinley_nome,1.0
+384,St Michael MF,monogenetic cone,63.3209,-161.70766,mckinley_nome,1.0
+383,St Michael MF,monogenetic cone,63.3166,-161.70884,mckinley_nome,1.5
+382,St Michael MF,monogenetic cone,63.31612,-161.72148,mckinley_nome,1.6
+885,St Michael MF,monogenetic cone,63.2202,-161.729,mckinley_nome,11.9
+884,St Michael MF,monogenetic cone,63.2201,-161.748,mckinley_nome,12.2
+881,St Michael MF,monogenetic cone,63.2561,-161.751,mckinley_nome,8.4
+859,St Michael MF,monogenetic cone,63.3353,-161.752,denali_nome_band,0.0
+882,St Michael MF,monogenetic cone,63.2578,-161.765,mckinley_nome,8.4
+858,St Michael MF,monogenetic cone,63.3218,-161.772,mckinley_nome,1.7
+883,St Michael MF,monogenetic cone,63.2345,-161.79,mckinley_nome,11.3
+857,St Michael MF,monogenetic cone,63.3265,-161.836,mckinley_nome,2.3
+856,St Michael MF,monogenetic cone,63.335,-161.85,mckinley_nome,1.5
+855,St Michael MF,monogenetic cone,63.331,-161.896,mckinley_nome,2.8
+854,St Michael MF,monogenetic cone,63.3377,-161.941,mckinley_nome,2.7
+852,St Michael MF,monogenetic cone,63.3519,-161.941,mckinley_nome,1.4
+853,St Michael MF,monogenetic cone,63.3557,-161.943,mckinley_nome,0.9
+851,St Michael MF,monogenetic cone,63.3421,-161.97,mckinley_nome,2.7
+840,St Michael MF,monogenetic cone,63.3742,-162.035,mckinley_nome,0.4
+839,St Michael MF,monogenetic cone,63.3803,-162.052,denali_nome_band,0.0
+838,St Michael MF,monogenetic cone,63.3908,-162.055,denali_nome_band,0.0
+897,St Michael MF,monogenetic cone,63.3657,-162.084,mckinley_nome,2.1
+896,St Michael MF,monogenetic cone,63.368,-162.093,mckinley_nome,1.9
+895,St Michael MF,monogenetic cone,63.5086,-162.111,denali_nome_band,0.0
+842,St Michael MF,monogenetic cone,63.4732,-162.17,denali_nome_band,0.0
+847,St Michael MF,maar,63.4902,-162.17,denali_nome_band,0.0
+841,St Michael MF,monogenetic cone,63.4758,-162.18,denali_nome_band,0.0
+846,St Michael MF,maar,63.4985,-162.193,denali_nome_band,0.0
+894,St Michael MF,monogenetic cone,63.5137,-162.195,denali_nome_band,0.0
+848,St Michael MF,maar,63.4867,-162.206,denali_nome_band,0.0
+845,St Michael MF,maar,63.503,-162.212,denali_nome_band,0.0
+849,St Michael MF,maar,63.4916,-162.223,denali_nome_band,0.0
+850,St Michael MF,maar,63.492,-162.249,denali_nome_band,0.0
+843,St Michael MF,monogenetic cone,63.5324,-162.253,denali_nome_band,0.0
+893,St Michael MF,monogenetic cone,63.5101,-162.291,denali_nome_band,0.0
+890,St Michael MF,monogenetic cone,63.5478,-162.363,denali_nome_band,0.0
+891,St Michael MF,monogenetic cone,63.5959,-162.386,denali_nome_band,0.0
+892,St Michael MF,monogenetic cone,63.6225,-162.393,denali_nome_band,0.0
+844,St Michael MF,shield,63.5967,-162.44,denali_nome_band,0.0
+887,St Michael MF,monogenetic cone,63.5542,-162.448,denali_nome_band,0.0
+888,St Michael MF,monogenetic cone,63.551,-162.508,denali_nome_band,0.0
+889,St Michael MF,monogenetic cone,63.5514,-162.562,denali_nome_band,0.0
+388,St Michael MF,monogenetic cone,63.59055,-162.60989,denali_nome_band,0.0
+389,St Michael MF,monogenetic cone,63.59232,-162.62033,denali_nome_band,0.0
+886,St Michael MF,monogenetic cone,63.5973,-162.652,denali_nome_band,0.0
+906,Imuruk MF,monogenetic cone,65.4762,-163.055,mckinley_nome,37.1
+905,Imuruk MF,monogenetic cone,65.4792,-163.059,mckinley_nome,37.5
+904,Imuruk MF,monogenetic cone,65.5922,-163.063,mckinley_nome,50.0
+900,Imuruk MF,stratovolcano,65.5391,-163.147,mckinley_nome,44.6
+908,Imuruk MF,monogenetic cone,65.4514,-163.149,mckinley_nome,35.0
+907,Imuruk MF,monogenetic cone,65.4515,-163.228,mckinley_nome,35.5
+899,Imuruk MF,stratovolcano,65.4737,-163.247,mckinley_nome,38.1
+902,Imuruk MF,shield,65.4122,-163.259,mckinley_nome,31.4
+901,Imuruk MF,shield,65.4107,-163.267,mckinley_nome,31.3
+909,Imuruk MF,vent,65.3925,-163.292,mckinley_nome,29.4
+390,Imuruk MF,cone,65.4873,-163.29772,mckinley_nome,39.9
+391,Imuruk MF,cone,65.53387,-163.38996,mckinley_nome,45.7
+903,Imuruk MF,shield,65.5957,-163.411,mckinley_nome,52.7
+910,Imuruk MF,monogenetic cone,65.4388,-163.636,mckinley_nome,37.2
+953,Ingakslugwat MF,cone,61.5556,-163.779,mckinley_nome,221.1
+914,Ungulungwak Hill-Ingrichuak Hill,shield,62.1763,-164.094,mckinley_nome,161.3
+911,Ungulungwak Hill-Ingrichuak Hill,shield,62.2651,-164.243,mckinley_nome,154.8
+912,Ungulungwak Hill-Ingrichuak Hill,shield,62.2044,-164.296,mckinley_nome,162.1
+1140,Kochilagok Hill,vent,61.63446,-164.36676,mckinley_nome,222.9
+1144,Kochilagok Hill,vent,61.62688,-164.37259,mckinley_nome,223.8
+1145,Kochilagok Hill,vent,61.61919,-164.40673,mckinley_nome,225.2
+913,Ungulungwak Hill-Ingrichuak Hill,shield,62.1177,-164.554,mckinley_nome,176.0
+1146,Nushkolik Mtn,cone,61.55096,-164.9035,mckinley_nome,241.5
+1141,Nushkolik Mtn,shield,61.55096,-164.93,mckinley_nome,242.0
+968,Ingrisarak Mtn,monogenetic cone,61.5153,-165.256,mckinley_nome,252.0
+10,Wrangell,vent,62.00287,-143.99406,near,91.2
+9,Wrangell,shield,62.00572,-144.01935,near,90.2
+535,Sanford,vent,62.1627,-144.05,near,98.7
+11,Wrangell,vent,62.04476,-144.06522,near,90.4
+12,Wrangell,vent,61.991,-144.07629,near,86.8
+567,Wrangell,cone,62.0384,-144.113,near,87.9
+569,Sanford,shield,62.2133,-144.13,near,99.3
+532,Sanford,vent,62.1657,-144.131,near,95.7
+537,Wrangell,fissure,62.0197,-144.148,near,85.3
+531,Sanford,vent,62.2442,-144.195,near,99.3
+566,Wrangell,stratovolcano remnant,61.9495,-144.222,near,77.9
+529,Sanford,vent,62.2268,-144.309,near,93.8
+534,Sanford,vent,62.2096,-144.31,near,92.3
+533,Sanford,vent,62.2289,-144.332,near,93.2
+528,WWMF,vent,62.1475,-144.408,near,83.8
+536,Drum,dome,62.1233,-144.511,near,78.2
+545,Drum,dome,62.06,-144.511,near,73.1
+539,Drum,dome,62.1575,-144.512,near,81.0
+544,Drum,dome,62.1214,-144.523,near,77.6
+549,Drum,dome,62.0402,-144.534,near,70.7
+543,Drum,dome,62.1716,-144.547,near,81.1
+547,Drum,dome,62.0855,-144.549,near,73.7
+540,Drum,dome,62.1465,-144.559,near,78.5
+546,Drum,dome,62.1105,-144.568,near,75.1
+541,Drum,dome,62.0769,-144.585,near,71.7
+550,Drum,dome,62.1384,-144.593,near,76.7
+548,Drum,dome,62.0696,-144.612,near,70.2
+538,Drum,dome,62.1673,-144.616,near,78.5
+573,Drum,dome,62.0695,-144.632,near,69.5
+571,Drum,stratovolcano,62.1159,-144.64,near,73.2
+542,Drum,dome,62.0609,-144.654,near,68.0
+572,Drum,dome,62.0895,-144.762,near,67.0

@@ -1,0 +1,13 @@
+check,value,note
+regional_q_at_1_hz,220.0,
+regional_q_at_2_hz,347.618177219886,
+fast_rows,69.0,
+fast_rows_standing_central,1.0,CUT
+fast_rows_standing_high,1.0,CUT
+fast_rows_standing_low,0.0,
+fast_standing_margin_percent,0.8425646774220086,the largest margin among the rows that stand
+fast_standing_q_least,344.713741,
+fast_standing_q_regional,347.618177219886,
+fast_bounds_standing_central,1.0,
+fast_bounds_standing_high,1.0,
+bounds,35.0,

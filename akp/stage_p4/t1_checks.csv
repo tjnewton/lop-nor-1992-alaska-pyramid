@@ -1,0 +1,43 @@
+check,value,ok
+"frozen threshold (p2e_cut.csv, t)",0.78,True
+"frozen cut (p2e_vintage.frozen_cut, c)",0.482691303966505,True
+control flags per km2 at the threshold,0.0007181663776046996,True
+"ring starts beyond the published plan's corner, m to spare",53.17953139973977,True
+"route equals frozen score_plant, rotation 0: score, statistic","0.9789, 0.9756",True
+"route equals frozen score_plant, rotation 20: score, statistic","0.9591, 1.0375",True
+planting leaves score_plant unchanged for its own shape,True,True
+planting turns as faceted_template does: correlation at 20 deg,0.99999,True
+"score change when the planted height doubles, clean ground",0.0,True
+score change between rotations 10 and 80 deg (mirror about 45),4.440892098500626e-16,True
+"join: largest difference from the block mean of the whole, m",0.0,True
+join: cells without data (the hole),64,True
+"center rule: distance from the true center, m",2.31,True
+void rule on the whole site,,True
+void rule with one empty cell inside the radius,a cell without data within the void radius,True
+void rule with the grid ending inside the radius,a cell without data within the void radius,True
+site: best score at base 50 inside the hit radius,0.2965,True
+site: best score at base 100 inside the hit radius,0.2951,True
+site: best score at base 200 inside the hit radius,0.9298,True
+site: best score at base 400 inside the hit radius,0.496,True
+site: stage-two statistic of the hit's anomaly,0.3237,True
+site: best flag of any base leads to the same anomaly,True,True
+site: flags at or above the threshold beyond the exclusion radius,0,True
+site: expected there at the control rate,0.004981614940733319,True
+site: reading,hit and removed,True
+"blocked flags equal whole-grid flags, scores down to 0 (flags)",3643,True
+"relief: height recovered, m (true height in the constants)",21.68,True
+"relief: largest value on the border, m",0.0,True
+"Alaska: frozen trials of base 213, height 16 reproduced exactly (trials)",24,True
+Alaska: seconds per trial,0.55,True
+Alaska: same windows as the frozen trials,True,True
+"Alaska: frozen pyramid at or above the threshold, on these windows",11,True
+Alaska: relief-route pyramid at or above the threshold,11,True
+Alaska: frozen pyramid kept through both stages,5,True
+Alaska: relief-route pyramid kept through both stages,5,True
+Alaska: trials with the same outcome through both stages,24,True
+Alaska: largest score difference where both are flagged,0.0008223392251143213,True
+"Alaska: frozen pyramid, frozen summary through the frozen cut, these windows only",0.154,True
+"Alaska: relief-route pyramid, frozen summary through the frozen cut, these windows only",0.154,True
+"Alaska: frozen cell's rate through both stages (all its trials, unweighted)",0.23,True
+"Alaska: relief-route count against that rate, binomial p",1.0,True
+"peak memory of this run, GB",1.78,True

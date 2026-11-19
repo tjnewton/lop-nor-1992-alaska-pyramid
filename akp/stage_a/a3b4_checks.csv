@@ -1,0 +1,16 @@
+check,value,passed
+weak_rg_max_rel_err,0.127,True
+rayleigh_speed_exact_ms,1026.38,
+rayleigh_speed_fd_max_rel_err,0.0069,True
+max_r_star_rg_km_vp_850,5.137,
+far_field_at_max_r_star_rg_vp_850,1,
+max_box_frac_rg_recorders_vp_850,0.0002,
+max_box_frac_rg_operating_vp_850,0.002,
+max_r_star_rg_km_vp_1200,5.973,
+far_field_at_max_r_star_rg_vp_1200,1,
+max_box_frac_rg_recorders_vp_1200,0.0007,True
+max_box_frac_rg_operating_vp_1200,0.0035,True
+max_r_star_rg_km_vp_1500,5.984,
+far_field_at_max_r_star_rg_vp_1500,1,
+max_box_frac_rg_recorders_vp_1500,0.0007,
+max_box_frac_rg_operating_vp_1500,0.0035,

@@ -1,0 +1,37 @@
+check,value,detail
+R5_incident_peak_min_over_max_1-2,0.7666369795208448,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R5_incident_window_peak_over_record_peak_min_1-2,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R5_incident_peak_min_over_max_2-4,0.8460391362521771,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R5_incident_window_peak_over_record_peak_min_2-4,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R5_twin_run_seconds,20533.6,142 Mpts/s
+R5_twin_peak_rss_gb,12.14,budget 20.6 GB
+R5_twin_field_left_over_incident_peak,0.12070281356433687,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+R5_twin_receivers_last_half_second_over_incident_peak,0.05030597383917677,
+R5_body_run_seconds,19621.2,149 Mpts/s
+R5_body_peak_rss_gb,12.56,budget 20.6 GB
+R5_body_field_left_over_incident_peak,0.1287731712615075,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+R5_body_receivers_last_half_second_over_incident_peak,0.024147791364296123,
+R5_grid_shape,897x453x213,"h 4.641132861404955 m, sponge 60 cells, mirror plane y = 0; 86.6M points"
+R5_time_step_s,0.00030300178497734745,33768 steps
+R5_points_per_rayleigh_wavelength_at_top,15.4,host Rayleigh speed 286 m/s at 4.0 Hz; rule 15.4 (gate three)
+R5_bands_measured,1-2 2-4,the two higher bands; the lowest is not read: its surface wave reaches below the box
+R5_incidence_deg,5.05381159040867,at the surface of the column
+R5_t0_s,0.8488452026228933,incident P at the apex
+R5_window_speeds,5500 3200 300,vp_fast vs_fast vs_slow (m/s)
+R5_settings,fixed settings,every validation passed on them
+R5_share_recomputed_max_relative_difference,0.0,a8_smoothing's unsmoothed share against a8_production.measure
+R5_reading_beyond_1km_either_measure,holds,"36 rows from 1000 m to 1500 m, two bands, three azimuths: 36 support, 0 untested, 0 break (a row breaks if either measure breaks)"
+R5_largest_share_over_median_beyond_1km,0.6373581937581906,"unsmoothed, committed medians"
+R5_largest_share_over_lowest_median_beyond_1km,0.6935172564161032,reported beside it: the lowest medians
+R5_edge_wave_delay_at_body_top_s,0.543,"by ray times in the column, after the plane wave"
+R5_rows_with_edge_flag,90,"of 90; a8_generous's rule with the column's times; the bracket decides, not the flag"
+R5_bracket_assumption,,the bracket assumes that the edge wave scatters as efficiently as the plane wave
+R5_edge_level_L_1-2,0.48926814451402756,forward 100 m: 0.427; backward 100 m: 0.137; perpendicular 100 m: 0.159; under the origin at the depth of the body's top: 0.489
+R5_edge_level_L_2-4,0.22627999831332038,forward 100 m: 0.226; backward 100 m: 0.120; perpendicular 100 m: 0.118; under the origin at the depth of the body's top: 0.152
+R5_incident_peak_term_L_r_largest_1-2,0.19014800147918287,over the receivers
+R5_incident_peak_term_L_r_largest_2-4,0.13650249435684425,over the receivers
+R5_fundamental_mode_1hz_phase_and_group_speed_ms,661.7 325.7,"a8_reference1d, by the determinant"
+R5_fundamental_mode_1.5hz_phase_and_group_speed_ms,470.1 306.3,"a8_reference1d, by the determinant"
+R5_fundamental_mode_2hz_phase_and_group_speed_ms,423.1 342.0,"a8_reference1d, by the determinant"
+R5_fundamental_mode_3hz_phase_and_group_speed_ms,398.2 362.4,"a8_reference1d, by the determinant"
+R5_fundamental_mode_4hz_phase_and_group_speed_ms,387.3 349.8,"a8_reference1d, by the determinant"

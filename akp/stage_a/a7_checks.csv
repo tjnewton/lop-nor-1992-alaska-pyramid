@@ -1,0 +1,38 @@
+check,value,of,ok,note
+self_check_synthetic_scatterer_recovered_at_its_cell,1,1,True,asserts in self_check()
+teleseisms_passing_source_rule,133,147,,"deep >= 300 km, M 6.0-6.8, 30-95 deg; of = before the isolation rule"
+teleseisms_fetched,60,60,,"largest first, after the pP rule"
+events_used,33,,True,three DPRK tests plus teleseisms; source groups: 12
+kill_0.5-1_events_with_peak_above_null_max,20,33,True,kill fires at 0; chance expects 4.7; P(>= 20 by chance) = 1.08e-09
+kill_0.5-1_fired,0,,True,
+exceed_frac_median_0.5-1,0.0191403,0.01,,share of cell-windows above the threshold; of = the null's share by construction
+late_0.5-1_events_with_peak_above_null_max,11,33,,windows at lag >= 15 s only; chance expects 4.7; P(>= 11 by chance) = 0.00465
+peak_in_pwin_cell_0.5-1,1,33,,events whose coda peak lies in the resolution cell of the P-window control's peak
+lag_max_s_0.5-1,37.1569,60,,latest window that maps inside the grid; later windows up to `of` map beyond it
+kill_1-2_events_with_peak_above_null_max,8,33,True,kill fires at 0; chance expects 4.7; P(>= 8 by chance) = 0.0888
+kill_1-2_fired,0,,True,
+exceed_frac_median_1-2,0.011742,0.01,,share of cell-windows above the threshold; of = the null's share by construction
+late_1-2_events_with_peak_above_null_max,10,33,,windows at lag >= 15 s only; chance expects 4.7; P(>= 10 by chance) = 0.0141
+peak_in_pwin_cell_1-2,0,33,,events whose coda peak lies in the resolution cell of the P-window control's peak
+lag_max_s_1-2,37.1569,60,,latest window that maps inside the grid; later windows up to `of` map beyond it
+blasts_coherent_0.5-1,9,11,,peak semblance above the largest pre-origin noise value
+blast_err_km_median_0.5-1,9.3502,,,coherent blasts
+blast_err_km_max_0.5-1,35.7462,,,coherent blasts
+blasts_within_one_cell_0.5-1,2,9,,catalog location inside the synthetic resolution cell around the image peak
+blasts_coherent_1-2,8,11,,peak semblance above the largest pre-origin noise value
+blast_err_km_median_1-2,16.3689,,,coherent blasts
+blast_err_km_max_1-2,36.3449,,,coherent blasts
+blasts_within_one_cell_1-2,2,8,,catalog location inside the synthetic resolution cell around the image peak
+scatterers_design_0.5-1,63,,,clusters with peaks from >= 2 source groups
+scatterers_design_on_null_maps_0.5-1,63.5,,,"same rule, mean over 6 null sets; per set: [48, 52, 54, 81, 72, 74]"
+scatterers_design_above_null_0.5-1,0,,,more source groups than any null cluster (11)
+scatterers_strongest_peak_0.5-1,5,,,clusters with peaks from >= 2 source groups
+scatterers_strongest_peak_on_null_maps_0.5-1,6,,,"same rule, mean over 6 null sets; per set: [6, 6, 6, 5, 7, 6]"
+scatterers_strongest_peak_above_null_0.5-1,0,,,more source groups than any null cluster (7)
+scatterers_design_1-2,164,,,clusters with peaks from >= 2 source groups
+scatterers_design_on_null_maps_1-2,168.833,,,"same rule, mean over 6 null sets; per set: [165, 161, 169, 168, 171, 179]"
+scatterers_design_above_null_1-2,2,,,more source groups than any null cluster (10)
+scatterers_strongest_peak_1-2,6,,,clusters with peaks from >= 2 source groups
+scatterers_strongest_peak_on_null_maps_1-2,4,,,"same rule, mean over 6 null sets; per set: [6, 4, 5, 2, 4, 3]"
+scatterers_strongest_peak_above_null_1-2,0,,,more source groups than any null cluster (5)
+fetch_bytes,3.54556e+07,1e+09,True,a7 cache plus the three DPRK windows reused from a6

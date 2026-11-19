@@ -1,0 +1,20 @@
+target,description,sensor,sees_it,prior_under_data,searched_at_budget,peak_mgal,drape_bound_sand_m,relief_tested_m,pd_terrain_at_drape_bound_low,pd_terrain_at_drape_bound_high,searched_at_lead_low,searched_at_lead_high,leads,expected_lookalikes
+T1,felsic stone,magnetics,partly,,,,,,,,,,,
+T1,felsic stone,helicopter EM,no,,,,,,,,,,,
+T1,felsic stone,gravity stations,yes,0.00487,0.0,0.711,,,,,,,,
+T1,felsic stone,terrain drape,yes,,,,5.62,4.0,0.0,0.01,,,,
+T1,felsic stone,seismic stations,yes,0.019998,0.0,,,,,,,,,
+T2,mafic stone,magnetics,yes,0.2176,0.0,,,,,,0.1187,0.1604,9381.0,12484.7
+T2,mafic stone,helicopter EM,no,,,,,,,,,,,
+T2,mafic stone,gravity stations,yes,0.00781,0.0,1.1,,,,,,,,
+T2,mafic stone,terrain drape,yes,,,,5.62,4.0,0.0,0.01,,,,
+T2,mafic stone,seismic stations,yes,0.019998,0.0,,,,,,,,,
+T3,conductor in frozen ground,magnetics,no,,,,,,,,,,,
+T3,conductor in frozen ground,helicopter EM,yes,0.0192,0.0,,,,,,0.0098,0.0156,4609.0,4663.5
+T4,resistive body in conductive ground,magnetics,no,,,,,,,,,,,
+T4,resistive body in conductive ground,helicopter EM,no,,,,,,,,,,,
+T5,hollow,magnetics,no,,,,,,,,,,,
+T5,hollow,helicopter EM,no,,,,,,,,,,,
+T5,hollow,gravity stations,yes,0.01449,0.0,-2.221,,,,,,,,
+T5,hollow,terrain drape,yes,,,,5.62,4.0,0.0,0.01,,,,
+T5,hollow,seismic stations,not simulated,,,,,,,,,,,

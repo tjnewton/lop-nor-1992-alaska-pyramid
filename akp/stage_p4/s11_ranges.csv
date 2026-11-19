@@ -1,0 +1,21 @@
+quantity,case,azimuth,range_m,band,share,share_smoothed,edge_flag,ratio,median_coda,rayleigh_speed_ms,center_hz,q,note
+range_median_coda,R5,forward,800,2-4,0.217089,0.239851,True,0.295529,0.290961,,3,100,largest range with ratio at or above the median coda level; 1 rows reach it there: R5 2-4
+range_last_receiver,R2,forward,3000,2-4,0.11217,0.114284,False,0.114284,0.290961,615.8,3,100,"the last receiver of every case but R5, which stops at 1.5 km; the row shown has the largest ratio there"
+bound_start,R2,forward,3000,2-4,0.11217,0.114284,False,0.114284,0.290961,615.8,3,100,"The largest ratio at the last receiver with no edge-wave flag, over cases, bands and azimuths"
+last_unflagged_receiver,R1,backward,3000,0.5-1,0.008852,0.008858,False,0.008858,0.303754,436.2,0.75,100,largest of the three azimuths
+last_unflagged_receiver,R1,forward,3000,1-2,0.054957,0.057714,False,0.057714,0.20559,436.2,1.5,100,largest of the three azimuths
+last_unflagged_receiver,R1,forward,3000,2-4,0.065161,0.070126,False,0.070126,0.290961,436.2,3,100,largest of the three azimuths
+last_unflagged_receiver,R2,forward,3000,1-2,0.041133,0.042013,False,0.042013,0.20559,615.8,1.5,100,largest of the three azimuths
+last_unflagged_receiver,R2,forward,3000,2-4,0.11217,0.114284,False,0.114284,0.290961,615.8,3,100,largest of the three azimuths
+last_unflagged_receiver,R3,forward,3000,1-2,0.01987,0.019913,False,0.019913,0.20559,615.8,1.5,100,largest of the three azimuths
+last_unflagged_receiver,R3,forward,3000,2-4,0.079736,0.082261,False,0.082261,0.290961,615.8,3,100,largest of the three azimuths
+last_unflagged_receiver,R4,backward,1700,0.5-1,0.024578,0.024829,False,0.024829,0.303754,285.8,0.75,100,largest of the three azimuths
+last_unflagged_receiver,R4,forward,3000,1-2,0.062331,0.065173,False,0.065173,0.20559,285.8,1.5,100,largest of the three azimuths
+last_unflagged_receiver,frozen_1200,forward,3000,1-2,0.007429,0.007957,False,0.007957,0.20559,,1.5,100,"largest of the three azimuths; frozen ground: no Q, no speed tabled"
+last_unflagged_receiver,frozen_1200,forward,3000,2-4,0.004524,0.005831,False,0.005831,0.290961,,3,100,"largest of the three azimuths; frozen ground: no Q, no speed tabled"
+last_unflagged_receiver,frozen_850,backward,3000,0.5-1,0.009471,0.009515,False,0.009515,0.303754,,0.75,100,"largest of the three azimuths; frozen ground: no Q, no speed tabled"
+last_unflagged_receiver,frozen_850,forward,3000,1-2,0.005166,0.005474,False,0.005474,0.20559,,1.5,100,"largest of the three azimuths; frozen ground: no Q, no speed tabled"
+last_unflagged_receiver,thawed_1200,forward,3000,1-2,0.020032,0.021159,False,0.021159,0.20559,615.8,1.5,100,largest of the three azimuths
+last_unflagged_receiver,thawed_1200,forward,3000,2-4,0.074349,0.077302,False,0.077302,0.290961,615.8,3,100,largest of the three azimuths
+last_unflagged_receiver,thawed_850,backward,3000,0.5-1,0.009221,0.009264,False,0.009264,0.303754,436.2,0.75,100,largest of the three azimuths
+last_unflagged_receiver,thawed_850,forward,3000,1-2,0.055291,0.057984,False,0.057984,0.20559,436.2,1.5,100,largest of the three azimuths

@@ -1,0 +1,253 @@
+box,band,lag,level,way,n_usable,n,n_under_noise_rule,min,p05,median,p05_upper_limit,median_upper_limit,col1992,col1992_valid,col1992_noise_ratio
+mckinley_nome,1-2,5-15,as measured,valid,136,131,0,0.078207,0.099966,0.20559,False,False,0.072422,True,0.000404
+mckinley_nome,1-2,5-15,as measured,all,136,136,5,0.078207,0.100249,0.206313,False,False,0.072422,True,0.000404
+mckinley_nome,1-2,5-15,as measured,high_snr,136,113,0,0.078207,0.098853,0.187453,False,False,0.072422,True,0.000404
+mckinley_nome,1-2,5-15,clean,valid,136,131,0,0.078207,0.099966,0.20559,False,False,0.072422,True,0.000404
+mckinley_nome,1-2,5-15,clean,all,136,136,5,0.078207,0.100249,0.206313,False,False,0.072422,True,0.000404
+mckinley_nome,1-2,5-15,clean,high_snr,136,113,0,0.078207,0.098853,0.187453,False,False,0.072422,True,0.000404
+mckinley_nome,1-2,15-30,as measured,valid,136,127,0,0.035637,0.0622,0.153777,False,False,0.052459,True,0.000404
+mckinley_nome,1-2,15-30,as measured,all,136,136,9,0.035637,0.063025,0.154949,False,False,0.052459,True,0.000404
+mckinley_nome,1-2,15-30,as measured,high_snr,136,113,0,0.035637,0.061394,0.140933,False,False,0.052459,True,0.000404
+mckinley_nome,1-2,15-30,clean,valid,136,127,0,0.035637,0.0622,0.153777,False,False,0.052459,True,0.000404
+mckinley_nome,1-2,15-30,clean,all,136,136,9,0.035637,0.063025,0.154949,False,False,0.052459,True,0.000404
+mckinley_nome,1-2,15-30,clean,high_snr,136,113,0,0.035637,0.061394,0.140933,False,False,0.052459,True,0.000404
+mckinley_nome,1-2,30-60,as measured,valid,136,117,0,0.014522,0.033588,0.082549,False,False,0.042891,True,0.000404
+mckinley_nome,1-2,30-60,as measured,all,136,136,19,0.014522,0.034546,0.086858,False,False,0.042891,True,0.000404
+mckinley_nome,1-2,30-60,as measured,high_snr,136,113,2,0.014522,0.033142,0.080038,False,False,0.042891,True,0.000404
+mckinley_nome,1-2,30-60,clean,valid,136,117,0,0.014522,0.033588,0.082549,False,False,0.042891,True,0.000404
+mckinley_nome,1-2,30-60,clean,all,136,136,19,0.014522,0.034546,0.086858,False,False,0.042891,True,0.000404
+mckinley_nome,1-2,30-60,clean,high_snr,136,113,2,0.014522,0.033142,0.080038,False,False,0.042891,True,0.000404
+mckinley_nome,1-2,60-120,as measured,valid,136,106,0,0.009638,0.021805,0.050731,False,False,0.015074,True,0.000404
+mckinley_nome,1-2,60-120,as measured,all,136,136,30,0.009638,0.022227,0.055471,False,False,0.015074,True,0.000404
+mckinley_nome,1-2,60-120,as measured,high_snr,136,113,10,0.009638,0.021933,0.050622,False,False,0.015074,True,0.000404
+mckinley_nome,1-2,60-120,clean,valid,136,94,0,0.008857,0.018473,0.049822,False,False,0.015074,True,0.000404
+mckinley_nome,1-2,60-120,clean,all,136,122,28,0.008857,0.019146,0.05435,False,False,0.015074,True,0.000404
+mckinley_nome,1-2,60-120,clean,high_snr,136,104,12,0.008857,0.018737,0.049093,False,False,0.015074,True,0.000404
+mckinley_nome,1-2,120-240,as measured,valid,136,64,0,0.003075,0.005567,0.016449,False,False,0.006687,True,0.000404
+mckinley_nome,1-2,120-240,as measured,all,136,136,72,0.003075,0.00671,0.021166,True,True,0.006687,True,0.000404
+mckinley_nome,1-2,120-240,as measured,high_snr,136,113,49,0.003075,0.006428,0.01859,True,False,0.006687,True,0.000404
+mckinley_nome,1-2,120-240,clean,valid,136,0,0,,,,,,0.006687,True,0.000404
+mckinley_nome,1-2,120-240,clean,all,136,0,0,,,,,,0.006687,True,0.000404
+mckinley_nome,1-2,120-240,clean,high_snr,136,0,0,,,,,,0.006687,True,0.000404
+mckinley_nome,1-2,240-480,as measured,valid,136,36,0,0.000834,0.001542,0.003768,False,False,0.002022,True,0.000404
+mckinley_nome,1-2,240-480,as measured,all,136,136,100,0.000834,0.002081,0.010276,False,True,0.002022,True,0.000404
+mckinley_nome,1-2,240-480,as measured,high_snr,136,113,77,0.000834,0.00199,0.008767,False,True,0.002022,True,0.000404
+mckinley_nome,1-2,240-480,clean,valid,136,0,0,,,,,,0.002022,True,0.000404
+mckinley_nome,1-2,240-480,clean,all,136,0,0,,,,,,0.002022,True,0.000404
+mckinley_nome,1-2,240-480,clean,high_snr,136,0,0,,,,,,0.002022,True,0.000404
+mckinley_nome,1-2,480-570,as measured,valid,136,21,0,0.000531,0.000805,0.002565,False,False,0.000974,True,0.000404
+mckinley_nome,1-2,480-570,as measured,all,136,136,115,0.000531,0.001453,0.010051,False,True,0.000974,True,0.000404
+mckinley_nome,1-2,480-570,as measured,high_snr,136,113,93,0.000531,0.001406,0.007808,True,True,0.000974,True,0.000404
+mckinley_nome,1-2,480-570,clean,valid,136,0,0,,,,,,0.000974,True,0.000404
+mckinley_nome,1-2,480-570,clean,all,136,0,0,,,,,,0.000974,True,0.000404
+mckinley_nome,1-2,480-570,clean,high_snr,136,0,0,,,,,,0.000974,True,0.000404
+mckinley_nome,2-4,5-15,as measured,valid,107,103,0,0.074811,0.100225,0.290961,False,False,0.104445,True,0.00304
+mckinley_nome,2-4,5-15,as measured,all,107,107,4,0.074811,0.103141,0.290743,False,False,0.104445,True,0.00304
+mckinley_nome,2-4,5-15,as measured,high_snr,107,72,0,0.074811,0.090647,0.252441,False,False,0.104445,True,0.00304
+mckinley_nome,2-4,5-15,clean,valid,107,103,0,0.074811,0.100225,0.290961,False,False,0.104445,True,0.00304
+mckinley_nome,2-4,5-15,clean,all,107,107,4,0.074811,0.103141,0.290743,False,False,0.104445,True,0.00304
+mckinley_nome,2-4,5-15,clean,high_snr,107,72,0,0.074811,0.090647,0.252441,False,False,0.104445,True,0.00304
+mckinley_nome,2-4,15-30,as measured,valid,107,98,0,0.032746,0.06698,0.218641,False,False,0.08207,True,0.00304
+mckinley_nome,2-4,15-30,as measured,all,107,107,9,0.032746,0.068742,0.218225,False,False,0.08207,True,0.00304
+mckinley_nome,2-4,15-30,as measured,high_snr,107,72,0,0.032746,0.059915,0.196479,False,False,0.08207,True,0.00304
+mckinley_nome,2-4,15-30,clean,valid,107,98,0,0.032746,0.06698,0.218641,False,False,0.08207,True,0.00304
+mckinley_nome,2-4,15-30,clean,all,107,107,9,0.032746,0.068742,0.218225,False,False,0.08207,True,0.00304
+mckinley_nome,2-4,15-30,clean,high_snr,107,72,0,0.032746,0.059915,0.196479,False,False,0.08207,True,0.00304
+mckinley_nome,2-4,30-60,as measured,valid,107,85,0,0.015508,0.02748,0.112767,False,False,0.047084,True,0.00304
+mckinley_nome,2-4,30-60,as measured,all,107,107,22,0.015508,0.028874,0.116731,False,False,0.047084,True,0.00304
+mckinley_nome,2-4,30-60,as measured,high_snr,107,72,1,0.015508,0.026263,0.099601,False,False,0.047084,True,0.00304
+mckinley_nome,2-4,30-60,clean,valid,107,85,0,0.015508,0.02748,0.112767,False,False,0.047084,True,0.00304
+mckinley_nome,2-4,30-60,clean,all,107,107,22,0.015508,0.028874,0.116731,False,False,0.047084,True,0.00304
+mckinley_nome,2-4,30-60,clean,high_snr,107,72,1,0.015508,0.026263,0.099601,False,False,0.047084,True,0.00304
+mckinley_nome,2-4,60-120,as measured,valid,107,66,0,0.00615,0.014694,0.058787,False,False,0.022636,True,0.00304
+mckinley_nome,2-4,60-120,as measured,all,107,107,41,0.00615,0.016254,0.070104,False,False,0.022636,True,0.00304
+mckinley_nome,2-4,60-120,as measured,high_snr,107,72,12,0.00615,0.014706,0.052559,False,False,0.022636,True,0.00304
+mckinley_nome,2-4,60-120,clean,valid,107,63,0,0.008381,0.015625,0.063673,False,False,0.022636,True,0.00304
+mckinley_nome,2-4,60-120,clean,all,107,99,36,0.008381,0.01943,0.072362,False,True,0.022636,True,0.00304
+mckinley_nome,2-4,60-120,clean,high_snr,107,70,12,0.008381,0.015985,0.055531,False,False,0.022636,True,0.00304
+mckinley_nome,2-4,120-240,as measured,valid,107,21,0,0.001452,0.00343,0.009176,False,False,0.006713,True,0.00304
+mckinley_nome,2-4,120-240,as measured,all,107,107,86,0.001452,0.00478,0.034828,True,True,0.006713,True,0.00304
+mckinley_nome,2-4,120-240,as measured,high_snr,107,72,52,0.001452,0.004398,0.02354,True,False,0.006713,True,0.00304
+mckinley_nome,2-4,120-240,clean,valid,107,0,0,,,,,,0.006713,True,0.00304
+mckinley_nome,2-4,120-240,clean,all,107,0,0,,,,,,0.006713,True,0.00304
+mckinley_nome,2-4,120-240,clean,high_snr,107,0,0,,,,,,0.006713,True,0.00304
+mckinley_nome,2-4,240-480,as measured,valid,107,0,0,,,,,,0.00366,False,0.00304
+mckinley_nome,2-4,240-480,as measured,all,107,107,107,0.000728,0.00233,0.027036,True,True,0.00366,False,0.00304
+mckinley_nome,2-4,240-480,as measured,high_snr,107,72,72,0.000728,0.002017,0.015965,True,True,0.00366,False,0.00304
+mckinley_nome,2-4,240-480,clean,valid,107,0,0,,,,,,0.00366,False,0.00304
+mckinley_nome,2-4,240-480,clean,all,107,0,0,,,,,,0.00366,False,0.00304
+mckinley_nome,2-4,240-480,clean,high_snr,107,0,0,,,,,,0.00366,False,0.00304
+mckinley_nome,2-4,480-570,as measured,valid,107,5,0,0.003559,0.009091,0.034806,False,False,0.003285,False,0.00304
+mckinley_nome,2-4,480-570,as measured,all,107,107,102,0.000766,0.002611,0.032157,True,True,0.003285,False,0.00304
+mckinley_nome,2-4,480-570,as measured,high_snr,107,72,68,0.000766,0.002336,0.016876,True,True,0.003285,False,0.00304
+mckinley_nome,2-4,480-570,clean,valid,107,0,0,,,,,,0.003285,False,0.00304
+mckinley_nome,2-4,480-570,clean,all,107,0,0,,,,,,0.003285,False,0.00304
+mckinley_nome,2-4,480-570,clean,high_snr,107,0,0,,,,,,0.003285,False,0.00304
+valdez,1-2,5-15,as measured,valid,9,6,0,0.1236,0.173296,0.337633,False,False,0.072422,True,0.000404
+valdez,1-2,5-15,as measured,all,9,9,3,0.1236,0.126001,0.322382,True,False,0.072422,True,0.000404
+valdez,1-2,5-15,as measured,high_snr,9,4,0,0.1236,0.154727,0.337633,False,False,0.072422,True,0.000404
+valdez,1-2,5-15,clean,valid,9,6,0,0.1236,0.173296,0.337633,False,False,0.072422,True,0.000404
+valdez,1-2,5-15,clean,all,9,9,3,0.1236,0.126001,0.322382,True,False,0.072422,True,0.000404
+valdez,1-2,5-15,clean,high_snr,9,4,0,0.1236,0.154727,0.337633,False,False,0.072422,True,0.000404
+valdez,1-2,15-30,as measured,valid,9,6,0,0.086132,0.108811,0.224462,False,False,0.052459,True,0.000404
+valdez,1-2,15-30,as measured,all,9,9,3,0.086132,0.096295,0.217056,True,False,0.052459,True,0.000404
+valdez,1-2,15-30,as measured,high_snr,9,4,0,0.086132,0.099739,0.196952,False,False,0.052459,True,0.000404
+valdez,1-2,15-30,clean,valid,9,6,0,0.086132,0.108811,0.224462,False,False,0.052459,True,0.000404
+valdez,1-2,15-30,clean,all,9,9,3,0.086132,0.096295,0.217056,True,False,0.052459,True,0.000404
+valdez,1-2,15-30,clean,high_snr,9,4,0,0.086132,0.099739,0.196952,False,False,0.052459,True,0.000404
+valdez,1-2,30-60,as measured,valid,9,4,0,0.037694,0.047021,0.102097,False,False,0.042891,True,0.000404
+valdez,1-2,30-60,as measured,all,9,9,5,0.037694,0.050273,0.104318,True,False,0.042891,True,0.000404
+valdez,1-2,30-60,as measured,high_snr,9,4,0,0.037694,0.047021,0.102097,False,False,0.042891,True,0.000404
+valdez,1-2,30-60,clean,valid,9,4,0,0.037694,0.047021,0.102097,False,False,0.042891,True,0.000404
+valdez,1-2,30-60,clean,all,9,9,5,0.037694,0.050273,0.104318,True,False,0.042891,True,0.000404
+valdez,1-2,30-60,clean,high_snr,9,4,0,0.037694,0.047021,0.102097,False,False,0.042891,True,0.000404
+valdez,1-2,60-120,as measured,valid,9,4,0,0.022597,0.029814,0.075268,False,False,0.015074,True,0.000404
+valdez,1-2,60-120,as measured,all,9,9,5,0.022597,0.041843,0.084087,False,False,0.015074,True,0.000404
+valdez,1-2,60-120,as measured,high_snr,9,4,0,0.022597,0.029814,0.075268,False,False,0.015074,True,0.000404
+valdez,1-2,60-120,clean,valid,9,0,0,,,,,,0.015074,True,0.000404
+valdez,1-2,60-120,clean,all,9,0,0,,,,,,0.015074,True,0.000404
+valdez,1-2,60-120,clean,high_snr,9,0,0,,,,,,0.015074,True,0.000404
+valdez,1-2,120-240,as measured,valid,9,2,0,0.019768,0.020145,0.02354,False,False,0.006687,True,0.000404
+valdez,1-2,120-240,as measured,all,9,9,7,0.010365,0.014126,0.068427,True,True,0.006687,True,0.000404
+valdez,1-2,120-240,as measured,high_snr,9,4,2,0.010365,0.011775,0.02354,True,False,0.006687,True,0.000404
+valdez,1-2,120-240,clean,valid,9,0,0,,,,,,0.006687,True,0.000404
+valdez,1-2,120-240,clean,all,9,0,0,,,,,,0.006687,True,0.000404
+valdez,1-2,120-240,clean,high_snr,9,0,0,,,,,,0.006687,True,0.000404
+valdez,1-2,240-480,as measured,valid,9,0,0,,,,,,0.002022,True,0.000404
+valdez,1-2,240-480,as measured,all,9,9,9,0.006841,0.007259,0.063126,True,True,0.002022,True,0.000404
+valdez,1-2,240-480,as measured,high_snr,9,4,4,0.006841,0.006997,0.011929,True,True,0.002022,True,0.000404
+valdez,1-2,240-480,clean,valid,9,0,0,,,,,,0.002022,True,0.000404
+valdez,1-2,240-480,clean,all,9,0,0,,,,,,0.002022,True,0.000404
+valdez,1-2,240-480,clean,high_snr,9,0,0,,,,,,0.002022,True,0.000404
+valdez,1-2,480-570,as measured,valid,9,0,0,,,,,,0.000974,True,0.000404
+valdez,1-2,480-570,as measured,all,9,9,9,0.006321,0.006449,0.065201,True,True,0.000974,True,0.000404
+valdez,1-2,480-570,as measured,high_snr,9,4,4,0.006321,0.006369,0.010045,True,True,0.000974,True,0.000404
+valdez,1-2,480-570,clean,valid,9,0,0,,,,,,0.000974,True,0.000404
+valdez,1-2,480-570,clean,all,9,0,0,,,,,,0.000974,True,0.000404
+valdez,1-2,480-570,clean,high_snr,9,0,0,,,,,,0.000974,True,0.000404
+valdez,2-4,5-15,as measured,valid,6,6,0,0.232411,0.235212,0.266867,False,False,0.104445,True,0.00304
+valdez,2-4,5-15,as measured,all,6,6,0,0.232411,0.235212,0.266867,False,False,0.104445,True,0.00304
+valdez,2-4,5-15,as measured,high_snr,6,3,0,0.243616,0.245416,0.261619,False,False,0.104445,True,0.00304
+valdez,2-4,5-15,clean,valid,6,6,0,0.232411,0.235212,0.266867,False,False,0.104445,True,0.00304
+valdez,2-4,5-15,clean,all,6,6,0,0.232411,0.235212,0.266867,False,False,0.104445,True,0.00304
+valdez,2-4,5-15,clean,high_snr,6,3,0,0.243616,0.245416,0.261619,False,False,0.104445,True,0.00304
+valdez,2-4,15-30,as measured,valid,6,5,0,0.154938,0.156144,0.166188,False,False,0.08207,True,0.00304
+valdez,2-4,15-30,as measured,all,6,6,1,0.154938,0.156446,0.177244,False,False,0.08207,True,0.00304
+valdez,2-4,15-30,as measured,high_snr,6,3,0,0.154938,0.155541,0.16097,False,False,0.08207,True,0.00304
+valdez,2-4,15-30,clean,valid,6,5,0,0.154938,0.156144,0.166188,False,False,0.08207,True,0.00304
+valdez,2-4,15-30,clean,all,6,6,1,0.154938,0.156446,0.177244,False,False,0.08207,True,0.00304
+valdez,2-4,15-30,clean,high_snr,6,3,0,0.154938,0.155541,0.16097,False,False,0.08207,True,0.00304
+valdez,2-4,30-60,as measured,valid,6,4,0,0.1269,0.127013,0.128552,False,False,0.047084,True,0.00304
+valdez,2-4,30-60,as measured,all,6,6,2,0.1269,0.127088,0.142194,False,False,0.047084,True,0.00304
+valdez,2-4,30-60,as measured,high_snr,6,3,0,0.127653,0.127832,0.129451,False,False,0.047084,True,0.00304
+valdez,2-4,30-60,clean,valid,6,4,0,0.1269,0.127013,0.128552,False,False,0.047084,True,0.00304
+valdez,2-4,30-60,clean,all,6,6,2,0.1269,0.127088,0.142194,False,False,0.047084,True,0.00304
+valdez,2-4,30-60,clean,high_snr,6,3,0,0.127653,0.127832,0.129451,False,False,0.047084,True,0.00304
+valdez,2-4,60-120,as measured,valid,6,2,0,0.058398,0.059288,0.067299,False,False,0.022636,True,0.00304
+valdez,2-4,60-120,as measured,all,6,6,4,0.05521,0.056007,0.079131,True,True,0.022636,True,0.00304
+valdez,2-4,60-120,as measured,high_snr,6,3,1,0.05521,0.055529,0.058398,True,False,0.022636,True,0.00304
+valdez,2-4,60-120,clean,valid,6,0,0,,,,,,0.022636,True,0.00304
+valdez,2-4,60-120,clean,all,6,0,0,,,,,,0.022636,True,0.00304
+valdez,2-4,60-120,clean,high_snr,6,0,0,,,,,,0.022636,True,0.00304
+valdez,2-4,120-240,as measured,valid,6,0,0,,,,,,0.006713,True,0.00304
+valdez,2-4,120-240,as measured,all,6,6,6,0.028176,0.030731,0.047816,True,True,0.006713,True,0.00304
+valdez,2-4,120-240,as measured,high_snr,6,3,3,0.028176,0.029198,0.038396,True,True,0.006713,True,0.00304
+valdez,2-4,120-240,clean,valid,6,0,0,,,,,,0.006713,True,0.00304
+valdez,2-4,120-240,clean,all,6,0,0,,,,,,0.006713,True,0.00304
+valdez,2-4,120-240,clean,high_snr,6,0,0,,,,,,0.006713,True,0.00304
+valdez,2-4,240-480,as measured,valid,6,0,0,,,,,,0.00366,False,0.00304
+valdez,2-4,240-480,as measured,all,6,6,6,0.021819,0.025549,0.042456,True,True,0.00366,False,0.00304
+valdez,2-4,240-480,as measured,high_snr,6,3,3,0.021819,0.023311,0.036739,True,True,0.00366,False,0.00304
+valdez,2-4,240-480,clean,valid,6,0,0,,,,,,0.00366,False,0.00304
+valdez,2-4,240-480,clean,all,6,0,0,,,,,,0.00366,False,0.00304
+valdez,2-4,240-480,clean,high_snr,6,0,0,,,,,,0.00366,False,0.00304
+valdez,2-4,480-570,as measured,valid,6,0,0,,,,,,0.003285,False,0.00304
+valdez,2-4,480-570,as measured,all,6,6,6,0.023174,0.028173,0.047907,True,True,0.003285,False,0.00304
+valdez,2-4,480-570,as measured,high_snr,6,3,3,0.023174,0.025215,0.04358,True,True,0.003285,False,0.00304
+valdez,2-4,480-570,clean,valid,6,0,0,,,,,,0.003285,False,0.00304
+valdez,2-4,480-570,clean,all,6,0,0,,,,,,0.003285,False,0.00304
+valdez,2-4,480-570,clean,high_snr,6,0,0,,,,,,0.003285,False,0.00304
+mckinley_nome,0.5-1,5-15,as measured,valid,88,87,0,0.12,0.171859,0.303754,False,False,0.138199,True,0.001783
+mckinley_nome,0.5-1,5-15,as measured,all,88,88,1,0.12,0.171899,0.302378,False,False,0.138199,True,0.001783
+mckinley_nome,0.5-1,5-15,as measured,high_snr,88,58,0,0.12,0.168231,0.27335,False,False,0.138199,True,0.001783
+mckinley_nome,0.5-1,5-15,clean,valid,88,87,0,0.12,0.171859,0.303754,False,False,0.138199,True,0.001783
+mckinley_nome,0.5-1,5-15,clean,all,88,88,1,0.12,0.171899,0.302378,False,False,0.138199,True,0.001783
+mckinley_nome,0.5-1,5-15,clean,high_snr,88,58,0,0.12,0.168231,0.27335,False,False,0.138199,True,0.001783
+mckinley_nome,0.5-1,15-30,as measured,valid,88,81,0,0.171744,0.193322,0.300913,False,False,0.098432,True,0.001783
+mckinley_nome,0.5-1,15-30,as measured,all,88,88,7,0.171744,0.194099,0.30182,False,True,0.098432,True,0.001783
+mckinley_nome,0.5-1,15-30,as measured,high_snr,88,58,0,0.171744,0.188711,0.266897,False,False,0.098432,True,0.001783
+mckinley_nome,0.5-1,15-30,clean,valid,88,81,0,0.171744,0.193322,0.300913,False,False,0.098432,True,0.001783
+mckinley_nome,0.5-1,15-30,clean,all,88,88,7,0.171744,0.194099,0.30182,False,True,0.098432,True,0.001783
+mckinley_nome,0.5-1,15-30,clean,high_snr,88,58,0,0.171744,0.188711,0.266897,False,False,0.098432,True,0.001783
+mckinley_nome,0.5-1,30-60,as measured,valid,88,78,0,0.085032,0.130469,0.22063,False,False,0.077752,True,0.001783
+mckinley_nome,0.5-1,30-60,as measured,all,88,88,10,0.085032,0.135395,0.228792,False,False,0.077752,True,0.001783
+mckinley_nome,0.5-1,30-60,as measured,high_snr,88,58,0,0.085032,0.127448,0.206157,False,False,0.077752,True,0.001783
+mckinley_nome,0.5-1,30-60,clean,valid,88,78,0,0.085032,0.130469,0.22063,False,False,0.077752,True,0.001783
+mckinley_nome,0.5-1,30-60,clean,all,88,88,10,0.085032,0.135395,0.228792,False,False,0.077752,True,0.001783
+mckinley_nome,0.5-1,30-60,clean,high_snr,88,58,0,0.085032,0.127448,0.206157,False,False,0.077752,True,0.001783
+mckinley_nome,0.5-1,60-120,as measured,valid,88,64,0,0.064129,0.07233,0.130711,False,False,0.044334,True,0.001783
+mckinley_nome,0.5-1,60-120,as measured,all,88,88,24,0.064129,0.078033,0.150281,False,False,0.044334,True,0.001783
+mckinley_nome,0.5-1,60-120,as measured,high_snr,88,58,0,0.064129,0.071406,0.12357,False,False,0.044334,True,0.001783
+mckinley_nome,0.5-1,60-120,clean,valid,88,62,0,0.056211,0.065002,0.126917,False,False,0.044334,True,0.001783
+mckinley_nome,0.5-1,60-120,clean,all,88,80,18,0.056211,0.066696,0.146476,False,True,0.044334,True,0.001783
+mckinley_nome,0.5-1,60-120,clean,high_snr,88,57,0,0.056211,0.064553,0.11999,False,False,0.044334,True,0.001783
+mckinley_nome,0.5-1,120-240,as measured,valid,88,57,0,0.026871,0.031485,0.057889,False,False,0.032268,True,0.001783
+mckinley_nome,0.5-1,120-240,as measured,all,88,88,31,0.026871,0.032757,0.075571,True,False,0.032268,True,0.001783
+mckinley_nome,0.5-1,120-240,as measured,high_snr,88,58,5,0.026871,0.031538,0.056461,False,False,0.032268,True,0.001783
+mckinley_nome,0.5-1,120-240,clean,valid,88,0,0,,,,,,0.032268,True,0.001783
+mckinley_nome,0.5-1,120-240,clean,all,88,0,0,,,,,,0.032268,True,0.001783
+mckinley_nome,0.5-1,120-240,clean,high_snr,88,0,0,,,,,,0.032268,True,0.001783
+mckinley_nome,0.5-1,240-480,as measured,valid,88,11,0,0.012062,0.014573,0.023898,False,False,0.010392,True,0.001783
+mckinley_nome,0.5-1,240-480,as measured,all,88,88,77,0.011989,0.013861,0.036575,True,True,0.010392,True,0.001783
+mckinley_nome,0.5-1,240-480,as measured,high_snr,88,58,47,0.011989,0.013241,0.024052,True,True,0.010392,True,0.001783
+mckinley_nome,0.5-1,240-480,clean,valid,88,0,0,,,,,,0.010392,True,0.001783
+mckinley_nome,0.5-1,240-480,clean,all,88,0,0,,,,,,0.010392,True,0.001783
+mckinley_nome,0.5-1,240-480,clean,high_snr,88,0,0,,,,,,0.010392,True,0.001783
+mckinley_nome,0.5-1,480-570,as measured,valid,88,0,0,,,,,,0.00544,True,0.001783
+mckinley_nome,0.5-1,480-570,as measured,all,88,88,88,0.006766,0.009605,0.028482,True,True,0.00544,True,0.001783
+mckinley_nome,0.5-1,480-570,as measured,high_snr,88,58,58,0.006766,0.009435,0.018883,True,True,0.00544,True,0.001783
+mckinley_nome,0.5-1,480-570,clean,valid,88,0,0,,,,,,0.00544,True,0.001783
+mckinley_nome,0.5-1,480-570,clean,all,88,0,0,,,,,,0.00544,True,0.001783
+mckinley_nome,0.5-1,480-570,clean,high_snr,88,0,0,,,,,,0.00544,True,0.001783
+valdez,0.5-1,5-15,as measured,valid,3,3,0,0.218777,0.226587,0.296868,False,False,0.138199,True,0.001783
+valdez,0.5-1,5-15,as measured,all,3,3,0,0.218777,0.226587,0.296868,False,False,0.138199,True,0.001783
+valdez,0.5-1,5-15,as measured,high_snr,3,3,0,0.218777,0.226587,0.296868,False,False,0.138199,True,0.001783
+valdez,0.5-1,5-15,clean,valid,3,3,0,0.218777,0.226587,0.296868,False,False,0.138199,True,0.001783
+valdez,0.5-1,5-15,clean,all,3,3,0,0.218777,0.226587,0.296868,False,False,0.138199,True,0.001783
+valdez,0.5-1,5-15,clean,high_snr,3,3,0,0.218777,0.226587,0.296868,False,False,0.138199,True,0.001783
+valdez,0.5-1,15-30,as measured,valid,3,3,0,0.133011,0.138051,0.183404,False,False,0.098432,True,0.001783
+valdez,0.5-1,15-30,as measured,all,3,3,0,0.133011,0.138051,0.183404,False,False,0.098432,True,0.001783
+valdez,0.5-1,15-30,as measured,high_snr,3,3,0,0.133011,0.138051,0.183404,False,False,0.098432,True,0.001783
+valdez,0.5-1,15-30,clean,valid,3,3,0,0.133011,0.138051,0.183404,False,False,0.098432,True,0.001783
+valdez,0.5-1,15-30,clean,all,3,3,0,0.133011,0.138051,0.183404,False,False,0.098432,True,0.001783
+valdez,0.5-1,15-30,clean,high_snr,3,3,0,0.133011,0.138051,0.183404,False,False,0.098432,True,0.001783
+valdez,0.5-1,30-60,as measured,valid,3,3,0,0.092504,0.097469,0.142152,False,False,0.077752,True,0.001783
+valdez,0.5-1,30-60,as measured,all,3,3,0,0.092504,0.097469,0.142152,False,False,0.077752,True,0.001783
+valdez,0.5-1,30-60,as measured,high_snr,3,3,0,0.092504,0.097469,0.142152,False,False,0.077752,True,0.001783
+valdez,0.5-1,30-60,clean,valid,3,3,0,0.092504,0.097469,0.142152,False,False,0.077752,True,0.001783
+valdez,0.5-1,30-60,clean,all,3,3,0,0.092504,0.097469,0.142152,False,False,0.077752,True,0.001783
+valdez,0.5-1,30-60,clean,high_snr,3,3,0,0.092504,0.097469,0.142152,False,False,0.077752,True,0.001783
+valdez,0.5-1,60-120,as measured,valid,3,2,0,0.101842,0.102988,0.113309,False,False,0.044334,True,0.001783
+valdez,0.5-1,60-120,as measured,all,3,3,1,0.065863,0.069461,0.101842,True,False,0.044334,True,0.001783
+valdez,0.5-1,60-120,as measured,high_snr,3,3,1,0.065863,0.069461,0.101842,True,False,0.044334,True,0.001783
+valdez,0.5-1,60-120,clean,valid,3,0,0,,,,,,0.044334,True,0.001783
+valdez,0.5-1,60-120,clean,all,3,0,0,,,,,,0.044334,True,0.001783
+valdez,0.5-1,60-120,clean,high_snr,3,0,0,,,,,,0.044334,True,0.001783
+valdez,0.5-1,120-240,as measured,valid,3,2,0,0.057068,0.057675,0.063138,False,False,0.032268,True,0.001783
+valdez,0.5-1,120-240,as measured,all,3,3,1,0.04712,0.048115,0.057068,True,False,0.032268,True,0.001783
+valdez,0.5-1,120-240,as measured,high_snr,3,3,1,0.04712,0.048115,0.057068,True,False,0.032268,True,0.001783
+valdez,0.5-1,120-240,clean,valid,3,0,0,,,,,,0.032268,True,0.001783
+valdez,0.5-1,120-240,clean,all,3,0,0,,,,,,0.032268,True,0.001783
+valdez,0.5-1,120-240,clean,high_snr,3,0,0,,,,,,0.032268,True,0.001783
+valdez,0.5-1,240-480,as measured,valid,3,0,0,,,,,,0.010392,True,0.001783
+valdez,0.5-1,240-480,as measured,all,3,3,3,0.028264,0.028529,0.030915,True,True,0.010392,True,0.001783
+valdez,0.5-1,240-480,as measured,high_snr,3,3,3,0.028264,0.028529,0.030915,True,True,0.010392,True,0.001783
+valdez,0.5-1,240-480,clean,valid,3,0,0,,,,,,0.010392,True,0.001783
+valdez,0.5-1,240-480,clean,all,3,0,0,,,,,,0.010392,True,0.001783
+valdez,0.5-1,240-480,clean,high_snr,3,0,0,,,,,,0.010392,True,0.001783
+valdez,0.5-1,480-570,as measured,valid,3,0,0,,,,,,0.00544,True,0.001783
+valdez,0.5-1,480-570,as measured,all,3,3,3,0.02469,0.024831,0.026105,True,True,0.00544,True,0.001783
+valdez,0.5-1,480-570,as measured,high_snr,3,3,3,0.02469,0.024831,0.026105,True,True,0.00544,True,0.001783
+valdez,0.5-1,480-570,clean,valid,3,0,0,,,,,,0.00544,True,0.001783
+valdez,0.5-1,480-570,clean,all,3,0,0,,,,,,0.00544,True,0.001783
+valdez,0.5-1,480-570,clean,high_snr,3,0,0,,,,,,0.00544,True,0.001783

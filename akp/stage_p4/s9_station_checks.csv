@@ -1,0 +1,69 @@
+check,value
+pulse_end_s_0.5-1,6.11
+pulse_end_s_1-2,3.44
+pulse_end_s_2-4,2.26
+pulse_end_spread_over_sampling_rates_s_0.5-1,0.01
+pulse_end_spread_over_sampling_rates_s_1-2,0.04
+pulse_end_spread_over_sampling_rates_s_2-4,0.06
+d86_pulse_end_s_0.5-1,4.0
+d86_pulse_end_s_1-2,2.0
+d86_pulse_end_s_2-4,1.0
+first_bin_s_1-2,4
+first_bin_s_2-4,3
+reference_share_first_bin_1-2,0.1284
+reference_share_first_bin_2-4,0.1482
+reference_share_last_bin,0.0688
+impulse_sampling_rates_hz,20 40 50 100 200
+fit_share_at_1km,0.1406
+fit_exponent,-0.4985
+fit_case_band,thawed_1200 2-4
+largest_range_generous_attenuation_km,5.208
+selfcheck_packet_recovered_over_true,1.0001
+pulse_groups_case_band_direction,30
+pulse_groups_inside_at_every_range,30
+most_exposed_case_inside_pulse_at_every_range,True
+pulse_table_least_margin_s,0.0321
+pulse_table_least_margin_row,thawed_1200 2-4 backward 3000 m
+pulse_table_rows_outside_with_shortest_pulse_over_sampling_rates,1
+ranges_inside_pulse_thawed_1200_0.5-1_forward,30 of 30
+ranges_inside_pulse_thawed_1200_0.5-1_backward,30 of 30
+ranges_inside_pulse_thawed_1200_0.5-1_perpendicular,30 of 30
+ranges_inside_pulse_thawed_1200_1-2_forward,30 of 30
+ranges_inside_pulse_thawed_1200_1-2_backward,30 of 30
+ranges_inside_pulse_thawed_1200_1-2_perpendicular,30 of 30
+ranges_inside_pulse_thawed_1200_2-4_forward,30 of 30
+ranges_inside_pulse_thawed_1200_2-4_backward,30 of 30
+ranges_inside_pulse_thawed_1200_2-4_perpendicular,30 of 30
+ranges_inside_pulse_thawed_850_0.5-1_forward,30 of 30
+ranges_inside_pulse_thawed_850_0.5-1_backward,30 of 30
+ranges_inside_pulse_thawed_850_0.5-1_perpendicular,30 of 30
+ranges_inside_pulse_thawed_850_1-2_forward,30 of 30
+ranges_inside_pulse_thawed_850_1-2_backward,30 of 30
+ranges_inside_pulse_thawed_850_1-2_perpendicular,30 of 30
+ranges_inside_pulse_frozen_1200_0.5-1_forward,30 of 30
+ranges_inside_pulse_frozen_1200_0.5-1_backward,30 of 30
+ranges_inside_pulse_frozen_1200_0.5-1_perpendicular,30 of 30
+ranges_inside_pulse_frozen_1200_1-2_forward,30 of 30
+ranges_inside_pulse_frozen_1200_1-2_backward,30 of 30
+ranges_inside_pulse_frozen_1200_1-2_perpendicular,30 of 30
+ranges_inside_pulse_frozen_1200_2-4_forward,30 of 30
+ranges_inside_pulse_frozen_1200_2-4_backward,30 of 30
+ranges_inside_pulse_frozen_1200_2-4_perpendicular,30 of 30
+ranges_inside_pulse_frozen_850_0.5-1_forward,30 of 30
+ranges_inside_pulse_frozen_850_0.5-1_backward,30 of 30
+ranges_inside_pulse_frozen_850_0.5-1_perpendicular,30 of 30
+ranges_inside_pulse_frozen_850_1-2_forward,30 of 30
+ranges_inside_pulse_frozen_850_1-2_backward,30 of 30
+ranges_inside_pulse_frozen_850_1-2_perpendicular,30 of 30
+rayleigh_arrival_at_pulse_end_km_0.5-1,3.76
+rayleigh_arrival_at_pulse_end_km_1-2,2.12
+rayleigh_arrival_at_pulse_end_km_2-4,1.39
+gate_ranges_passed,23
+gate_counted_range_min_km,1.6
+gate_counted_range_max_km,3.0
+gate_rows,180
+gate_ranges_counted,24
+gate_ranges_failed,1
+gate_worst_ratio,1.2052
+gate_p_peak_minus_predicted_max_abs_s,0.0432
+gate_pass,False

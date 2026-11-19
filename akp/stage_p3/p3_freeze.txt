@@ -1,0 +1,15 @@
+527fdd48cee0e14e1404a899fbabf5704a6d076c 7b052c46fca3f85d0ed374e988324081e1bbdb1c
+89656438512cafa224832efa62b949cef8d0a1072dfb346784baa59b26584797 p3/prior/p3_prior.npz
+6f04373f161f7d7d6ac4cdd93bed2b25401bccce92aa536319ec3a7eb23c0cce p3/prior/p3_cover.npz
+b25bc07434304ece48f6bc5e4b67fb05323d6b680dbeeb1cfc40802f842695f5 p3/prior/p3_strata_grid.npz
+de27b5678d2e00340ddfc482243422ceae8b83108d111cf278eef4bca700027e p3/mag_forward/templates_vector.npz
+d8489c907d93013c622fa2418826e9135af4494d9c1cd13e91caf2632e8c9215 p3/mag_forward/templates_vector_depths.npz
+8719e80f963c09f857184ce1a5a1cf645e6b919dfc655ff54a5e9c877f1ad92b p3/mag_forward/profiles.npz
+2.4.3 numpy
+1.18.1 scipy
+3.1.1 pandas
+0.26.0 simpeg
+0.13.0 discretize
+3.8.0 pyproj
+1.5.2 rasterio
+2.2.0 shapely

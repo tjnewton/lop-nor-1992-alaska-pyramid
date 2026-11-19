@@ -1,0 +1,8 @@
+check,value,of,triggered,detail
+n_reference_explosions,5,5,,dprk_2009-05-25;dprk_2013-02-12;dprk_2016-01-06;dprk_2016-09-09;dprk_2017-09-03
+valid_cells,12,12,,
+F1b_outside_cells,3,12,False,"4-8Hz/5-15s:0.131 vs [0.477,1.906] (n=1); 4-8Hz/15-30s:0.087 vs [0.377,1.507] (n=1); 4-8Hz/30-60s:0.060 vs [0.575,2.300] (n=1)"
+eq_over_1992_min,3.12,,,"COLA earthquake median / COL 1992, over cells"
+eq_over_1992_median,5.89,,,
+eq_over_1992_max,8.95,,,
+gate_pass,1,,,

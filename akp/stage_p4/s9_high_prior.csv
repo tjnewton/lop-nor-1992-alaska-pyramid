@@ -1,0 +1,12 @@
+quantity,value
+cells,1656.0
+area_km2,1656.0
+share_of_track_a_cells,0.01295
+lon_west,-153.3
+lon_east,-152.1
+lat_south,62.8
+lat_north,63.5
+nearest_receiver_km_min,7.19
+nearest_receiver_km_median,35.05
+receivers_within_10km,1.0
+receivers_within_3km,0.0

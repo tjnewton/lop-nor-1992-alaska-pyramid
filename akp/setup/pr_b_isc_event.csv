@@ -1,0 +1,3 @@
+origin_time,latitude,longitude,depth_m,mag_type,mag,n_arrivals_total
+1992-05-21T04:59:59.100000Z,41.5754,88.7888,0.0,mb,6.53,1387
+1992-05-21T04:59:59.100000Z,41.5754,88.7888,0.0,MS,5.36,1387

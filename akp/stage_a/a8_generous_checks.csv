@@ -1,0 +1,105 @@
+check,value,detail
+R1_incident_peak_min_over_max_0.5-1,0.9092831859606704,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R1_incident_window_peak_over_record_peak_min_0.5-1,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R1_incident_peak_min_over_max_1-2,0.8928665210358891,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R1_incident_window_peak_over_record_peak_min_1-2,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R1_incident_peak_min_over_max_2-4,0.8657255038489418,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R1_incident_window_peak_over_record_peak_min_2-4,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R1_twin_run_seconds,4658.6,150 Mpts/s
+R1_twin_peak_rss_gb,12.14,budget 20.6 GB
+R1_twin_field_left_over_incident_peak,0.037799640068807414,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+R1_twin_receivers_last_half_second_over_incident_peak,0.022363002045907444,
+R1_body_run_seconds,4441.1,157 Mpts/s
+R1_body_peak_rss_gb,12.27,budget 20.6 GB
+R1_body_field_left_over_incident_peak,0.03806937471076112,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+R1_body_receivers_last_half_second_over_incident_peak,0.01892694021787635,
+R1_grid_shape,993x501x173,"h 7.083333333333333 m, sponge 30 cells, mirror plane y = 0; 86.1M points"
+R1_time_step_s,0.0014961413760581006,8126 steps
+R1_points_per_rayleigh_wavelength_at_top,15.4,host Rayleigh speed 436 m/s at 4.0 Hz; rule 15.4 (gate three)
+R1_bands_measured,0.5-1 1-2 2-4,
+R1_incidence_deg,2.8613036330474455,in the thawed host
+R1_t0_s,1.1816319118716192,incident P at the apex
+R1_window_speeds,1700 944 472,vp_fast vs_fast vs_slow (m/s)
+R1_gates_and_settings,fixed settings,no gate
+R1_share_recomputed_max_relative_difference,0.0,a8_smoothing's and this module's unsmoothed share against a8_production.measure
+R1_receiver_off_nominal_max_m,3.3333333333339397,receivers sit on nodes; ranges in the tables are nominal
+R1_half_width_m,3300.0,edge wave 3.29 s after the plane wave at the body's top; 0.5-1: met; 1-2: met; 2-4: met
+R1_rows_with_edge_flag,0,of 270; they enter the statements for R4 only
+R2_incident_peak_min_over_max_0.5-1,0.9227947509188212,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R2_incident_window_peak_over_record_peak_min_0.5-1,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R2_incident_peak_min_over_max_1-2,0.9101149699559897,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R2_incident_window_peak_over_record_peak_min_1-2,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R2_incident_peak_min_over_max_2-4,0.8867932024527126,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R2_incident_window_peak_over_record_peak_min_2-4,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R2_twin_run_seconds,3686.2,142 Mpts/s
+R2_twin_peak_rss_gb,5.37,budget 20.6 GB
+R2_twin_field_left_over_incident_peak,0.056535213931307615,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+R2_twin_receivers_last_half_second_over_incident_peak,0.024091165300105247,
+R2_body_run_seconds,3760.2,139 Mpts/s
+R2_body_peak_rss_gb,5.43,budget 20.6 GB
+R2_body_field_left_over_incident_peak,0.056749114898362485,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+R2_body_receivers_last_half_second_over_incident_peak,0.019426656225426827,
+R2_grid_shape,721x365x132,"h 10.0 m, sponge 30 cells, mirror plane y = 0; 34.7M points"
+R2_time_step_s,0.0006528616913708074,15099 steps
+R2_points_per_rayleigh_wavelength_at_top,15.4,host Rayleigh speed 616 m/s at 4.0 Hz; rule 15.4 (gate three)
+R2_bands_measured,0.5-1 1-2 2-4,
+R2_incidence_deg,4.041158419778646,in the thawed host
+R2_t0_s,1.0623357950820194,incident P at the apex
+R2_window_speeds,5500 3200 667,vp_fast vs_fast vs_slow (m/s)
+R2_gates_and_settings,fixed settings,gates passed
+R2_share_recomputed_max_relative_difference,0.0,a8_smoothing's and this module's unsmoothed share against a8_production.measure
+R2_receiver_off_nominal_max_m,0.0,receivers sit on nodes; ranges in the tables are nominal
+R2_half_width_m,3300.0,edge wave 2.27 s after the plane wave at the body's top; 0.5-1: broken from 100 m; 1-2: met; 2-4: met
+R2_rows_with_edge_flag,90,of 270; they enter the statements for R4 only
+R3_incident_peak_min_over_max_0.5-1,0.9228683569413846,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R3_incident_window_peak_over_record_peak_min_0.5-1,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R3_incident_peak_min_over_max_1-2,0.910437687334123,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R3_incident_window_peak_over_record_peak_min_1-2,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R3_incident_peak_min_over_max_2-4,0.8871213016049353,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R3_incident_window_peak_over_record_peak_min_2-4,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R3_twin_run_seconds,1504.9,152 Mpts/s
+R3_twin_peak_rss_gb,5.35,budget 20.6 GB
+R3_twin_field_left_over_incident_peak,0.05654321645890111,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+R3_twin_receivers_last_half_second_over_incident_peak,0.02408381178239537,
+R3_body_run_seconds,1501.0,152 Mpts/s
+R3_body_peak_rss_gb,5.51,budget 20.6 GB
+R3_body_field_left_over_incident_peak,0.05670466198338505,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+R3_body_receivers_last_half_second_over_incident_peak,0.018884170510381493,
+R3_grid_shape,721x365x132,"h 10.0 m, sponge 30 cells, mirror plane y = 0; 34.7M points"
+R3_time_step_s,0.0014961413760581003,6589 steps
+R3_points_per_rayleigh_wavelength_at_top,15.4,host Rayleigh speed 616 m/s at 4.0 Hz; rule 15.4 (gate three)
+R3_bands_measured,0.5-1 1-2 2-4,
+R3_incidence_deg,4.041158419778646,in the thawed host
+R3_t0_s,1.0623357950820194,incident P at the apex
+R3_window_speeds,2400 1333 667,vp_fast vs_fast vs_slow (m/s)
+R3_gates_and_settings,fixed settings,no gate
+R3_share_recomputed_max_relative_difference,0.0,a8_smoothing's and this module's unsmoothed share against a8_production.measure
+R3_receiver_off_nominal_max_m,0.0,receivers sit on nodes; ranges in the tables are nominal
+R3_half_width_m,3300.0,edge wave 2.27 s after the plane wave at the body's top; 0.5-1: broken from 100 m; 1-2: met; 2-4: met
+R3_rows_with_edge_flag,90,of 270; they enter the statements for R4 only
+R3_twin_identical_to_production_twin,True,same grid and step as thawed_1200: its own twin must repeat the archived one bit for bit
+R4_incident_peak_min_over_max_0.5-1,0.9713931395359859,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R4_incident_window_peak_over_record_peak_min_0.5-1,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R4_incident_peak_min_over_max_1-2,0.9975235944952587,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+R4_incident_window_peak_over_record_peak_min_1-2,1.0,1 when nothing in the twin's record exceeds the incident pulse
+R4_twin_run_seconds,25796.1,123 Mpts/s
+R4_twin_peak_rss_gb,16.45,budget 20.6 GB
+R4_twin_field_left_over_incident_peak,0.10113504413309304,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+R4_twin_receivers_last_half_second_over_incident_peak,0.048498004577515706,
+R4_body_run_seconds,24027.5,132 Mpts/s
+R4_body_peak_rss_gb,16.55,budget 20.6 GB
+R4_body_field_left_over_incident_peak,0.10111406419390621,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+R4_body_receivers_last_half_second_over_incident_peak,0.04850349262258348,
+R4_grid_shape,1289x649x140,"h 9.28226572280991 m, sponge 30 cells, mirror plane y = 0; 117.1M points"
+R4_time_step_s,0.0006060035699546949,27083 steps
+R4_points_per_rayleigh_wavelength_at_top,15.4,host Rayleigh speed 286 m/s at 2.0 Hz; rule 15.4 (gate three)
+R4_bands_measured,0.5-1 1-2,bands up to 2 Hz
+R4_incidence_deg,5.05381159040867,in the thawed host
+R4_t0_s,1.1464897257093518,incident P at the apex
+R4_window_speeds,5500 3200 300,vp_fast vs_fast vs_slow (m/s)
+R4_gates_and_settings,fixed settings,gates passed
+R4_share_recomputed_max_relative_difference,0.0,a8_smoothing's and this module's unsmoothed share against a8_production.measure
+R4_receiver_off_nominal_max_m,4.621940678022838,receivers sit on nodes; ranges in the tables are nominal
+R4_half_width_m,5700.0,edge wave 3.23 s after the plane wave at the body's top; 0.5-1: broken from 1800 m; 1-2: met
+R4_rows_with_edge_flag,39,of 180; they enter the statements for R4 only
+R1_grid_convergence_slow_vertical_ratio_min_median_max,0.876 0.991 1.062,180 rows; all windows and components in a8_generous_convergence.csv

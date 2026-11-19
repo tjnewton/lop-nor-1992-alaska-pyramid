@@ -1,0 +1,17 @@
+quantity,source,value_stated,unit_stated,unit_si,value_si,value_si_shown
+"C4 point, west of Denali on the line to Nome","Earthfiles Ep 170, 07:50",60,mile,km,96.561,97
+"C3 disc around Denali, radius","Earthfiles Ep 123, 29:12",50,mile,km,80.467,80
+"C3 belt around Denali, inner radius","Earthfiles Ep 123, 29:12-29:52",45,mile,km,72.42,72
+"C3 belt around Denali, outer radius","Earthfiles Ep 123, 29:12-29:52",55,mile,km,88.514,89
+"C4 stretch on the map, near end","Earthfiles Ep 170, 06:01",60,mile,km,96.561,97
+"C4 stretch on the map, far end","Earthfiles Ep 170, 06:01",70,mile,km,112.654,113
+C7 place due west of Denali,"The Why Files 2024, 00:56",60,mile,km,96.561,97
+"prior, C4 component, center from Denali",our construction (p3_prior.C4_MILES),65,mile,km,104.607,105
+"prior, C4 component, standard deviation",our construction (p3_prior.C4_SD_MILES),5,mile,km,8.047,8
+"body, depth of the base","Earthfiles Ep 170, 08:06",700,ft,m,213.36,213
+"body, depth of the top","Earthfiles Ep 170, 08:15",150,ft,m,45.72,46
+"body, height","Earthfiles Ep 170, 08:31",550,ft,m,167.64,168
+"body, depth of the top in the retelling",The Why Files 2024,100,ft,m,30.48,30
+"Eskdalemuir, depth of the located valley","Key 1967, p. 34",600,ft,m,182.88,180
+"body, sides of the base in a web repost","Before It's News, 2012-08-21 (C19)",1510,ft,m,460.248,460
+"deep structure, depth in the news report",Browne 1993,2000,mile,km,3218.688,3200

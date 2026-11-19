@@ -1,0 +1,15 @@
+check,value
+denali_nome_km,726.046
+focal_sum_factor,1.05
+band_semi_major_km,381.174
+band_area_km2,139228
+band_area_rel_change_quarter_rays,2.1e-04
+band_semi_minor_planar_km,116.224
+band_area_over_planar_ellipse,1.0004
+band_min_lat,62.628
+band_max_lat,65.184
+band_min_lon,-165.786
+band_max_lon,-150.627
+band_inside_probe_box,1
+valdez_box_area_km2,9586
+searched_area_km2,148814

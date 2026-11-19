@@ -1,0 +1,2 @@
+t,t_low,n_anomalies,n_usable,n_usable_at_t,base_mix_top,closed,k,u,sigma,xi,w_u,boot_failed,c,e_point,e_bound,control_candidates_at_t,counting_bound,split_c_A,split_over_c_A,split_ladder_fired_A,split_c_B,split_over_c_B,split_ladder_fired_B,split_fired
+0.78,0.76,227,192,86,100:18;50:14;200:10;400:6,False,48,-0.11116421944612723,0.04964675474022125,0.0,45.126471088775226,0,0.4012048286789633,0.001487253963859175,0.03999999999999998,0,2.8124859199805283,992.7973618211613,0,False,0.5810444138922043,0,False,False

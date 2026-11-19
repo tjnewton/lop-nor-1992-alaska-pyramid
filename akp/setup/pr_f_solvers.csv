@@ -1,0 +1,4 @@
+solver,version,ok,wall_s,metric,note
+specfem2d,abf3196e3192,True,10.9,"44 seismograms, peak |u|=6.292e-01","exit codes [0, 0]; error files 0; default DATA/Par_file"
+devito,4.8.23,True,0.01,fraction of grid excited=0.997,language=C
+simpeg,0.26.0,True,0.003,gz=-0.005234 mGal vs point mass -0.005234 (rel err 6.65e-05); void gz=0.005234,"discretize 0.13.0; TensorMesh integral, engine geoana"

@@ -1,0 +1,5 @@
+system,lead_class,lead_threshold_dev,dev_packages,dev_line_km,dev_per_1000_line_km,dev_package_q10,dev_package_q50,dev_package_q90,vault_packages,vault_line_km,vault_per_1000_line_km,vault_over_dev,vault_plants,vault_plant_share_at_or_above
+em_0-60,T3_central,17.07,34,126361.0,349.85,212.58,360.76,492.11,12,44036.6,374.37,1.07,1120,0.531
+mag_0-60,T2_high,50.18,34,126361.0,35.69,21.62,35.08,63.08,12,44036.6,39.4,1.104,1120,0.469
+mag_150-300,T2_high,44.54,1,36983.8,48.78,48.78,48.78,48.78,3,28269.1,85.46,1.752,240,0.346
+mag_60-150,T2_high,46.95,6,51494.1,15.48,8.67,17.42,40.28,1,1240.9,40.29,2.603,80,0.263

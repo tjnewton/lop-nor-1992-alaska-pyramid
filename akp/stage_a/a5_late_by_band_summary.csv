@@ -1,0 +1,169 @@
+version,kind,station,km,band,bound_band,delay_max_s,below_median_through_s,below_p05_through_s,below_col1992_through_s,last_window_end_s
+line_denali_nome,recorded,ANM,7.20938,0.5-1,0.012891,28.7,30.0,30.0,30.0,30.0
+line_denali_nome,recorded,ANM,7.20938,1-2,0.062123,28.7,30.0,30.0,15.0,30.0
+line_denali_nome,recorded,ANM,7.20938,2-4,0.099395,28.7,30.0,15.0,15.0,30.0
+disc_denali,recorded,RND,34.0931,0.5-1,0.005928,124.5,120.0,120.0,240.0,240.0
+disc_denali,recorded,RND,34.0931,1-2,0.028567,124.5,120.0,60.0,60.0,240.0
+disc_denali,recorded,RND,34.0931,2-4,0.045707,124.5,120.0,30.0,60.0,240.0
+belt_denali,recorded,RND,26.0464,0.5-1,0.006782,95.8,120.0,120.0,120.0,120.0
+belt_denali,recorded,RND,26.0464,1-2,0.032683,95.8,120.0,60.0,60.0,120.0
+belt_denali,recorded,RND,26.0464,2-4,0.052292,95.8,120.0,30.0,30.0,120.0
+belt_denali_northwest,recorded,RND,112.53,0.5-1,0.003263,404.1,120.0,120.0,480.0,480.0
+belt_denali_northwest,recorded,RND,112.53,1-2,0.015724,404.1,120.0,120.0,60.0,480.0
+belt_denali_northwest,recorded,RND,112.53,2-4,0.025158,404.1,120.0,60.0,60.0,480.0
+point_c4,recorded,TTA,166.906,0.5-1,0.002679,597.8,120.0,120.0,570.0,570.0
+point_c4,recorded,TTA,166.906,1-2,0.012911,597.8,120.0,120.0,120.0,570.0
+point_c4,recorded,TTA,166.906,2-4,0.020657,597.8,120.0,60.0,120.0,570.0
+stretch_c4_map,recorded,TTA,153.483,0.5-1,0.002794,550.0,120.0,120.0,570.0,570.0
+stretch_c4_map,recorded,TTA,153.483,1-2,0.013464,550.0,120.0,120.0,120.0,570.0
+stretch_c4_map,recorded,TTA,153.483,2-4,0.021542,550.0,120.0,60.0,120.0,570.0
+point_c7_west,recorded,TTA,157.521,0.5-1,0.002758,564.4,120.0,120.0,570.0,570.0
+point_c7_west,recorded,TTA,157.521,1-2,0.01329,564.4,120.0,120.0,120.0,570.0
+point_c7_west,recorded,TTA,157.521,2-4,0.021264,564.4,120.0,60.0,120.0,570.0
+valdez_town,recorded,KLU,46.2988,0.5-1,0.005087,168.0,120.0,120.0,240.0,240.0
+valdez_town,recorded,KLU,46.2988,1-2,0.024514,168.0,120.0,60.0,60.0,240.0
+valdez_town,recorded,KLU,46.2988,2-4,0.039222,168.0,120.0,30.0,60.0,240.0
+line_c7_unalakleet,recorded,TTA,70.4416,0.5-1,0.004124,254.1,120.0,120.0,480.0,480.0
+line_c7_unalakleet,recorded,TTA,70.4416,1-2,0.019874,254.1,120.0,60.0,60.0,480.0
+line_c7_unalakleet,recorded,TTA,70.4416,2-4,0.031798,254.1,120.0,30.0,60.0,480.0
+point_c9_haarp,recorded,TOA,61.9955,0.5-1,0.004396,223.9,120.0,120.0,240.0,240.0
+point_c9_haarp,recorded,TOA,61.9955,1-2,0.021185,223.9,120.0,60.0,60.0,240.0
+point_c9_haarp,recorded,TOA,61.9955,2-4,0.033895,223.9,120.0,30.0,60.0,240.0
+point_c10_carey_lake,recorded,TTA,179.732,0.5-1,0.002582,643.6,120.0,120.0,570.0,570.0
+point_c10_carey_lake,recorded,TTA,179.732,1-2,0.012442,643.6,120.0,120.0,120.0,570.0
+point_c10_carey_lake,recorded,TTA,179.732,2-4,0.019907,643.6,120.0,60.0,120.0,570.0
+point_c12_coordinates,recorded,TTA,180.747,0.5-1,0.002575,647.2,120.0,120.0,570.0,570.0
+point_c12_coordinates,recorded,TTA,180.747,1-2,0.012407,647.2,120.0,120.0,120.0,570.0
+point_c12_coordinates,recorded,TTA,180.747,2-4,0.019851,647.2,120.0,60.0,120.0,570.0
+point_c13_farewell,recorded,TTA,128.276,0.5-1,0.003056,460.2,120.0,120.0,480.0,480.0
+point_c13_farewell,recorded,TTA,128.276,1-2,0.014727,460.2,120.0,120.0,120.0,480.0
+point_c13_farewell,recorded,TTA,128.276,2-4,0.023563,460.2,120.0,60.0,60.0,480.0
+point_c14_telida,recorded,TTA,146.551,0.5-1,0.002859,525.3,120.0,120.0,570.0,570.0
+point_c14_telida,recorded,TTA,146.551,1-2,0.013779,525.3,120.0,120.0,120.0,570.0
+point_c14_telida,recorded,TTA,146.551,2-4,0.022045,525.3,120.0,60.0,120.0,570.0
+point_c14_kaltag,recorded,TTA,205.665,0.5-1,0.002414,736.0,120.0,120.0,570.0,570.0
+point_c14_kaltag,recorded,TTA,205.665,1-2,0.011631,736.0,120.0,120.0,120.0,570.0
+point_c14_kaltag,recorded,TTA,205.665,2-4,0.018609,736.0,120.0,60.0,120.0,570.0
+point_c15_yukon_charley,recorded,COL,240.0,0.5-1,0.002234,858.3,120.0,120.0,570.0,570.0
+point_c15_yukon_charley,recorded,COL,240.0,1-2,0.010767,858.3,120.0,120.0,120.0,570.0
+point_c15_yukon_charley,recorded,COL,240.0,2-4,0.017227,858.3,120.0,60.0,120.0,570.0
+point_c16_fort_richardson,recorded,PMR,47.9852,0.5-1,0.004997,174.0,120.0,120.0,240.0,240.0
+point_c16_fort_richardson,recorded,PMR,47.9852,1-2,0.024079,174.0,120.0,60.0,60.0,240.0
+point_c16_fort_richardson,recorded,PMR,47.9852,2-4,0.038526,174.0,120.0,30.0,60.0,240.0
+point_c17_mcgrath,recorded,TTA,21.3101,0.5-1,0.007498,78.9,120.0,120.0,120.0,120.0
+point_c17_mcgrath,recorded,TTA,21.3101,1-2,0.036133,78.9,120.0,30.0,60.0,120.0
+point_c17_mcgrath,recorded,TTA,21.3101,2-4,0.057812,78.9,120.0,30.0,30.0,120.0
+line_c18_susitna_valley,recorded,PMR,62.1749,0.5-1,0.00439,224.6,120.0,120.0,240.0,240.0
+line_c18_susitna_valley,recorded,PMR,62.1749,1-2,0.021154,224.6,120.0,60.0,60.0,240.0
+line_c18_susitna_valley,recorded,PMR,62.1749,2-4,0.033846,224.6,120.0,30.0,60.0,240.0
+line_denali_nome,operating,TRF,55.6962,0.5-1,0.004638,201.5,120.0,120.0,240.0,240.0
+line_denali_nome,operating,TRF,55.6962,1-2,0.022351,201.5,120.0,60.0,60.0,240.0
+line_denali_nome,operating,TRF,55.6962,2-4,0.03576,201.5,120.0,30.0,60.0,240.0
+belt_denali_northwest,operating,TRF,46.5124,0.5-1,0.005075,168.8,120.0,120.0,240.0,240.0
+belt_denali_northwest,operating,TRF,46.5124,1-2,0.024458,168.8,120.0,60.0,60.0,240.0
+belt_denali_northwest,operating,TRF,46.5124,2-4,0.039132,168.8,120.0,30.0,60.0,240.0
+point_c4,operating,TRF,127.517,0.5-1,0.003065,457.5,120.0,120.0,480.0,480.0
+point_c4,operating,TRF,127.517,1-2,0.014771,457.5,120.0,120.0,120.0,480.0
+point_c4,operating,TRF,127.517,2-4,0.023634,457.5,120.0,60.0,60.0,480.0
+stretch_c4_map,operating,TRF,127.517,0.5-1,0.003065,457.5,120.0,120.0,480.0,480.0
+stretch_c4_map,operating,TRF,127.517,1-2,0.014771,457.5,120.0,120.0,120.0,480.0
+stretch_c4_map,operating,TRF,127.517,2-4,0.023634,457.5,120.0,60.0,60.0,480.0
+point_c7_west,operating,TRF,139.047,0.5-1,0.002935,498.6,120.0,120.0,570.0,570.0
+point_c7_west,operating,TRF,139.047,1-2,0.014146,498.6,120.0,120.0,120.0,570.0
+point_c7_west,operating,TRF,139.047,2-4,0.022632,498.6,120.0,60.0,120.0,570.0
+line_c7_unalakleet,operating,TRF,55.6962,0.5-1,0.004638,201.5,120.0,120.0,240.0,240.0
+line_c7_unalakleet,operating,TRF,55.6962,1-2,0.022351,201.5,120.0,60.0,60.0,240.0
+line_c7_unalakleet,operating,TRF,55.6962,2-4,0.03576,201.5,120.0,30.0,60.0,240.0
+point_c9_haarp,operating,SDG,25.2734,0.5-1,0.006885,93.1,120.0,120.0,120.0,120.0
+point_c9_haarp,operating,SDG,25.2734,1-2,0.033179,93.1,120.0,60.0,60.0,120.0
+point_c9_haarp,operating,SDG,25.2734,2-4,0.053086,93.1,120.0,30.0,30.0,120.0
+point_c10_carey_lake,operating,TRF,115.616,0.5-1,0.003219,415.0,120.0,120.0,480.0,480.0
+point_c10_carey_lake,operating,TRF,115.616,1-2,0.015513,415.0,120.0,120.0,60.0,480.0
+point_c10_carey_lake,operating,TRF,115.616,2-4,0.02482,415.0,120.0,60.0,60.0,480.0
+point_c12_coordinates,operating,TRF,113.037,0.5-1,0.003256,405.9,120.0,120.0,480.0,480.0
+point_c12_coordinates,operating,TRF,113.037,1-2,0.015689,405.9,120.0,120.0,60.0,480.0
+point_c12_coordinates,operating,TRF,113.037,2-4,0.025102,405.9,120.0,60.0,60.0,480.0
+point_c13_farewell,operating,SKT,126.819,0.5-1,0.003074,455.0,120.0,120.0,480.0,480.0
+point_c13_farewell,operating,SKT,126.819,1-2,0.014812,455.0,120.0,120.0,120.0,480.0
+point_c13_farewell,operating,SKT,126.819,2-4,0.023698,455.0,120.0,60.0,60.0,480.0
+point_c14_telida,operating,TRF,149.662,0.5-1,0.002829,536.4,120.0,120.0,570.0,570.0
+point_c14_telida,operating,TRF,149.662,1-2,0.013635,536.4,120.0,120.0,120.0,570.0
+point_c14_telida,operating,TRF,149.662,2-4,0.021815,536.4,120.0,60.0,120.0,570.0
+point_c14_kaltag,operating,MLY,388.822,0.5-1,0.001755,1388.7,120.0,120.0,570.0,570.0
+point_c14_kaltag,operating,MLY,388.822,1-2,0.008459,1388.7,120.0,120.0,120.0,570.0
+point_c14_kaltag,operating,MLY,388.822,2-4,0.013534,1388.7,120.0,120.0,120.0,570.0
+point_c15_yukon_charley,operating,PRP,129.356,0.5-1,0.003043,464.0,120.0,120.0,480.0,480.0
+point_c15_yukon_charley,operating,PRP,129.356,1-2,0.014666,464.0,120.0,120.0,120.0,480.0
+point_c15_yukon_charley,operating,PRP,129.356,2-4,0.023465,464.0,120.0,60.0,60.0,480.0
+point_c16_fort_richardson,operating,PMS,6.9225,0.5-1,0.013155,27.7,30.0,30.0,30.0,30.0
+point_c16_fort_richardson,operating,PMS,6.9225,1-2,0.063397,27.7,30.0,15.0,15.0,30.0
+point_c16_fort_richardson,operating,PMS,6.9225,2-4,0.101433,27.7,30.0,0.0,15.0,30.0
+point_c17_mcgrath,operating,SKT,236.179,0.5-1,0.002252,844.7,120.0,120.0,570.0,570.0
+point_c17_mcgrath,operating,SKT,236.179,1-2,0.010854,844.7,120.0,120.0,120.0,570.0
+point_c17_mcgrath,operating,SKT,236.179,2-4,0.017366,844.7,120.0,60.0,120.0,570.0
+line_c18_susitna_valley,operating,CUT,6.15914,0.5-1,0.013947,25.0,30.0,30.0,30.0,30.0
+line_c18_susitna_valley,operating,CUT,6.15914,1-2,0.067211,25.0,30.0,15.0,15.0,30.0
+line_c18_susitna_valley,operating,CUT,6.15914,2-4,0.107536,25.0,30.0,0.0,0.0,30.0
+line_denali_nome,open waveform,COL,257.63,0.5-1,0.002156,921.2,120.0,120.0,570.0,570.0
+line_denali_nome,open waveform,COL,257.63,1-2,0.010392,921.2,120.0,120.0,120.0,570.0
+line_denali_nome,open waveform,COL,257.63,2-4,0.016627,921.2,120.0,60.0,120.0,570.0
+box_denali_nome,open waveform,COL,57.1346,0.5-1,0.004579,206.6,120.0,120.0,240.0,240.0
+box_denali_nome,open waveform,COL,57.1346,1-2,0.022067,206.6,120.0,60.0,60.0,240.0
+box_denali_nome,open waveform,COL,57.1346,2-4,0.035307,206.6,120.0,30.0,60.0,240.0
+disc_denali,open waveform,COL,177.163,0.5-1,0.0026,634.4,120.0,120.0,570.0,570.0
+disc_denali,open waveform,COL,177.163,1-2,0.012532,634.4,120.0,120.0,120.0,570.0
+disc_denali,open waveform,COL,177.163,2-4,0.020051,634.4,120.0,60.0,120.0,570.0
+belt_denali,open waveform,COL,169.116,0.5-1,0.002662,605.7,120.0,120.0,570.0,570.0
+belt_denali,open waveform,COL,169.116,1-2,0.012826,605.7,120.0,120.0,120.0,570.0
+belt_denali,open waveform,COL,169.116,2-4,0.020522,605.7,120.0,60.0,120.0,570.0
+belt_denali_northwest,open waveform,COL,193.379,0.5-1,0.002489,692.2,120.0,120.0,570.0,570.0
+belt_denali_northwest,open waveform,COL,193.379,1-2,0.011995,692.2,120.0,120.0,120.0,570.0
+belt_denali_northwest,open waveform,COL,193.379,2-4,0.019191,692.2,120.0,60.0,120.0,570.0
+point_c4,open waveform,COL,300.552,0.5-1,0.001997,1074.2,120.0,120.0,570.0,570.0
+point_c4,open waveform,COL,300.552,1-2,0.009621,1074.2,120.0,120.0,120.0,570.0
+point_c4,open waveform,COL,300.552,2-4,0.015394,1074.2,120.0,120.0,120.0,570.0
+stretch_c4_map,open waveform,COL,300.552,0.5-1,0.001997,1074.2,120.0,120.0,570.0,570.0
+stretch_c4_map,open waveform,COL,300.552,1-2,0.009621,1074.2,120.0,120.0,120.0,570.0
+stretch_c4_map,open waveform,COL,300.552,2-4,0.015394,1074.2,120.0,120.0,120.0,570.0
+point_c7_west,open waveform,COL,324.142,0.5-1,0.001923,1158.2,120.0,120.0,570.0,570.0
+point_c7_west,open waveform,COL,324.142,1-2,0.009265,1158.2,120.0,120.0,120.0,570.0
+point_c7_west,open waveform,COL,324.142,2-4,0.014823,1158.2,120.0,120.0,120.0,570.0
+valdez_town,open waveform,COL,426.419,0.5-1,0.001676,1522.7,120.0,120.0,570.0,570.0
+valdez_town,open waveform,COL,426.419,1-2,0.008078,1522.7,120.0,120.0,120.0,570.0
+valdez_town,open waveform,COL,426.419,2-4,0.012924,1522.7,120.0,120.0,120.0,570.0
+box_valdez,open waveform,COL,368.13,0.5-1,0.001804,1315.0,120.0,120.0,570.0,570.0
+box_valdez,open waveform,COL,368.13,1-2,0.008694,1315.0,120.0,120.0,120.0,570.0
+box_valdez,open waveform,COL,368.13,2-4,0.01391,1315.0,120.0,120.0,120.0,570.0
+line_c7_unalakleet,open waveform,COL,257.63,0.5-1,0.002156,921.2,120.0,120.0,570.0,570.0
+line_c7_unalakleet,open waveform,COL,257.63,1-2,0.010392,921.2,120.0,120.0,120.0,570.0
+line_c7_unalakleet,open waveform,COL,257.63,2-4,0.016627,921.2,120.0,60.0,120.0,570.0
+point_c9_haarp,open waveform,COL,308.699,0.5-1,0.00197,1103.2,120.0,120.0,570.0,570.0
+point_c9_haarp,open waveform,COL,308.699,1-2,0.009494,1103.2,120.0,120.0,120.0,570.0
+point_c9_haarp,open waveform,COL,308.699,2-4,0.01519,1103.2,120.0,120.0,120.0,570.0
+point_c10_carey_lake,open waveform,COL,287.099,0.5-1,0.002043,1026.2,120.0,120.0,570.0,570.0
+point_c10_carey_lake,open waveform,COL,287.099,1-2,0.009844,1026.2,120.0,120.0,120.0,570.0
+point_c10_carey_lake,open waveform,COL,287.099,2-4,0.015751,1026.2,120.0,60.0,120.0,570.0
+point_c12_coordinates,open waveform,COL,291.603,0.5-1,0.002027,1042.3,120.0,120.0,570.0,570.0
+point_c12_coordinates,open waveform,COL,291.603,1-2,0.009768,1042.3,120.0,120.0,120.0,570.0
+point_c12_coordinates,open waveform,COL,291.603,2-4,0.015628,1042.3,120.0,60.0,120.0,570.0
+point_c13_farewell,open waveform,COL,389.309,0.5-1,0.001754,1390.5,120.0,120.0,570.0,570.0
+point_c13_farewell,open waveform,COL,389.309,1-2,0.008454,1390.5,120.0,120.0,120.0,570.0
+point_c13_farewell,open waveform,COL,389.309,2-4,0.013526,1390.5,120.0,120.0,120.0,570.0
+point_c14_telida,open waveform,COL,316.023,0.5-1,0.001947,1129.3,120.0,120.0,570.0,570.0
+point_c14_telida,open waveform,COL,316.023,1-2,0.009383,1129.3,120.0,120.0,120.0,570.0
+point_c14_telida,open waveform,COL,316.023,2-4,0.015013,1129.3,120.0,120.0,120.0,570.0
+point_c14_kaltag,open waveform,COL,526.21,0.5-1,0.001509,1878.4,120.0,120.0,570.0,570.0
+point_c14_kaltag,open waveform,COL,526.21,1-2,0.007271,1878.4,120.0,120.0,120.0,570.0
+point_c14_kaltag,open waveform,COL,526.21,2-4,0.011634,1878.4,120.0,120.0,120.0,570.0
+point_c15_yukon_charley,open waveform,COL,240.0,0.5-1,0.002234,858.3,120.0,120.0,570.0,570.0
+point_c15_yukon_charley,open waveform,COL,240.0,1-2,0.010767,858.3,120.0,120.0,120.0,570.0
+point_c15_yukon_charley,open waveform,COL,240.0,2-4,0.017227,858.3,120.0,60.0,120.0,570.0
+point_c16_fort_richardson,open waveform,COL,417.429,0.5-1,0.001694,1490.7,120.0,120.0,570.0,570.0
+point_c16_fort_richardson,open waveform,COL,417.429,1-2,0.008164,1490.7,120.0,120.0,120.0,570.0
+point_c16_fort_richardson,open waveform,COL,417.429,2-4,0.013062,1490.7,120.0,120.0,120.0,570.0
+point_c17_mcgrath,open waveform,COL,439.414,0.5-1,0.001651,1569.0,120.0,120.0,570.0,570.0
+point_c17_mcgrath,open waveform,COL,439.414,1-2,0.007957,1569.0,120.0,120.0,120.0,570.0
+point_c17_mcgrath,open waveform,COL,439.414,2-4,0.012731,1569.0,120.0,120.0,120.0,570.0
+line_c18_susitna_valley,open waveform,COL,231.728,0.5-1,0.002274,828.9,120.0,120.0,570.0,570.0
+line_c18_susitna_valley,open waveform,COL,231.728,1-2,0.010957,828.9,120.0,120.0,120.0,570.0
+line_c18_susitna_valley,open waveform,COL,231.728,2-4,0.017532,828.9,120.0,60.0,120.0,570.0

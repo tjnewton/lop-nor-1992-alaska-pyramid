@@ -1,0 +1,45 @@
+check,value,note
+site_spread_max_relative_difference,0.0,"way valid, as measured, committed windows, median and p05"
+col1992_max_relative_difference,0.0,"against a2_clutter.csv, committed windows"
+clean_equals_as_measured_committed_windows_max_relative_difference,0.08465978806172947,reference records; above zero where a record's first later phase falls inside the third window
+records_measured,157.0,network records and the 1992 record
+simulated_cases,9.0,thawed_1200 thawed_850 frozen_1200 frozen_850 R1 R2 R3 R4 R5
+slowest_rayleigh_speed_ms,285.8,a8_attenuation.csv and a8_generous_attenuation.csv
+bound_at_committed_start_range,0.1540819789917043,set by R5 2-4 Hz forward at 1200 m
+committed_start,0.114284,"s11_ranges.csv bound_start, R2 2-4 Hz; last receiver, unflagged rows only"
+crossing_committed_median_max_km,0.8,equals s11_ranges.csv range_median_coda
+crossing_committed_median_uniform_ground_cases_km,0.4,the eight cases in uniform ground
+crossing_committed_median_further_case_as_measured_km,0.4,"R5, the larger of its two measures as measured"
+crossing_committed_median_further_case_upper_km,0.8,"R5, the upper end of its bracket"
+bounds,35.0,pairs of version and kind with a bound in s11_versions.csv
+bounds_reading_below_p05,0.0,
+bounds_reading_below_median,0.0,
+bounds_reading_not_settled_by_amplitude,35.0,
+bounds_with_no_clean_level_in_a_spanned_window,29.0,readings whose delay range meets a window with no level of the coda of P alone
+clean_level_ends_s_min,71.6,"first later phase less the guard, s after P, reference records of the box"
+clean_level_ends_s_max,98.5,
+bound_at_committed_start_range_as_measured,0.13283665408162013,set by R2 2-4 Hz forward at 2800 m; every case by its ratio as measured
+crossing_high_snr_median_uniform_ground_cases_km,0.7,the eight cases in uniform ground against the median of way high_snr
+largest_ratio_beyond_start_over_lowest_way_median_as_measured,0.8697053577260841,"every case as measured, at or beyond START_M, against the lowest of the three medians of its band"
+largest_ratio_beyond_start_over_lowest_way_median_with_allowance,0.9650782639684866,the further case by the upper end of its bracket
+threshold_bound_bands,105.0,"pairs of bound and band, the stations of the bounds"
+threshold_bound_bands_never_above_1992,35.0,the band's own bound is below the 1992 record's level in every window it could arrive in
+threshold_speed_below_kms_max,4.238924446864197,the fastest wave that could arrive in a window where its bound is at or above the 1992 record's level
+threshold_q_at_fastest,1225.9319565075082,"the least Q for that same bound, band and window"
+threshold_q_least_min,147.05868848567152,"the least Q over every bound, band and window: CUT 1-2 Hz, window 15-30"
+threshold_speed_at_least_q,0.5309760955926287,the speed below which the wave of that same row must travel
+threshold_q_least_for_faster_than_1_kms,344.7137408874297,the least Q among the rows a wave faster than 1 km/s could arrive in
+threshold_q_least_for_faster_than_2_kms,344.7137408874297,likewise for 2 km/s
+open_waveform_bound_min,0.00150888772203027,IU.COL at its distance from each version; band's own bound
+open_waveform_bound_max,0.03530716763292498,
+open_waveform_q_least_min,298.09408702178723,"as threshold_q_least_min, for IU.COL"
+largest_ratio_as_measured_at_900m_0.5-1,0.035416,"every case and line, as measured; set by R3"
+largest_ratio_as_measured_at_900m_1-2,0.116932,"every case and line, as measured; set by R4"
+largest_ratio_as_measured_at_900m_2-4,0.2331,"every case and line, as measured; set by R2"
+bounds_passing_last_window,7.0,widened delay range passes 570 s
+bound_min,0.013534339311660369,
+bound_max,0.10753564322758759,
+named_stations_among_reference_records,8.0,ANM BWN CUT KLU MLY PMR TRF TTA
+largest_ratio_at_900m_0.5-1,0.035416,every case and line; set by R3
+largest_ratio_at_900m_1-2,0.160123,every case and line; set by R5
+largest_ratio_at_900m_2-4,0.248321,every case and line; set by R5

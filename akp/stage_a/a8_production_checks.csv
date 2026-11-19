@@ -1,0 +1,90 @@
+check,value,detail
+ray_parameter_s_per_km,0.05872754646675127,"iasp91 P, surface source, 1992 origin to the stage's station; computed, the stage stores no constant"
+wavelet,Ricker 2.0 Hz,spectrum at 0.5 and 4 Hz: 16% and 20% of its peak
+simulations_archived,8,cap 8
+reruns,0,none
+sponge_caveat,,"a wave grazing a sponge is reflected from its inner edge (gate three, attempt 1: 9-45% of the direct Rayleigh wave); here such reflections of the scattered field come from the far side and end sponges and arrive late in the slow window, after its peak"
+rayleigh_yardstick_h_over_v_1-2,0.6069635166466736,"gate three's Rayleigh wave at 2400 m, same statistic; phase lag -100.1 deg"
+rayleigh_yardstick_phase_lag_deg_1-2,-100.07628251885129,radial outward against vertical (z down)
+rayleigh_yardstick_h_over_v_2-4,0.6253874133238019,"gate three's Rayleigh wave at 2400 m, same statistic; phase lag -100.5 deg"
+rayleigh_yardstick_phase_lag_deg_2-4,-100.52943298697646,radial outward against vertical (z down)
+thawed_1200_incident_peak_min_over_max_0.5-1,0.9228683569413846,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+thawed_1200_incident_window_peak_over_record_peak_min_0.5-1,1.0,1 when nothing in the twin's record exceeds the incident pulse
+thawed_1200_incident_peak_min_over_max_1-2,0.910437687334123,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+thawed_1200_incident_window_peak_over_record_peak_min_1-2,1.0,1 when nothing in the twin's record exceeds the incident pulse
+thawed_1200_incident_peak_min_over_max_2-4,0.8871213016049353,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+thawed_1200_incident_window_peak_over_record_peak_min_2-4,1.0,1 when nothing in the twin's record exceeds the incident pulse
+thawed_1200_twin_run_seconds,1398.4,164 Mpts/s
+thawed_1200_twin_peak_rss_gb,5.31,limit 8
+thawed_1200_twin_field_left_over_incident_peak,0.05654321645890111,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+thawed_1200_twin_receivers_last_half_second_over_incident_peak,0.02408381178239537,
+thawed_1200_body_run_seconds,1432.7,160 Mpts/s
+thawed_1200_body_peak_rss_gb,5.39,limit 8
+thawed_1200_body_field_left_over_incident_peak,0.05655341935015606,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+thawed_1200_body_receivers_last_half_second_over_incident_peak,0.021465944519075783,
+thawed_1200_grid_shape,721x365x132,"h 10.0 m, sponge 30 cells, mirror plane y = 0; 34.7M points"
+thawed_1200_time_step_s,0.0014961413760581003,6589 steps
+thawed_1200_points_per_rayleigh_wavelength_at_top,15.4,host Rayleigh speed 616 m/s at 4.0 Hz; rule 15.4 (gate three)
+thawed_1200_bands_measured,0.5-1 1-2 2-4,
+thawed_1200_incidence_deg,4.041158419778646,in the thawed host
+thawed_1200_t0_s,1.0623357950820194,incident P at the apex
+thawed_1200_window_speeds,2400 1333 667,vp_fast vs_fast vs_slow (m/s)
+thawed_850_incident_peak_min_over_max_0.5-1,0.9121833953338455,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+thawed_850_incident_window_peak_over_record_peak_min_0.5-1,1.0,1 when nothing in the twin's record exceeds the incident pulse
+thawed_850_incident_peak_min_over_max_1-2,0.897033073295408,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+thawed_850_incident_window_peak_over_record_peak_min_1-2,1.0,1 when nothing in the twin's record exceeds the incident pulse
+thawed_850_twin_run_seconds,1249.8,160 Mpts/s
+thawed_850_twin_peak_rss_gb,5.31,limit 8
+thawed_850_twin_field_left_over_incident_peak,0.0329283675513824,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+thawed_850_twin_receivers_last_half_second_over_incident_peak,0.019089974741113163,
+thawed_850_body_run_seconds,1257.7,159 Mpts/s
+thawed_850_body_peak_rss_gb,5.4,limit 8
+thawed_850_body_field_left_over_incident_peak,0.034840330934510576,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+thawed_850_body_receivers_last_half_second_over_incident_peak,0.016612206437441455,
+thawed_850_grid_shape,721x365x132,"h 10.0 m, sponge 30 cells, mirror plane y = 0; 34.7M points"
+thawed_850_time_step_s,0.0021121995897290828,5759 steps
+thawed_850_points_per_rayleigh_wavelength_at_top,21.8,host Rayleigh speed 436 m/s at 2.0 Hz; rule 15.4 (gate three)
+thawed_850_bands_measured,0.5-1 1-2,"2-4 Hz not measured: 10 m cells give under 15.4 points per Rayleigh wavelength at 4 Hz, and 7 m cells exceed 8 GB (decision 8)"
+thawed_850_incidence_deg,2.8613036330474455,in the thawed host
+thawed_850_t0_s,1.18677057218746,incident P at the apex
+thawed_850_window_speeds,1700 944 472,vp_fast vs_fast vs_slow (m/s)
+frozen_1200_incident_peak_min_over_max_0.5-1,0.911612943529663,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+frozen_1200_incident_window_peak_over_record_peak_min_0.5-1,1.0,1 when nothing in the twin's record exceeds the incident pulse
+frozen_1200_incident_peak_min_over_max_1-2,0.9285143526342018,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+frozen_1200_incident_window_peak_over_record_peak_min_1-2,1.0,1 when nothing in the twin's record exceeds the incident pulse
+frozen_1200_incident_peak_min_over_max_2-4,0.900271516283444,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+frozen_1200_incident_window_peak_over_record_peak_min_2-4,1.0,1 when nothing in the twin's record exceeds the incident pulse
+frozen_1200_twin_run_seconds,1784.4,160 Mpts/s
+frozen_1200_twin_peak_rss_gb,5.32,limit 8
+frozen_1200_twin_field_left_over_incident_peak,0.02312847205689582,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+frozen_1200_twin_receivers_last_half_second_over_incident_peak,0.011716749634878327,
+frozen_1200_body_run_seconds,1801.8,159 Mpts/s
+frozen_1200_body_peak_rss_gb,5.4,limit 8
+frozen_1200_body_field_left_over_incident_peak,0.023318270141128555,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+frozen_1200_body_receivers_last_half_second_over_incident_peak,0.01185912603362067,
+frozen_1200_grid_shape,721x365x132,"h 10.0 m, sponge 30 cells, mirror plane y = 0; 34.7M points"
+frozen_1200_time_step_s,0.0011969131008464802,8236 steps
+frozen_1200_points_per_rayleigh_wavelength_at_top,15.4,host Rayleigh speed 616 m/s at 4.0 Hz; rule 15.4 (gate three)
+frozen_1200_bands_measured,0.5-1 1-2 2-4,
+frozen_1200_incidence_deg,4.041158419778646,in the thawed host
+frozen_1200_t0_s,1.0623357950820194,incident P at the apex
+frozen_1200_window_speeds,3000 1667 667,vp_fast vs_fast vs_slow (m/s)
+frozen_850_incident_peak_min_over_max_0.5-1,0.9093607449051332,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+frozen_850_incident_window_peak_over_record_peak_min_0.5-1,1.0,1 when nothing in the twin's record exceeds the incident pulse
+frozen_850_incident_peak_min_over_max_1-2,0.9087539391438538,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+frozen_850_incident_window_peak_over_record_peak_min_1-2,1.0,1 when nothing in the twin's record exceeds the incident pulse
+frozen_850_twin_run_seconds,2296.0,154 Mpts/s
+frozen_850_twin_peak_rss_gb,5.3,limit 8
+frozen_850_twin_field_left_over_incident_peak,0.014192757435525899,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+frozen_850_twin_receivers_last_half_second_over_incident_peak,0.005344499823298276,
+frozen_850_body_run_seconds,2153.1,164 Mpts/s
+frozen_850_body_peak_rss_gb,5.38,limit 8
+frozen_850_body_field_left_over_incident_peak,0.014105616830063965,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+frozen_850_body_receivers_last_half_second_over_incident_peak,0.0051384274996309895,
+frozen_850_grid_shape,721x365x132,"h 10.0 m, sponge 30 cells, mirror plane y = 0; 34.7M points"
+frozen_850_time_step_s,0.0011969131008464802,10162 steps
+frozen_850_points_per_rayleigh_wavelength_at_top,21.8,host Rayleigh speed 436 m/s at 2.0 Hz; rule 15.4 (gate three)
+frozen_850_bands_measured,0.5-1 1-2,"2-4 Hz not measured: 10 m cells give under 15.4 points per Rayleigh wavelength at 4 Hz, and 7 m cells exceed 8 GB (decision 8)"
+frozen_850_incidence_deg,2.8613036330474455,in the thawed host
+frozen_850_t0_s,1.18677057218746,incident P at the apex
+frozen_850_window_speeds,3000 1667 472,vp_fast vs_fast vs_slow (m/s)

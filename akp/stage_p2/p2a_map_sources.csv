@@ -1,0 +1,5 @@
+criterion,source,cite,url,file,status,content_type,bytes,ok,fetched
+permafrost,"Pastick et al. 2015, near-surface permafrost probability, 30 m",doi:10.5066/F7C53HX6,https://www.sciencebase.gov/catalog/file/get/5602ab5ae4b03bc34f5448b4?f=__disk__28%2F5d%2F17%2F285d1775c7f7ae08967bd5668a1b67cf47aa6663,AK_PFProbability_1m.7z,200,application/x-7z-compressed,814996593,1,cached
+permafrost,"Pastick et al. 2015, FGDC metadata",doi:10.5066/F7C53HX6,https://www.sciencebase.gov/catalog/file/get/5602ab5ae4b03bc34f5448b4?f=__disk__b5%2F84%2Fb1%2Fb584b11a5c8bd25d8c4046e397038aac7aa0ad78,AK_ProbofPF_1m_clipped_FGDC.xml,200,application/fgdc+xml,13339,1,cached
+surficial_geology,"Wilson et al. 2015, Geologic map of Alaska (SIM 3340), geodatabase",doi:10.3133/sim3340,https://pubs.usgs.gov/sim/3340/sim3340_gdb.zip,sim3340_gdb.zip,200,application/zip,386307353,1,cached
+land_cover,"NLCD 2016 Land Cover, Alaska (MRLC, 2020-07-24 bundle), 30 m",mrlc.gov NLCD 2016 Alaska,https://www.mrlc.gov/downloads/sciweb1/shared/mrlc/data-bundles/NLCD_2016_Land_Cover_AK_20200724.zip,NLCD_2016_Land_Cover_AK_20200724.zip,200,application/zip,408811745,1,cached

@@ -1,0 +1,24 @@
+check,value,note
+n_sites_recorders,19.0,
+nn_spacing_min_km_recorders,69.5,
+nn_spacing_median_km_recorders,198.56,
+nn_min_over_max_base_recorders,139.0,
+nn_median_over_max_base_recorders,397.1,
+nn_min_over_half_s_recorders,834.4,
+n_sites_recorders_and_operating,94.0,
+nn_spacing_min_km_recorders_and_operating,2.81,
+nn_spacing_median_km_recorders_and_operating,40.86,
+nn_min_over_max_base_recorders_and_operating,5.6,
+nn_median_over_max_base_recorders_and_operating,81.7,
+nn_min_over_half_s_recorders_and_operating,33.7,
+km_c4_point_to_nearest_recorders,166.9,TTA
+km_c4_point_to_nearest_recorders_and_operating,127.5,TRF
+km_denali_to_nearest_recorders,114.6,RND
+km_denali_to_nearest_recorders_and_operating,55.7,TRF
+c3_disc_operating_sites,2.0,HUR/TRF
+c3_belt_frac_within_rg_cited_q100_recorders,0.0,radius 8.516 km
+c3_belt_frac_within_rg_unattenuated_recorders,0.1121,radius 48.405 km
+c3_belt_frac_within_rg_cited_q100_recorders_and_operating,0.0338,radius 8.516 km
+c3_belt_frac_within_rg_unattenuated_recorders_and_operating,0.5492,radius 48.405 km
+c3_belt_min_km_to_operating,0.6,
+c3_belt_nw_min_km_to_operating,47.5,

@@ -1,0 +1,12 @@
+check,value,of,triggered,detail
+catalog_explosions,11,,,lopnor_1990-05-26 mb5.45 ISC; lopnor_1990-08-16 mb6.2 ISC; lopnor_1992-05-21 mb6.53 ISC; lopnor_1992-09-25 mb4.91 ISC; lopnor_1993-10-05 mb5.89 ISC; lopnor_1994-06-10 mb5.77 ISC; lopnor_1994-10-07 mb5.95 ISC; lopnor_1995-05-15 mb6.1 ISC; lopnor_1995-08-17 mb6.01 ISC; lopnor_1996-06-08 mb5.81 ISC; lopnor_1996-07-29 mb4.74 ISC
+events_with_vertical_record,7,11,,lopnor_1992-05-21:IU.COL; lopnor_1992-09-25:IU.COL; lopnor_1993-10-05:IU.COL; lopnor_1994-06-10:IU.COL; lopnor_1994-10-07:IU.COL; lopnor_1995-05-15:IU.COL; lopnor_1996-07-29:IU.COLA
+records_not_measured,6,,,lopnor_1990-05-26:no data; lopnor_1990-08-16:not covered; lopnor_1995-08-17:no data; lopnor_1996-06-08:no station epoch
+events_p_snr_ok_low_band,7,7,,"band 0.5-1 Hz, snr >= 5, covered, no gaps, not clipped; lopnor_1992-05-21:560.7; lopnor_1992-09-25:7.2; lopnor_1993-10-05:56.0; lopnor_1994-06-10:67.5; lopnor_1994-10-07:44.7; lopnor_1995-05-15:116.8; lopnor_1996-07-29:9.3"
+K1_usable_events_low_band,5,4,False,also a valid 5-15 s clutter cell; lopnor_1992-05-21; lopnor_1993-10-05; lopnor_1994-06-10; lopnor_1994-10-07; lopnor_1995-05-15
+usable_events_low_band_IU_only,5,4,,lopnor_1992-05-21; lopnor_1993-10-05; lopnor_1994-06-10; lopnor_1994-10-07; lopnor_1995-05-15
+reproduces_a2_1992_cells,0.0,12,False,"max relative difference from a2_clutter.csv, kind=test1992, hilbert"
+cache_bytes,1385759,,,"$AKP_DATA/a5: this script's catalog, StationXML and miniSEED"
+valid_vertical_pairs_low_band,10,,,"band 0.5-1 Hz, lag 5-15 s"
+align_lag_abs_max_s,0.9,3.0,False,a lag at the search limit means the alignment did not converge
+gate_pass,1,,,

@@ -1,0 +1,66 @@
+check,value,detail
+factor_cavity,0.8062,qs 3.2249 / born 4.0
+factor_dense_stiff,0.6157,qs 2.4629 / born 4.0
+rayleigh_cases,210,ka < 0.5: correction exact
+max_box_frac_qs_rayleigh,0.0,
+max_r_star_qs_km_rayleigh,0.37,
+max_box_frac_qs_vp_300,0.773,all ka (correction exact only for ka < 0.5)
+max_r_star_qs_km_vp_300,209.472,
+max_box_frac_qs_operating_vp_300,0.7732,recorders + codes operating at the test
+max_r_star_geo_qs_km_vp_300,4.537,theta 75-90 deg
+max_box_frac_geo_vp_300,0.0002,
+max_box_frac_geo_operating_vp_300,0.0017,
+max_box_frac_qs_vp_500,0.1524,all ka (correction exact only for ka < 0.5)
+max_r_star_qs_km_vp_500,75.41,
+max_box_frac_qs_operating_vp_500,0.2666,recorders + codes operating at the test
+max_r_star_geo_qs_km_vp_500,2.83,theta 75-90 deg
+max_box_frac_geo_vp_500,0.0002,
+max_box_frac_geo_operating_vp_500,0.001,
+max_box_frac_qs_vp_850,0.0161,all ka (correction exact only for ka < 0.5)
+max_r_star_qs_km_vp_850,26.093,
+max_box_frac_qs_operating_vp_850,0.0576,recorders + codes operating at the test
+max_r_star_geo_qs_km_vp_850,1.532,theta 75-90 deg
+max_box_frac_geo_vp_850,0.0,
+max_box_frac_geo_operating_vp_850,0.0,
+max_box_frac_qs_vp_1000,0.0086,all ka (correction exact only for ka < 0.5)
+max_r_star_qs_km_vp_1000,18.852,
+max_box_frac_qs_operating_vp_1000,0.0294,recorders + codes operating at the test
+max_r_star_geo_qs_km_vp_1000,1.486,theta 75-90 deg
+max_box_frac_geo_vp_1000,0.0,
+max_box_frac_geo_operating_vp_1000,0.0,
+max_box_frac_qs_vp_1200,0.004,all ka (correction exact only for ka < 0.5)
+max_r_star_qs_km_vp_1200,13.092,
+max_box_frac_qs_operating_vp_1200,0.0151,recorders + codes operating at the test
+max_r_star_geo_qs_km_vp_1200,1.401,theta 75-90 deg
+max_box_frac_geo_vp_1200,0.0,
+max_box_frac_geo_operating_vp_1200,0.0,
+max_box_frac_qs_vp_1500,0.0017,all ka (correction exact only for ka < 0.5)
+max_r_star_qs_km_vp_1500,8.379,
+max_box_frac_qs_operating_vp_1500,0.0054,recorders + codes operating at the test
+max_r_star_geo_qs_km_vp_1500,1.07,theta 75-90 deg
+max_box_frac_geo_vp_1500,0.0,
+max_box_frac_geo_operating_vp_1500,0.0,
+max_box_frac_qs_vp_2000,0.0002,all ka (correction exact only for ka < 0.5)
+max_r_star_qs_km_vp_2000,4.713,
+max_box_frac_qs_operating_vp_2000,0.0017,recorders + codes operating at the test
+max_r_star_geo_qs_km_vp_2000,0.789,theta 75-90 deg
+max_box_frac_geo_vp_2000,0.0,
+max_box_frac_geo_operating_vp_2000,0.0,
+max_box_frac_qs_vp_3000,0.0002,all ka (correction exact only for ka < 0.5)
+max_r_star_qs_km_vp_3000,2.666,
+max_box_frac_qs_operating_vp_3000,0.0005,recorders + codes operating at the test
+max_r_star_geo_qs_km_vp_3000,0.742,theta 75-90 deg
+max_box_frac_geo_vp_3000,0.0,
+max_box_frac_geo_operating_vp_3000,0.0,
+max_box_frac_qs_vp_4500,0.0,all ka (correction exact only for ka < 0.5)
+max_r_star_qs_km_vp_4500,1.516,
+max_box_frac_qs_operating_vp_4500,0.0,recorders + codes operating at the test
+max_r_star_geo_qs_km_vp_4500,0.463,theta 75-90 deg
+max_box_frac_geo_vp_4500,0.0,
+max_box_frac_geo_operating_vp_4500,0.0,
+max_box_frac_qs_vp_6000,0.0,all ka (correction exact only for ka < 0.5)
+max_r_star_qs_km_vp_6000,0.933,
+max_box_frac_qs_operating_vp_6000,0.0,recorders + codes operating at the test
+max_r_star_geo_qs_km_vp_6000,0.291,theta 75-90 deg
+max_box_frac_geo_vp_6000,0.0,
+max_box_frac_geo_operating_vp_6000,0.0,

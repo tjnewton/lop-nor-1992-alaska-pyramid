@@ -1,0 +1,51 @@
+check,note,value
+vault_assertion,passed for every member read,54
+vault_packages_in_tables,must be 0,0
+members_run,development members of the two classes with an output,54
+members_missing,development members without an output,0
+null_clusters_wanted,sampled,13123
+null_clusters_found,located in a chunk,13123
+worker_peak_rss_gb,largest over members (ascii_data/kilbuck_buckstock_mag_final.csv),2.868
+fit_s_median,stage two per place,0.222
+fit_s_mean,stage two per place,0.249
+fit_s_q95,stage two per place,0.442
+member_seconds_total,sum over members (worker time),13720.0
+packages_mag_0-60,,30
+null_sample_mag_0-60,rows,6698
+null_population_mag_0-60,clusters at or above 10.0,115345
+max_null_weight_mag_0-60,,56.2
+plants_mag_0-60_built_T2_low,"rows, misses included",2266
+plants_mag_0-60_built_T2_high,"rows, misses included",2266
+plants_mag_0-60_monolith_T2_low,"rows, misses included",2235
+plants_mag_0-60_monolith_T2_high,"rows, misses included",2235
+controls_mag_0-60_dike,rows,480
+controls_mag_0-60_plug,rows,480
+controls_mag_0-60_dipole,rows,480
+weighted_over_population_at_30_mag_0-60,sum of weights / clusters,1.0
+packages_mag_60-150,,11
+null_sample_mag_60-150,rows,6425
+null_population_mag_60-150,clusters at or above 10.0,67753
+max_null_weight_mag_60-150,,32.2
+plants_mag_60-150_built_T2_low,"rows, misses included",830
+plants_mag_60-150_built_T2_high,"rows, misses included",830
+plants_mag_60-150_monolith_T2_low,"rows, misses included",797
+plants_mag_60-150_monolith_T2_high,"rows, misses included",797
+controls_mag_60-150_dike,rows,178
+controls_mag_60-150_plug,rows,178
+controls_mag_60-150_dipole,rows,178
+weighted_over_population_at_30_mag_60-150,sum of weights / clusters,1.0
+fit_self_check_table_err,p3_m3_fit.self_check,0.00121
+fit_self_check_response_err,p3_m3_fit.self_check,0.0003
+fit_self_check_n_try,p3_m3_fit.self_check,12
+fit_self_check_pyramid_wins_200m,p3_m3_fit.self_check,11
+fit_self_check_base_in_range_200m,p3_m3_fit.self_check,12
+fit_self_check_top_near_200m,p3_m3_fit.self_check,12
+fit_self_check_contrast_ok_200m,p3_m3_fit.self_check,12
+fit_self_check_pyramid_wins_400m,p3_m3_fit.self_check,7
+fit_self_check_dike_wins_400m,p3_m3_fit.self_check,12
+fit_self_check_fit_s_median_200m,p3_m3_fit.self_check,0.301
+fit_self_check_fit_s_median_400m,p3_m3_fit.self_check,0.146
+eval_self_check_reader_equals_frame,p3_m3_eval check,True
+eval_self_check_score_near_max_abs_diff,p3_m3_eval check,0.0
+eval_self_check_plants_compared,p3_m3_eval check,3
+eval_self_check_vault_row_refused,p3_m3_eval check,True

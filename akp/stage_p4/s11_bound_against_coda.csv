@@ -1,0 +1,114 @@
+version,kind,code,name,km,band,delay_after_p_s,earliest_delay_s,latest_delay_s,window,window_by,slower_ground_only,bound_spreading,bound_spreading_band,bound_attenuated_band,spreading_band_set_by,attenuated_band_set_by,median,p05,spreading_below_median,spreading_below_p05,spreading_band_below_median,spreading_band_below_p05,attenuated_band_below_median,attenuated_band_below_p05
+line_denali_nome,recorded,ANM,Nome,7.20938,0.5-1,11.7073,11.7073,25.2253,5-15,existing; earliest,False,0.073722,0.0120569,0.00665441,R4,R4,0.303754,0.171859,True,True,True,True,True,True
+line_denali_nome,recorded,ANM,Nome,7.20938,0.5-1,11.7073,11.7073,25.2253,15-30,R1; R4; thawed_850,True,0.073722,0.0120569,0.00665441,R4,R4,0.300913,0.193322,True,True,True,True,True,True
+line_denali_nome,recorded,ANM,Nome,7.20938,1-2,11.7073,11.7073,25.2253,5-15,existing; earliest; R2; R3; thawed_1200,False,0.073722,0.0420416,0.017166,R4,thawed_850,0.20559,0.0999664,True,True,True,True,True,True
+line_denali_nome,recorded,ANM,Nome,7.20938,1-2,11.7073,11.7073,25.2253,15-30,R1; R4; thawed_850,True,0.073722,0.0420416,0.017166,R4,thawed_850,0.153777,0.0621998,True,False,True,True,True,True
+line_denali_nome,recorded,ANM,Nome,7.20938,2-4,11.7073,11.7073,16.5277,5-15,existing; earliest; R2; R3; thawed_1200,False,0.073722,0.073722,0.0244569,R2,R2,0.290961,0.100225,True,True,True,True,True,True
+line_denali_nome,recorded,ANM,Nome,7.20938,2-4,11.7073,11.7073,16.5277,15-30,R1,True,0.073722,0.073722,0.0244569,R2,R2,0.218641,0.0669803,True,False,True,False,True,True
+line_denali_nome,operating,TRF,Thorofare Mountain,55.6962,0.5-1,90.4453,90.4453,194.878,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+line_denali_nome,operating,TRF,Thorofare Mountain,55.6962,1-2,90.4453,90.4453,194.878,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+line_denali_nome,operating,TRF,Thorofare Mountain,55.6962,2-4,90.4453,90.4453,127.685,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+disc_denali,recorded,RND,Reindeer,34.0931,0.5-1,55.3639,55.3639,119.29,30-60,existing; earliest,False,0.033901,0.00554435,0.000435749,R4,thawed_850,0.22063,0.130469,True,True,True,True,True,True
+disc_denali,recorded,RND,Reindeer,34.0931,1-2,55.3639,55.3639,119.29,30-60,existing; earliest; R2; R3; thawed_1200,False,0.033901,0.0193328,0.000917389,R4,R2,0.0825491,0.0335879,True,False,True,True,True,True
+disc_denali,recorded,RND,Reindeer,34.0931,2-4,55.3639,55.3639,78.1593,30-60,existing; earliest; R2; R3; thawed_1200,False,0.033901,0.033901,0.000183695,R2,R2,0.112767,0.0274797,True,False,True,False,True,True
+belt_denali,recorded,RND,Reindeer,26.0464,0.5-1,42.2968,42.2968,91.1349,30-60,existing; earliest; R1; thawed_850,False,0.0387858,0.00634323,0.000769952,R4,thawed_850,0.22063,0.130469,True,True,True,True,True,True
+belt_denali,recorded,RND,Reindeer,26.0464,1-2,42.2968,42.2968,91.1349,30-60,existing; earliest; R1; R2; R3; thawed_1200; thawed_850,False,0.0387858,0.0221185,0.00194285,R4,R2,0.0825491,0.0335879,True,False,True,True,True,True
+belt_denali,recorded,RND,Reindeer,26.0464,2-4,42.2968,42.2968,59.712,30-60,existing; earliest; R1; R2; R3; thawed_1200,False,0.0387858,0.0387858,0.000720129,R2,R2,0.112767,0.0274797,True,False,True,False,True,True
+belt_denali_northwest,recorded,RND,Reindeer,112.53,0.5-1,182.738,182.738,393.736,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+belt_denali_northwest,recorded,RND,Reindeer,112.53,1-2,182.738,182.738,393.736,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+belt_denali_northwest,recorded,RND,Reindeer,112.53,2-4,182.738,182.738,257.977,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+belt_denali_northwest,operating,TRF,Thorofare Mountain,46.5124,0.5-1,75.5316,75.5316,162.744,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+belt_denali_northwest,operating,TRF,Thorofare Mountain,46.5124,1-2,75.5316,75.5316,162.744,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+belt_denali_northwest,operating,TRF,Thorofare Mountain,46.5124,2-4,75.5316,75.5316,106.631,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c4,recorded,TTA,Tatalina,166.906,0.5-1,271.04,271.04,583.997,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c4,recorded,TTA,Tatalina,166.906,1-2,271.04,271.04,583.997,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c4,recorded,TTA,Tatalina,166.906,2-4,271.04,271.04,382.637,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c4,operating,TRF,Thorofare Mountain,127.517,0.5-1,207.076,207.076,446.177,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c4,operating,TRF,Thorofare Mountain,127.517,1-2,207.076,207.076,446.177,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c4,operating,TRF,Thorofare Mountain,127.517,2-4,207.076,207.076,292.337,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+stretch_c4_map,recorded,TTA,Tatalina,153.483,0.5-1,249.242,249.242,537.031,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+stretch_c4_map,recorded,TTA,Tatalina,153.483,1-2,249.242,249.242,537.031,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+stretch_c4_map,recorded,TTA,Tatalina,153.483,2-4,249.242,249.242,351.865,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+stretch_c4_map,operating,TRF,Thorofare Mountain,127.517,0.5-1,207.076,207.076,446.177,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+stretch_c4_map,operating,TRF,Thorofare Mountain,127.517,1-2,207.076,207.076,446.177,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+stretch_c4_map,operating,TRF,Thorofare Mountain,127.517,2-4,207.076,207.076,292.337,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c7_west,recorded,TTA,Tatalina,157.521,0.5-1,255.799,255.799,551.158,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c7_west,recorded,TTA,Tatalina,157.521,1-2,255.799,255.799,551.158,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c7_west,recorded,TTA,Tatalina,157.521,2-4,255.799,255.799,361.121,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c7_west,operating,TRF,Thorofare Mountain,139.047,0.5-1,225.799,225.799,486.519,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c7_west,operating,TRF,Thorofare Mountain,139.047,1-2,225.799,225.799,486.519,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c7_west,operating,TRF,Thorofare Mountain,139.047,2-4,225.799,225.799,318.769,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+valdez_town,recorded,KLU,Klutina,46.2988,0.5-1,75.1848,75.1848,161.997,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+valdez_town,recorded,KLU,Klutina,46.2988,1-2,75.1848,75.1848,161.997,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+valdez_town,recorded,KLU,Klutina,46.2988,2-4,75.1848,75.1848,106.141,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+line_c7_unalakleet,recorded,TTA,Tatalina,70.4416,0.5-1,114.39,114.39,246.472,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+line_c7_unalakleet,recorded,TTA,Tatalina,70.4416,1-2,114.39,114.39,246.472,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+line_c7_unalakleet,recorded,TTA,Tatalina,70.4416,2-4,114.39,114.39,161.489,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+line_c7_unalakleet,operating,TRF,Thorofare Mountain,55.6962,0.5-1,90.4453,90.4453,194.878,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+line_c7_unalakleet,operating,TRF,Thorofare Mountain,55.6962,1-2,90.4453,90.4453,194.878,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+line_c7_unalakleet,operating,TRF,Thorofare Mountain,55.6962,2-4,90.4453,90.4453,127.685,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c9_haarp,recorded,TOA,Tolsona,61.9955,0.5-1,100.675,100.675,216.919,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c9_haarp,recorded,TOA,Tolsona,61.9955,1-2,100.675,100.675,216.919,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c9_haarp,recorded,TOA,Tolsona,61.9955,2-4,100.675,100.675,142.126,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c9_haarp,operating,SDG,Sourdough,25.2734,0.5-1,41.0415,41.0415,88.4302,30-60,existing; earliest; R1; thawed_850,False,0.0393745,0.0064395,0.000814967,R4,thawed_850,0.22063,0.130469,True,True,True,True,True,True
+point_c9_haarp,operating,SDG,Sourdough,25.2734,1-2,41.0415,41.0415,88.4302,30-60,existing; earliest; R1; R2; R3; thawed_1200; thawed_850,False,0.0393745,0.0224542,0.00209253,R4,R2,0.0825491,0.0335879,True,False,True,True,True,True
+point_c9_haarp,operating,SDG,Sourdough,25.2734,2-4,41.0415,41.0415,57.9398,30-60,existing; earliest; R1; R2; R3; thawed_1200,False,0.0393745,0.0393745,0.000822874,R2,R2,0.112767,0.0274797,True,False,True,False,True,True
+point_c10_carey_lake,recorded,TTA,Tatalina,179.732,0.5-1,291.867,291.867,628.872,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c10_carey_lake,recorded,TTA,Tatalina,179.732,1-2,291.867,291.867,628.872,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c10_carey_lake,recorded,TTA,Tatalina,179.732,2-4,291.867,291.867,412.039,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c10_carey_lake,operating,TRF,Thorofare Mountain,115.616,0.5-1,187.749,187.749,404.533,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c10_carey_lake,operating,TRF,Thorofare Mountain,115.616,1-2,187.749,187.749,404.533,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c10_carey_lake,operating,TRF,Thorofare Mountain,115.616,2-4,187.749,187.749,265.052,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c12_coordinates,recorded,TTA,Tatalina,180.747,0.5-1,293.515,293.515,632.424,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c12_coordinates,recorded,TTA,Tatalina,180.747,1-2,293.515,293.515,632.424,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c12_coordinates,recorded,TTA,Tatalina,180.747,2-4,293.515,293.515,414.367,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c12_coordinates,operating,TRF,Thorofare Mountain,113.037,0.5-1,183.562,183.562,395.512,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c12_coordinates,operating,TRF,Thorofare Mountain,113.037,1-2,183.562,183.562,395.512,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c12_coordinates,operating,TRF,Thorofare Mountain,113.037,2-4,183.562,183.562,259.141,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c13_farewell,recorded,TTA,Tatalina,128.276,0.5-1,208.307,208.307,448.83,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c13_farewell,recorded,TTA,Tatalina,128.276,1-2,208.307,208.307,448.83,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c13_farewell,recorded,TTA,Tatalina,128.276,2-4,208.307,208.307,294.075,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c13_farewell,operating,SKT,Skwentna,126.819,0.5-1,205.941,205.941,443.732,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c13_farewell,operating,SKT,Skwentna,126.819,1-2,205.941,205.941,443.732,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c13_farewell,operating,SKT,Skwentna,126.819,2-4,205.941,205.941,290.735,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c14_telida,recorded,TTA,Tatalina,146.551,0.5-1,237.985,237.985,512.776,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c14_telida,recorded,TTA,Tatalina,146.551,1-2,237.985,237.985,512.776,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c14_telida,recorded,TTA,Tatalina,146.551,2-4,237.985,237.985,335.973,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c14_telida,operating,TRF,Thorofare Mountain,149.662,0.5-1,243.037,243.037,523.661,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c14_telida,operating,TRF,Thorofare Mountain,149.662,1-2,243.037,243.037,523.661,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c14_telida,operating,TRF,Thorofare Mountain,149.662,2-4,243.037,243.037,343.105,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c14_kaltag,recorded,TTA,Tatalina,205.665,0.5-1,333.981,333.981,719.613,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c14_kaltag,recorded,TTA,Tatalina,205.665,1-2,333.981,333.981,719.613,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c14_kaltag,recorded,TTA,Tatalina,205.665,2-4,333.981,333.981,471.493,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c14_kaltag,operating,MLY,Manley,388.822,0.5-1,631.409,631.409,1360.47,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c14_kaltag,operating,MLY,Manley,388.822,1-2,631.409,631.409,1360.47,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c14_kaltag,operating,MLY,Manley,388.822,2-4,631.409,631.409,891.384,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c15_yukon_charley,recorded,COL,College Outpost,240,0.5-1,389.737,389.737,839.749,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c15_yukon_charley,recorded,COL,College Outpost,240,1-2,389.737,389.737,839.749,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c15_yukon_charley,recorded,COL,College Outpost,240,2-4,389.737,389.737,550.207,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c15_yukon_charley,operating,PRP,Porcupine Dome,129.356,0.5-1,210.063,210.063,452.612,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c15_yukon_charley,operating,PRP,Porcupine Dome,129.356,1-2,210.063,210.063,452.612,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c15_yukon_charley,operating,PRP,Porcupine Dome,129.356,2-4,210.063,210.063,296.553,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c16_fort_richardson,recorded,PMR,Palmer,47.9852,0.5-1,77.9233,77.9233,167.898,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c16_fort_richardson,recorded,PMR,Palmer,47.9852,1-2,77.9233,77.9233,167.898,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c16_fort_richardson,recorded,PMR,Palmer,47.9852,2-4,77.9233,77.9233,110.007,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+point_c16_fort_richardson,operating,PMS,Palmer South,6.9225,0.5-1,11.2415,11.2415,24.2215,5-15,existing; earliest,False,0.0752341,0.0123042,0.00695341,R4,R4,0.303754,0.171859,True,True,True,True,True,True
+point_c16_fort_richardson,operating,PMS,Palmer South,6.9225,0.5-1,11.2415,11.2415,24.2215,15-30,R1; R4; thawed_850,True,0.0752341,0.0123042,0.00695341,R4,R4,0.300913,0.193322,True,True,True,True,True,True
+point_c16_fort_richardson,operating,PMS,Palmer South,6.9225,1-2,11.2415,11.2415,24.2215,5-15,existing; earliest; R2; R3; thawed_1200,False,0.0752341,0.0429039,0.0180695,R4,thawed_850,0.20559,0.0999664,True,True,True,True,True,True
+point_c16_fort_richardson,operating,PMS,Palmer South,6.9225,1-2,11.2415,11.2415,24.2215,15-30,R1; R4; thawed_850,True,0.0752341,0.0429039,0.0180695,R4,thawed_850,0.153777,0.0621998,True,False,True,True,True,True
+point_c16_fort_richardson,operating,PMS,Palmer South,6.9225,2-4,11.2415,11.2415,15.87,5-15,existing; earliest; R2; R3; thawed_1200,False,0.0752341,0.0752341,0.0260787,R2,R2,0.290961,0.100225,True,True,True,True,True,True
+point_c16_fort_richardson,operating,PMS,Palmer South,6.9225,2-4,11.2415,11.2415,15.87,15-30,R1,True,0.0752341,0.0752341,0.0260787,R2,R2,0.218641,0.0669803,True,False,True,False,True,True
+point_c17_mcgrath,recorded,TTA,Tatalina,21.3101,0.5-1,34.6056,34.6056,74.5631,30-60,existing; earliest; R1; thawed_850,False,0.0428798,0.00701279,0.00121032,R4,R4,0.22063,0.130469,True,True,True,True,True,True
+point_c17_mcgrath,recorded,TTA,Tatalina,21.3101,1-2,34.6056,34.6056,74.5631,30-60,existing; earliest; R1; R2; R3; thawed_1200; thawed_850,False,0.0428798,0.0244532,0.00308621,R4,R2,0.0825491,0.0335879,True,False,True,True,True,True
+point_c17_mcgrath,recorded,TTA,Tatalina,21.3101,2-4,34.6056,34.6056,48.8541,30-60,existing; earliest; R1; R2; R3; thawed_1200,False,0.0428798,0.0428798,0.00164362,R2,R2,0.112767,0.0274797,True,False,True,False,True,True
+point_c17_mcgrath,operating,SKT,Skwentna,236.179,0.5-1,383.531,383.531,826.377,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+point_c17_mcgrath,operating,SKT,Skwentna,236.179,1-2,383.531,383.531,826.377,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+point_c17_mcgrath,operating,SKT,Skwentna,236.179,2-4,383.531,383.531,541.446,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+line_c18_susitna_valley,recorded,PMR,Palmer,62.1749,0.5-1,100.966,100.966,217.547,after the last window,existing; earliest; R1; R4; thawed_850,False,,,,,,,,,,,,,
+line_c18_susitna_valley,recorded,PMR,Palmer,62.1749,1-2,100.966,100.966,217.547,after the last window,existing; earliest; R1; R2; R3; R4; thawed_1200; thawed_850,False,,,,,,,,,,,,,
+line_c18_susitna_valley,recorded,PMR,Palmer,62.1749,2-4,100.966,100.966,142.538,after the last window,existing; earliest; R1; R2; R3; thawed_1200,False,,,,,,,,,,,,,
+line_c18_susitna_valley,operating,CUT,Chulitna,6.15914,0.5-1,10.0018,10.0018,21.5505,5-15,existing; earliest; R1; thawed_850,False,0.0797602,0.0130444,0.00785057,R4,R4,0.303754,0.171859,True,True,True,True,True,True
+line_c18_susitna_valley,operating,CUT,Chulitna,6.15914,0.5-1,10.0018,10.0018,21.5505,15-30,R4,True,0.0797602,0.0130444,0.00785057,R4,R4,0.300913,0.193322,True,True,True,True,True,True
+line_c18_susitna_valley,operating,CUT,Chulitna,6.15914,1-2,10.0018,10.0018,21.5505,5-15,existing; earliest; R1; R2; R3; thawed_1200; thawed_850,False,0.0797602,0.045485,0.0208034,R4,thawed_850,0.20559,0.0999664,True,True,True,True,True,True
+line_c18_susitna_valley,operating,CUT,Chulitna,6.15914,1-2,10.0018,10.0018,21.5505,15-30,R4,True,0.0797602,0.045485,0.0208034,R4,thawed_850,0.153777,0.0621998,True,False,True,True,True,True
+line_c18_susitna_valley,operating,CUT,Chulitna,6.15914,2-4,10.0018,10.0018,14.12,5-15,existing; earliest; R1; R2; R3; thawed_1200,False,0.0797602,0.0797602,0.031074,R2,R2,0.290961,0.100225,True,True,True,True,True,True

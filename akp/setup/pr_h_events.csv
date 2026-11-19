@@ -1,0 +1,4 @@
+kind,name,time,lat,lon,mag_type,mag,dist_to_box_deg
+analog,dprk_2017_explosion,2017-09-03T03:30:01.760000Z,41.3324,129.0297,mb,6.3,50.2
+analog,xinjiang_2016_eq,2016-12-08T05:15:04.600000Z,43.8229,86.3451,mww,6.0,64.0
+ze2019_teleseism,2019-02-22T10:17,2019-02-22T10:17:23.770000Z,-2.1862,-77.0505,mww,7.5,84.2

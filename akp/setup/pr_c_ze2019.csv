@@ -1,0 +1,7 @@
+kind,station,day,n_stations,station_days,lat,lon,bytes,n_traces,channels,n_samples,encoding,min_lon,max_lon
+node_day,1001,2019-03-01,1,1.0,62.316507,-150.234611,122613760,3,DP1;DP2;DPZ,129600003,STEIM2,,
+node_day,1202,2019-03-01,1,1.0,63.766817,-148.910597,175910912,3,DP1;DP2;DPZ,129599997,STEIM2,,
+node_day,9211,2019-03-01,1,1.0,63.457103,-148.797548,90595328,3,DP1;DP2;DPZ,129599997,STEIM2,,
+projection,,,397,17468.0,,,2265716052737,,DP1;DP2;DPZ,,"rates=[500.0]; epochs 2019-02-11..2019-03-26; in_box={'mckinley_nome': 242, 'valdez': 0}; min/max node-day bytes=90595328/175910912",,
+projection_mckinley_nome,,,242,10648.0,,,1381116586303,,,,"node extent lat 62.32..64.56, lon -150.28..-149.00",-150.27504,-149.000159
+projection_valdez,,,0,0,,,0,,,,,,

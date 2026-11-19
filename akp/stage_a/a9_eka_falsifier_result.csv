@@ -1,0 +1,29 @@
+check,value,of,ok,note
+candidates,18,18,,"depth >= 70 km, sectors ((40.0, 100.0), (290.0, 345.0)), from 2014-06-01, isolated, >= 19 BHZ epochs, none of the first run's; of = before the isolation rule (18 after it)"
+candidate_source_groups,6,4,True,a7 rule; ok = at least `of`
+candidate_cluster_0,6,,,back-azimuth 41 to 48 deg; groups 2; adjacent to a first-run direction or in Key's sector: 6
+candidate_cluster_1,9,,,back-azimuth 72 to 79 deg; groups 2; adjacent to a first-run direction or in Key's sector: 0
+candidate_cluster_2,3,,,back-azimuth 344 to 344 deg; groups 2; adjacent to a first-run direction or in Key's sector: 3
+candidates_floor_s,1.5,1.5,,The fixed rule on these events; of = the first run's floor
+candidates_null_cells_kept,21,29,True,"admitted at both speeds for every event, under each event's window cut; ok = at least 19"
+candidates_smallest_p,0.0454545,0.05,True,1 / (kept cells + target)
+synthetic_groups_flagged,0,6,,P alone: strongest coda peak in the target cell; lead events: 
+synthetic_pwin_peak_in_target_p_alone,3,6,,P alone: P-window-control peak in the target cell
+synthetic_arrival_found,6,6,,P with Key's arrival: strongest coda peak in the target cell
+events_used,10,18,,"dropped: low_snr 6, no_window_at_target 1, no_data 1"
+source_groups_used,3,4,False,"clusters of back-azimuths used: [0, 1, 2]"
+used_floor_s,1.5,1.5,,The fixed rule on these events; of = the first run's floor
+used_null_cells_kept,21,29,True,"admitted at both speeds for every event, under each event's window cut; ok = at least 19"
+used_smallest_p,0.0454545,0.05,True,1 / (kept cells + target)
+reading,uninformative,,,fixed before the target cell is read; the rows below are description and do not change it
+descriptive_groups_in_target_cell,2,2,True,source groups whose strongest peak falls in the cell; ok = at least `of`
+descriptive_largest_rotated_count,1,,,at rotations 320
+descriptive_marked_cells,2,3,,kept marked cells and their counts: antipode at 132 deg: 0; mirror_arm_R at 272 deg: 1; of = marked cells in the rotation list
+descriptive_p,0.0454545,0.05,True,share of 22 cells (target included) with a count >= the target's
+descriptive_noise_groups_in_target_cell,0,1,True,"most groups, over the pre-P noise maps, whose strongest noise peak falls in the cell"
+descriptive_pwin_groups_in_target_cell,2,1,,"reported, not deciding; of = largest over the rotated cells"
+descriptive_pwin_rank,0.0454545,,,share of cells (target included) with a control count >= the target's
+descriptive_in_cell_back_azimuths,6,,,tele_20200613T155124 group 1 baz 41.1 (adjacent or in Key sector); tele_20230321T164723 group 0 baz 78.4 (new direction); tele_20240111T092026 group 0 baz 78.7 (new direction); tele_20151225T191447 group 0 baz 78.3 (new direction); tele_20180509T104145 group 0 baz 77.7 (new direction); tele_20191220T113952 group 0 baz 78.8 (new direction)
+descriptive_cluster_0_groups_in_target_cell,1,1,,back-azimuth 41 to 41 deg; of = groups in the cluster; largest rotated count 0; p 0.045; noise groups 0; P-window control 1 (largest rotated 0)
+descriptive_cluster_1_groups_in_target_cell,1,1,,back-azimuth 78 to 79 deg; of = groups in the cluster; largest rotated count 1; p 0.091; noise groups 0; P-window control 1 (largest rotated 1)
+descriptive_cluster_2_groups_in_target_cell,0,1,,back-azimuth 344 to 344 deg; of = groups in the cluster; largest rotated count 0; p 1.000; noise groups 0; P-window control 0 (largest rotated 0)

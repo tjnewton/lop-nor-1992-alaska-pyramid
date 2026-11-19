@@ -1,0 +1,19 @@
+version,code,name,kind,anchor,km_anchor,mi_anchor
+box_denali_nome,TRF,Thorofare Mountain,operating,denali,55.6962,34.608
+box_denali_nome,HUR,Hurricane,operating,denali,70.1207,43.571
+box_denali_nome,CUT,Chulitna,operating,denali,83.084,51.626
+box_denali_nome,SKT,Skwentna,operating,denali,124.351,77.2683
+box_denali_nome,BWN,Browne,operating,denali,144.74,89.9372
+box_denali_nome,PWA,Palmer West,operating,denali,168.487,104.693
+box_denali_nome,PLRM,Palmer USGS,operating,denali,191.129,118.762
+box_denali_nome,PMR,Palmer,recorded,denali,191.134,118.765
+box_denali_nome,NEA,Nenana,operating,denali,193.09,119.981
+box_denali_nome,MLY,Manley,operating,denali,219.086,136.134
+box_denali_nome,TTA,Tatalina,recorded,denali,254.044,157.856
+box_denali_nome,ANM,Nome,recorded,denali,725.256,450.653
+disc_denali,TRF,Thorofare Mountain,operating,denali,55.6962,34.608
+disc_denali,HUR,Hurricane,operating,denali,70.1207,43.571
+belt_denali,CUT,Chulitna,operating,denali,83.084,51.626
+box_valdez,VLZ,Valdez,operating,valdez,0.88177,0.547907
+box_valdez,VZW,Valdez West,operating,valdez,13.6802,8.50048
+box_valdez,KLU,Klutina,recorded,valdez,46.2988,28.7687

@@ -1,0 +1,52 @@
+check,value,detail
+scheme,"one standard linear solid, memory variables, equal Q for P and S","Q 50.0 at 3.0 Hz; tau_sigma 0.05200 s, tau_epsilon 0.05412 s; relaxed moduli scaled by 0.98010 so the phase speeds at 3.0 Hz are the elastic model's"
+q_at_0.75hz,106.25000000000021,phase speed over the stated speed 0.9912
+q_at_1.5hz,62.50000000000013,phase speed over the stated speed 0.9940
+q_at_2hz,54.16666666666676,phase speed over the stated speed 0.9962
+q_at_3hz,50.0000000000001,phase speed over the stated speed 1.0000
+q_at_4hz,52.08333333333352,phase speed over the stated speed 1.0028
+elastic_path_bit_identical,True,solver without q against gate three's archived traces (18848 samples)
+gate_attempt1_fall_over_predicted,1.0259109625648328,Tolerance 0.2; passed True
+gate_attempt1_apparent_q,52.43456338168906,the Q that the measured fall implies in the formula
+gate_attempt1_run_seconds,223.2,"13.8M points, 2356 steps, 146 Mpts/s; elastic run 165 s"
+gate_attempt1_peak_rss_gb,2.44,177 bytes per point; elastic run 2.56 GB
+thawed_1200_incident_peak_min_over_max_0.5-1,0.9234830484303506,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+thawed_1200_incident_peak_min_over_max_1-2,0.9130408635128647,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+thawed_1200_incident_peak_min_over_max_2-4,0.8902217729032912,flatness of the incident vertical peak over the 90 receivers (edge waves of the sheet lower it)
+thawed_1200_twin_run_seconds,1945.8,118 Mpts/s
+thawed_1200_twin_peak_rss_gb,5.63,limit 8
+thawed_1200_twin_field_left_over_incident_peak,0.028409680613192535,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+thawed_1200_body_run_seconds,1920.2,119 Mpts/s
+thawed_1200_body_peak_rss_gb,5.7,limit 8
+thawed_1200_body_field_left_over_incident_peak,0.028379491993439535,largest |v| anywhere in the box at the last step over the incident vertical peak at the surface: the energy has left the box when this is small
+thawed_1200_grid_shape,721x365x132,"h 10.0 m, sponge 30 cells, mirror plane y = 0; 34.7M points"
+thawed_1200_time_step_s,0.0014961413760581003,6589 steps
+slow_vertical_ratio_over_formula_0.5-1_forward_1000m,1.0298853046612348,"attenuated share 0.0202, elastic 0.0212, ratio 0.954, formula exp(-pi f r / (Q U)) 0.926 at f 0.75 Hz"
+slow_vertical_ratio_over_formula_0.5-1_backward_1000m,1.0400931311268458,"attenuated share 0.0218, elastic 0.0226, ratio 0.963, formula exp(-pi f r / (Q U)) 0.926 at f 0.75 Hz"
+slow_vertical_ratio_over_formula_0.5-1_perpendicular_1000m,1.035403912197184,"attenuated share 0.0204, elastic 0.0213, ratio 0.959, formula exp(-pi f r / (Q U)) 0.926 at f 0.75 Hz"
+slow_vertical_ratio_over_formula_0.5-1_forward_2000m,1.0630227714453393,"attenuated share 0.0139, elastic 0.0152, ratio 0.912, formula exp(-pi f r / (Q U)) 0.858 at f 0.75 Hz"
+slow_vertical_ratio_over_formula_0.5-1_backward_2000m,1.0693635784544384,"attenuated share 0.0138, elastic 0.0151, ratio 0.918, formula exp(-pi f r / (Q U)) 0.858 at f 0.75 Hz"
+slow_vertical_ratio_over_formula_0.5-1_perpendicular_2000m,1.065491176149459,"attenuated share 0.0137, elastic 0.0150, ratio 0.914, formula exp(-pi f r / (Q U)) 0.858 at f 0.75 Hz"
+slow_vertical_ratio_over_formula_0.5-1_forward_3000m,1.0951956618182772,"attenuated share 0.0095, elastic 0.0109, ratio 0.871, formula exp(-pi f r / (Q U)) 0.795 at f 0.75 Hz"
+slow_vertical_ratio_over_formula_0.5-1_backward_3000m,1.1035088968621118,"attenuated share 0.0111, elastic 0.0127, ratio 0.877, formula exp(-pi f r / (Q U)) 0.795 at f 0.75 Hz"
+slow_vertical_ratio_over_formula_0.5-1_perpendicular_3000m,1.101487345796377,"attenuated share 0.0101, elastic 0.0115, ratio 0.876, formula exp(-pi f r / (Q U)) 0.795 at f 0.75 Hz"
+slow_vertical_ratio_over_formula_1-2_forward_1000m,0.9898575289966632,"attenuated share 0.0281, elastic 0.0331, ratio 0.849, formula exp(-pi f r / (Q U)) 0.858 at f 1.5 Hz"
+slow_vertical_ratio_over_formula_1-2_backward_1000m,1.07781132681924,"attenuated share 0.0191, elastic 0.0206, ratio 0.925, formula exp(-pi f r / (Q U)) 0.858 at f 1.5 Hz"
+slow_vertical_ratio_over_formula_1-2_perpendicular_1000m,1.059693621979168,"attenuated share 0.0175, elastic 0.0192, ratio 0.909, formula exp(-pi f r / (Q U)) 0.858 at f 1.5 Hz"
+slow_vertical_ratio_over_formula_1-2_forward_2000m,0.987215786416018,"attenuated share 0.0194, elastic 0.0267, ratio 0.727, formula exp(-pi f r / (Q U)) 0.736 at f 1.5 Hz"
+slow_vertical_ratio_over_formula_1-2_backward_2000m,1.096092832802202,"attenuated share 0.0091, elastic 0.0113, ratio 0.807, formula exp(-pi f r / (Q U)) 0.736 at f 1.5 Hz"
+slow_vertical_ratio_over_formula_1-2_perpendicular_2000m,0.9867524419805785,"attenuated share 0.0111, elastic 0.0153, ratio 0.727, formula exp(-pi f r / (Q U)) 0.736 at f 1.5 Hz"
+slow_vertical_ratio_over_formula_1-2_forward_3000m,0.970163603578381,"attenuated share 0.0123, elastic 0.0200, ratio 0.613, formula exp(-pi f r / (Q U)) 0.632 at f 1.5 Hz"
+slow_vertical_ratio_over_formula_1-2_backward_3000m,1.116884992885305,"attenuated share 0.0072, elastic 0.0102, ratio 0.706, formula exp(-pi f r / (Q U)) 0.632 at f 1.5 Hz"
+slow_vertical_ratio_over_formula_1-2_perpendicular_3000m,1.0465247628633207,"attenuated share 0.0074, elastic 0.0112, ratio 0.661, formula exp(-pi f r / (Q U)) 0.632 at f 1.5 Hz"
+slow_vertical_ratio_over_formula_2-4_forward_1000m,1.031207161306341,"attenuated share 0.1049, elastic 0.1381, ratio 0.759, formula exp(-pi f r / (Q U)) 0.736 at f 3.0 Hz"
+slow_vertical_ratio_over_formula_2-4_backward_1000m,1.0251276887841874,"attenuated share 0.0741, elastic 0.0982, ratio 0.755, formula exp(-pi f r / (Q U)) 0.736 at f 3.0 Hz"
+slow_vertical_ratio_over_formula_2-4_perpendicular_1000m,1.0289107638176325,"attenuated share 0.0893, elastic 0.1178, ratio 0.758, formula exp(-pi f r / (Q U)) 0.736 at f 3.0 Hz"
+slow_vertical_ratio_over_formula_2-4_forward_2000m,1.063590329697859,"attenuated share 0.0577, elastic 0.1001, ratio 0.577, formula exp(-pi f r / (Q U)) 0.542 at f 3.0 Hz"
+slow_vertical_ratio_over_formula_2-4_backward_2000m,1.0476469232361079,"attenuated share 0.0424, elastic 0.0747, ratio 0.568, formula exp(-pi f r / (Q U)) 0.542 at f 3.0 Hz"
+slow_vertical_ratio_over_formula_2-4_perpendicular_2000m,1.056985858406629,"attenuated share 0.0500, elastic 0.0873, ratio 0.573, formula exp(-pi f r / (Q U)) 0.542 at f 3.0 Hz"
+slow_vertical_ratio_over_formula_2-4_forward_3000m,1.1015148589262533,"attenuated share 0.0327, elastic 0.0743, ratio 0.440, formula exp(-pi f r / (Q U)) 0.399 at f 3.0 Hz"
+slow_vertical_ratio_over_formula_2-4_backward_3000m,1.0825219713826524,"attenuated share 0.0235, elastic 0.0544, ratio 0.432, formula exp(-pi f r / (Q U)) 0.399 at f 3.0 Hz"
+slow_vertical_ratio_over_formula_2-4_perpendicular_3000m,1.0937879701672129,"attenuated share 0.0279, elastic 0.0638, ratio 0.437, formula exp(-pi f r / (Q U)) 0.399 at f 3.0 Hz"
+d81_agreement_max_abs_dev,0.10186716725373302,"highest band, beyond 1 km, slow window, vertical and radial, three azimuths (120 rows); rule: within 0.2; met: True"
+d81_agreement_median_simulated_over_table,1.0599698966659845,range of simulated over table: 1.024 to 1.102; vertical rows alone: 1.024 to 1.102

@@ -1,0 +1,93 @@
+validation,attempt,settings,quantity,at,value,reference,ratio,tolerance,passed,note
+reference,1,,banded_determinant_sign_equals_dense_of_4,,4.0,4.0,1.0,0.0,True,a8_reference1d.checks
+reference,1,,half_space_rayleigh_speed_determinant_1hz,,285.81445452794753,285.81445452788205,1.0000000000002292,1e-06,True,a8_reference1d.checks
+reference,1,,half_space_group_speed_determinant_1hz,,285.81445452789916,285.81445452788205,1.00000000000006,0.0001,True,a8_reference1d.checks
+reference,1,,half_space_rayleigh_speed_thin_layers_1hz,,285.8214957042473,285.81445452788205,1.0000246354803044,0.001,True,a8_reference1d.checks
+reference,1,,half_space_group_speed_thin_layers_1hz,,285.8338620788931,285.81445452788205,1.0000679026225008,0.002,True,a8_reference1d.checks
+reference,1,,half_space_explosion_term_thin_layers_1hz,,-5.926410098872804e-15,-5.938429342911217e-15,0.9979760230619296,0.01,True,a8_reference1d.checks
+reference,1,,half_space_rayleigh_speed_determinant_4hz,,285.81445452794765,285.81445452788205,1.0000000000002296,1e-06,True,a8_reference1d.checks
+reference,1,,half_space_group_speed_determinant_4hz,,285.8144545279488,285.81445452788205,1.0000000000002336,0.0001,True,a8_reference1d.checks
+reference,1,,half_space_rayleigh_speed_thin_layers_4hz,,285.821841742867,285.81445452788205,1.0000258461910092,0.001,True,a8_reference1d.checks
+reference,1,,half_space_group_speed_thin_layers_4hz,,285.8366084281194,285.81445452788205,1.0000775114760168,0.002,True,a8_reference1d.checks
+reference,1,,half_space_explosion_term_thin_layers_4hz,,-5.274963792493699e-14,-5.2854513644198897e-14,0.9980157660712216,0.01,True,a8_reference1d.checks
+reference,1,,uniform_half_space_surface_vz_p_0.0587_s_per_km_max_rel_err_plus_1,,1.0000000000000058,1.0,1.0000000000000058,1e-08,True,a8_reference1d.checks
+reference,1,,uniform_half_space_surface_vx_p_0.0587_s_per_km_max_rel_err_plus_1,,1.0000000000000075,1.0,1.0000000000000075,1e-08,True,a8_reference1d.checks
+reference,1,,uniform_half_space_surface_vz_p_0.2_s_per_km_max_rel_err_plus_1,,1.0000000000000158,1.0,1.0000000000000158,1e-08,True,a8_reference1d.checks
+reference,1,,uniform_half_space_surface_vx_p_0.2_s_per_km_max_rel_err_plus_1,,1.000000000000014,1.0,1.000000000000014,1e-08,True,a8_reference1d.checks
+reference,1,,uniform_half_space_vz_at_depth_p_0_max_rel_err_plus_1,,1.0000000000000027,1.0,1.0000000000000027,1e-08,True,a8_reference1d.checks
+reference,1,,vertical_time_sum_over_layers,,0.14088811057373016,0.14088811057373019,0.9999999999999998,1e-12,True,a8_reference1d.checks
+reference,1,,layered_phase_speed_thin_layers_over_determinant_1.5hz,,939.9234606907968,939.4353220114083,1.0005196086073742,0.005,True,a8_reference1d.checks
+reference,1,,layered_group_speed_thin_layers_over_determinant_1.5hz,,855.2227499502594,854.8463073269432,1.000440362928505,0.005,True,a8_reference1d.checks
+reference,1,,layered_phase_speed_thin_layers_over_determinant_3hz,,521.4463441799836,521.3891167826523,1.0001097594780737,0.005,True,a8_reference1d.checks
+reference,1,,layered_group_speed_thin_layers_over_determinant_3hz,,221.40497535844227,221.43936247480292,0.9998447109132886,0.005,True,a8_reference1d.checks
+reference,1,,column_phase_speed_thin_layers_over_determinant_1hz,,661.6852584586236,661.6796907375015,1.000008414526243,0.005,True,a8_reference1d.checks
+reference,1,,column_group_speed_thin_layers_over_determinant_1hz,,325.7117399205482,325.70786426025415,1.0000118991916356,0.005,True,a8_reference1d.checks
+reference,1,,column_phase_speed_thin_layers_over_determinant_1.5hz,,470.1557826037364,470.1475633518595,1.0000174822811339,0.005,True,a8_reference1d.checks
+reference,1,,column_group_speed_thin_layers_over_determinant_1.5hz,,306.3009721907976,306.2903532147778,1.000034669639146,0.005,True,a8_reference1d.checks
+reference,1,,column_phase_speed_thin_layers_over_determinant_2hz,,423.1329060748397,423.1276671087072,1.0000123815258128,0.005,True,a8_reference1d.checks
+reference,1,,column_group_speed_thin_layers_over_determinant_2hz,,342.0509087644741,342.04281988259766,1.0000236487404683,0.005,True,a8_reference1d.checks
+reference,1,,column_phase_speed_thin_layers_over_determinant_3hz,,398.2460228275209,398.2419629850873,1.0000101944114657,0.005,True,a8_reference1d.checks
+reference,1,,column_group_speed_thin_layers_over_determinant_3hz,,362.4195564425031,362.4096782781624,1.000027256899947,0.005,True,a8_reference1d.checks
+reference,1,,column_phase_speed_thin_layers_over_determinant_4hz,,387.29260725047425,387.28809076616244,1.0000116618207981,0.005,True,a8_reference1d.checks
+reference,1,,column_group_speed_thin_layers_over_determinant_4hz,,349.796119370634,349.7811984217536,1.0000426579500206,0.005,True,a8_reference1d.checks
+reference,1,,incident_amplitude_run_over_reference,"R4 twin, forward 100 m, 1.5 Hz",3.9261377898296395e-10,3.926115543906797e-10,1.0000056661406405,0.2,True,"window ends 0.500 s after the pulse's center, where the edge wave begins or the pulse ends"
+reference,1,,incident_amplitude_run_over_reference,"R4 twin, forward 100 m, 2 Hz",4.5050382963484256e-10,4.505007183900551e-10,1.0000069061927328,0.2,True,"window ends 0.500 s after the pulse's center, where the edge wave begins or the pulse ends"
+reference,1,,incident_arrival_run_after_reference_s,"R4 twin, forward 100 m",2.117630498608609e-06,,,0.00530114320822949,True,"limit: 0.02 of the 0.2651 s from sheet to surface; window ends 0.500 s after the pulse's center, where the edge wave begins or the pulse ends"
+reference,1,,incident_amplitude_run_over_reference,"R4 twin, backward 100 m, 1.5 Hz",3.9261374612118654e-10,3.9261155439063114e-10,1.0000055824402794,0.2,True,"window ends 0.500 s after the pulse's center, where the edge wave begins or the pulse ends"
+reference,1,,incident_amplitude_run_over_reference,"R4 twin, backward 100 m, 2 Hz",4.5050374741773414e-10,4.505007183879542e-10,1.000006723695782,0.2,True,"window ends 0.500 s after the pulse's center, where the edge wave begins or the pulse ends"
+reference,1,,incident_arrival_run_after_reference_s,"R4 twin, backward 100 m",2.0737989808337926e-06,,,0.00530114320822949,True,"limit: 0.02 of the 0.2651 s from sheet to surface; window ends 0.500 s after the pulse's center, where the edge wave begins or the pulse ends"
+reference,1,,incident_amplitude_run_over_reference,"R4 twin, perpendicular 100 m, 1.5 Hz",3.926137812565043e-10,3.9261155439065523e-10,1.0000056719315165,0.2,True,"window ends 0.500 s after the pulse's center, where the edge wave begins or the pulse ends"
+reference,1,,incident_amplitude_run_over_reference,"R4 twin, perpendicular 100 m, 2 Hz",4.5050384869906196e-10,4.505007183887891e-10,1.0000069485133876,0.2,True,"window ends 0.500 s after the pulse's center, where the edge wave begins or the pulse ends"
+reference,1,,incident_arrival_run_after_reference_s,"R4 twin, perpendicular 100 m",2.098035468130813e-06,,,0.00530114320822949,True,"limit: 0.02 of the 0.2651 s from sheet to surface; window ends 0.500 s after the pulse's center, where the edge wave begins or the pulse ends"
+uniform,1,,traces_identical,twin vx,1.0,1.0,,bit for bit,True,new path against a8_production.run_case
+uniform,1,,traces_identical,twin vy,1.0,1.0,,bit for bit,True,new path against a8_production.run_case
+uniform,1,,traces_identical,twin vz,1.0,1.0,,bit for bit,True,new path against a8_production.run_case
+uniform,1,,traces_identical,body vx,1.0,1.0,,bit for bit,True,new path against a8_production.run_case
+uniform,1,,traces_identical,body vy,1.0,1.0,,bit for bit,True,new path against a8_production.run_case
+uniform,1,,traces_identical,body vz,1.0,1.0,,bit for bit,True,new path against a8_production.run_case
+uniform,1,,set_up_identical,"t0, t_surf, steps, time step, window speeds",1.0,1.0,,exact,True,the swapped set-up against a8_production.setup
+uniform,1,,numerical_max_relative_difference,"a8_production.measure, 144 rows",0.0,,,1e-09,True,a8_smoothing.REPRO_TOL
+uniform,1,,share_max_relative_difference,"a8_smoothing.measure, 24 rows",0.0,,,1e-09,True,a8_smoothing.REPRO_TOL
+uniform,1,,share_smoothed_max_relative_difference,"a8_smoothing.measure, 24 rows",0.0,,,1e-09,True,a8_smoothing.REPRO_TOL
+surface,1,,phase_speed_run_over_fundamental_mode,"1.5 Hz, 998 to 2000 m",473.58148419331053,470.1475633518595,1.0073039213836807,0.02,True,group speed 306.3 m/s sets the window
+surface,1,,phase_speed_modal_sum_over_fundamental_mode,"1.5 Hz, 998 to 2000 m",472.62905902693046,470.1475633518595,1.005278120889066,,,context: what the other modes in the window do to the same measurement
+surface,1,,vertical_amplitude_run_over_modal_sum,"1.5 Hz, 998 m",2.0218301113616542e-14,2.064013070910819e-14,0.9795626490240441,0.2,True,"modes trapped above the box bottom, far field; 1 to 10 modes across the pulse's spectrum; only the fundamental's term has an exact check"
+surface,1,,vertical_amplitude_modal_sum_over_fundamental_alone,"1.5 Hz, 998 m",2.064013070910819e-14,2.1535001122178344e-14,0.9584457689139124,,,context: the share of the other modes inside the window
+surface,1,,vertical_amplitude_run_over_modal_sum,"1.5 Hz, 2000 m",1.4444132923436644e-14,1.4575225947987546e-14,0.9910057638201484,0.2,True,"modes trapped above the box bottom, far field; 1 to 10 modes across the pulse's spectrum; only the fundamental's term has an exact check"
+surface,1,,vertical_amplitude_modal_sum_over_fundamental_alone,"1.5 Hz, 2000 m",1.4575225947987546e-14,1.4395610630527168e-14,1.0124770891676862,,,context: the share of the other modes inside the window
+surface,1,,phase_speed_run_over_fundamental_mode,"3 Hz, 998 to 2000 m",398.0472606081178,398.2419629850873,0.9995110952760727,0.02,True,group speed 362.4 m/s sets the window
+surface,1,,phase_speed_modal_sum_over_fundamental_mode,"3 Hz, 998 to 2000 m",398.06477707780033,398.2419629850873,0.9995550797661833,,,context: what the other modes in the window do to the same measurement
+surface,1,,vertical_amplitude_run_over_modal_sum,"3 Hz, 998 m",3.792440386100765e-14,3.9168772433297874e-14,0.9682305955743364,0.2,True,"modes trapped above the box bottom, far field; 1 to 10 modes across the pulse's spectrum; only the fundamental's term has an exact check"
+surface,1,,vertical_amplitude_modal_sum_over_fundamental_alone,"3 Hz, 998 m",3.9168772433297874e-14,3.7761224662527604e-14,1.0372749502525285,,,context: the share of the other modes inside the window
+surface,1,,vertical_amplitude_run_over_modal_sum,"3 Hz, 2000 m",2.6639422964623997e-14,2.77536302813036e-14,0.9598536369697842,0.2,True,"modes trapped above the box bottom, far field; 1 to 10 modes across the pulse's spectrum; only the fundamental's term has an exact check"
+surface,1,,vertical_amplitude_modal_sum_over_fundamental_alone,"3 Hz, 2000 m",2.77536302813036e-14,2.725587441409536e-14,1.0182623334568501,,,context: the share of the other modes inside the window
+twin,1,,incident_amplitude_run_over_reference,"forward 100 m, 1.5 Hz",7.305050927780423e-11,7.336070984422105e-11,0.9957715708166467,0.2,True,"window ends 0.073 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"forward 100 m, 2 Hz",7.519248513800023e-11,7.545493670666156e-11,0.9965217442341561,0.2,True,"window ends 0.073 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"forward 100 m, 3 Hz",5.614965725393963e-11,5.626412735016707e-11,0.997965487040881,0.2,True,"window ends 0.073 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"forward 100 m, 4 Hz",2.8698407204714383e-11,2.8707927703912855e-11,0.9996683668951426,0.2,True,"window ends 0.073 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_arrival_run_after_reference_s,forward 100 m,-0.00013859382274983834,,,0.0039397967220366785,True,"limit: 0.02 of the 0.1970 s from sheet to surface; window ends 0.073 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"backward 100 m, 1.5 Hz",6.594472641315006e-11,6.614275516425952e-11,0.9970060401835745,0.2,True,"window ends 0.003 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"backward 100 m, 2 Hz",6.887857867949411e-11,6.906650032658889e-11,0.9972791201782895,0.2,True,"window ends 0.003 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"backward 100 m, 3 Hz",5.413235361297572e-11,5.4263066931947956e-11,0.9975911181147176,0.2,True,"window ends 0.003 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"backward 100 m, 4 Hz",3.1305767336364174e-11,3.137747146923456e-11,0.9977147893213546,0.2,True,"window ends 0.003 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_arrival_run_after_reference_s,backward 100 m,-5.8604659684512e-05,,,0.0039397967220366785,True,"limit: 0.02 of the 0.1970 s from sheet to surface; window ends 0.003 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"perpendicular 100 m, 1.5 Hz",7.240230519749562e-11,7.267295400822805e-11,0.9962757973110357,0.2,True,"window ends 0.039 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"perpendicular 100 m, 2 Hz",7.402018794443092e-11,7.42610837641725e-11,0.9967560960932569,0.2,True,"window ends 0.039 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"perpendicular 100 m, 3 Hz",5.4898080140970307e-11,5.503034251364624e-11,0.9975965555249245,0.2,True,"window ends 0.039 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_amplitude_run_over_reference,"perpendicular 100 m, 4 Hz",2.867984945333426e-11,2.872198864706318e-11,0.9985328594671236,0.2,True,"window ends 0.039 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,incident_arrival_run_after_reference_s,perpendicular 100 m,-0.00010518172468834545,,,0.0039397967220366785,True,"limit: 0.02 of the 0.1970 s from sheet to surface; window ends 0.039 s after the pulse's center, where the edge wave begins or the pulse ends"
+twin,1,,wrapper_travel_time_less_reference_integral_s,sheet to surface,-6.494272239504495e-06,,,0.00030300178497734745,True,limit: one sample
+twin,1,,wrapper_travel_time_less_reference_integral_s,sheet to the body's top,-7.017261250769069e-06,,,0.00030300178497734745,True,limit: one sample
+twin,1,,apparent_slowness_over_ray_parameter,"6 of 30 receivers in the incidence plane, x -101 to 502 m, least squares",5.86903323285278e-05,5.872754646675127e-05,0.9993663256774308,0.02,True,the reference moves at the ray parameter; the fit is of the twin's lag behind it against position. Receivers where the pulse's first half-length does not fit before the edge wave are left out
+twin,1,,edge_level,"1-2 Hz, forward 100 m",0.42652894720632295,,,,,"reported, enters the bracket; largest 6.135 s after the arrival"
+twin,1,,edge_level,"1-2 Hz, backward 100 m",0.13677386984601592,,,,,"reported, enters the bracket; largest 0.738 s after the arrival"
+twin,1,,edge_level,"1-2 Hz, perpendicular 100 m",0.15873006502475606,,,,,"reported, enters the bracket; largest 0.811 s after the arrival"
+twin,1,,edge_level,"1-2 Hz, under the origin at the depth of the body's top",0.48926814451402756,,,,,"reported, enters the bracket; largest 6.139 s after the arrival"
+twin,1,,edge_level,"2-4 Hz, forward 100 m",0.22627999831332038,,,,,"reported, enters the bracket; largest 0.813 s after the arrival"
+twin,1,,edge_level,"2-4 Hz, backward 100 m",0.12006296707028313,,,,,"reported, enters the bracket; largest 5.156 s after the arrival"
+twin,1,,edge_level,"2-4 Hz, perpendicular 100 m",0.11757496157026141,,,,,"reported, enters the bracket; largest 0.857 s after the arrival"
+twin,1,,edge_level,"2-4 Hz, under the origin at the depth of the body's top",0.1515391048612834,,,,,"reported, enters the bracket; largest 0.878 s after the arrival"
+twin,1,,edge_level_L,1-2 Hz,0.48926814451402756,,,,,the largest of the four points
+twin,1,,incident_peak_term_L_r_largest,1-2 Hz,0.19014800147918287,,,,,over the receivers; reported
+twin,1,,edge_level_L,2-4 Hz,0.22627999831332038,,,,,the largest of the four points
+twin,1,,incident_peak_term_L_r_largest,2-4 Hz,0.13650249435684425,,,,,over the receivers; reported

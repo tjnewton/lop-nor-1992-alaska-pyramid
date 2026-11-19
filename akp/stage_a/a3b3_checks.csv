@@ -1,0 +1,11 @@
+check,value,passed
+sanity_scale100_pd,0.996,True
+sanity_zero_pd,0.006,True
+n_nodes_used,242,
+gate_pass,1,
+max_pd_vp_1200,0.185,
+min_pd_vp_1200,0.0,
+max_pd_vp_2000,0.18,
+min_pd_vp_2000,0.0,
+max_pd_vp_3000,0.08,
+min_pd_vp_3000,0.005,

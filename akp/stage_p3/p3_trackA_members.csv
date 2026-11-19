@@ -1,0 +1,35 @@
+member,sensor,system,status,plants,track_a_flown_km2,track_a_line_km,mag_height_m,em_height_m,mag_class_inventory,em_class_inventory
+gpr2015_003_petersville-geophys-ascii-data.zip/ascii_data/petersville_linedata.xyz,mag,mag_0-60,processed,160,470.2,1175.5,36.9,36.9,mag_0-60,em_0-60
+gpr2015_003_petersville-geophys-ascii-data.zip/ascii_data/petersville_linedata.xyz,em,em_0-60,processed,160,470.2,1175.5,36.9,36.9,mag_0-60,em_0-60
+gpr2018_005_sdishna_2012_ascii_data.zip/ascii_data/southerndishna_linedata.xyz,mag,mag_0-60,processed,160,623.4,1558.4,34.1,34.1,mag_0-60,em_0-60
+gpr2018_005_sdishna_2012_ascii_data.zip/ascii_data/southerndishna_linedata.xyz,em,em_0-60,processed,160,623.4,1558.4,34.1,34.1,mag_0-60,em_0-60
+gpr2019_006_council_ascii_data.zip/ascii_data/council_linedata.xyz,mag,mag_0-60,processed,160,1626.5,4066.4,33.0,33.0,mag_0-60,em_0-60
+gpr2019_006_council_ascii_data.zip/ascii_data/council_linedata.xyz,em,em_0-60,processed,160,1626.5,4066.4,33.0,33.0,mag_0-60,em_0-60
+gpr2019_011_nome_1993_ascii_data.zip/ascii_data/nome_linedata.xyz,mag,mag_0-60,processed,160,987.1,2467.7,35.4,35.4,mag_0-60,em_0-60
+gpr2019_011_nome_1993_ascii_data.zip/ascii_data/nome_linedata.xyz,em,em_0-60,processed,160,987.1,2467.7,35.4,35.4,mag_0-60,em_0-60
+gpr2019_015_iditarod_2010_ascii_data.zip/ascii_data/iditarod_linedata.xyz,mag,mag_0-60,processed,160,1287.2,3218.0,35.9,35.9,mag_0-60,em_0-60
+gpr2019_015_iditarod_2010_ascii_data.zip/ascii_data/iditarod_linedata.xyz,em,em_0-60,processed,160,1287.2,3218.0,35.9,35.9,mag_0-60,em_0-60
+gpr2019_023_ruby_1997_ascii_data.zip/ascii_data/ruby_linedata.xyz,mag,mag_0-60,skipped: no flown area in Track A,160,0.0,0.0,30.7,30.7,mag_0-60,em_0-60
+gpr2019_023_ruby_1997_ascii_data.zip/ascii_data/ruby_linedata.xyz,em,em_0-60,skipped: no flown area in Track A,160,0.0,0.0,30.7,30.7,mag_0-60,em_0-60
+gpr2020_002_chulitna_1996_ascii_data.zip/ascii_data/chulitna_linedata.xyz,mag,mag_0-60,processed,160,308.7,771.7,36.7,36.7,mag_0-60,em_0-60
+gpr2020_002_chulitna_1996_ascii_data.zip/ascii_data/chulitna_linedata.xyz,em,em_0-60,processed,160,308.7,771.7,36.7,36.7,mag_0-60,em_0-60
+gpr2026_2_mcgrath-ascii_data.zip/data/ascii_data/mcgrath_mag_final.csv,mag,mag_150-300,processed,160,15543.3,38858.2,178.8,,mag_60-150,
+gpr2026_2_mcgrath-ascii_data.zip/data/ascii_data/mcgrath_mag_final.csv,em,,skipped: no em channels in the map,0,15543.3,38858.2,178.8,,mag_60-150,
+AK_10001.zip/AK_10001.XYZ,mag,,skipped: measured height 309 m is outside every height band,160,1143.7,1429.6,308.8,,mag_0-60,
+AK_10001.zip/AK_10001.XYZ,em,,skipped: no em channels in the map,0,1143.7,1429.6,308.8,,mag_0-60,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_chena_mag.csv,mag,,skipped: measured height 339 m is outside every height band,158,0.0,0.0,339.0,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_chena_mag.csv,em,,skipped: no em channels in the map,0,0.0,0.0,339.0,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_eisen_infill_mag.csv,mag,,skipped: measured height 416 m is outside every height band,160,0.0,0.0,416.3,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_eisen_infill_mag.csv,em,,skipped: no em channels in the map,0,0.0,0.0,416.3,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_eisen_mag.csv,mag,,skipped: measured height 420 m is outside every height band,160,0.0,0.0,420.0,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_eisen_mag.csv,em,,skipped: no em channels in the map,0,0.0,0.0,420.0,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_healy_mag.csv,mag,mag_150-300,skipped: no flown area in Track A,160,0.0,0.0,277.7,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_healy_mag.csv,em,,skipped: no em channels in the map,0,0.0,0.0,277.7,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_north_pole_mag.csv,mag,mag_150-300,skipped: no flown area in Track A,160,0.0,0.0,168.9,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_north_pole_mag.csv,em,,skipped: no em channels in the map,0,0.0,0.0,168.9,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_tanana_mag.csv,mag,mag_60-150,skipped: no flown area in Track A,160,0.0,0.0,132.6,,mag_150-300,
+gpr2022_001_tanana-big-delta-ascii-data.zip/ascii_data/tanana_big_delta_tanana_mag.csv,em,,skipped: no em channels in the map,0,0.0,0.0,132.6,,mag_150-300,
+gpr2023_001_n-kuskokwim-mts-ascii_data.zip/ascii_data/kuskokwim_northernmtns_mag.csv,mag,mag_150-300,processed,164,20459.9,51149.7,155.6,,mag_150-300,
+gpr2023_001_n-kuskokwim-mts-ascii_data.zip/ascii_data/kuskokwim_northernmtns_mag.csv,em,,skipped: no em channels in the map,0,20459.9,51149.7,155.6,,mag_150-300,
+gpr2024_001_ascii_data.zip/ascii_data/kuskokwim_sischu_mag_final.csv,mag,mag_150-300,processed,144,8164.6,20411.5,174.3,,mag_150-300,
+gpr2024_001_ascii_data.zip/ascii_data/kuskokwim_sischu_mag_final.csv,em,,skipped: no em channels in the map,0,8164.6,20411.5,174.3,,mag_150-300,

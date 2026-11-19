@@ -1,0 +1,13 @@
+cls,sensor,platform,contrast,pd_best,passes,note
+T1,magnetics,helicopter,typical_low dk=0.0016 SI,0.0001,False,"best at base 400 m, top 30 m, clearance 30 m, offset 0 m"
+T1,magnetics,fixed_wing,typical_low dk=0.0016 SI,0.0,False,"best at base 400 m, top 30 m, clearance 300 m, offset 0 m"
+T1,magnetics,helicopter,typical_high dk=0.0071 SI,0.9885,True,"best at base 400 m, top 30 m, clearance 30 m, offset 0 m"
+T1,magnetics,fixed_wing,typical_high dk=0.0071 SI,0.0,False,"best at base 400 m, top 30 m, clearance 300 m, offset 0 m"
+T2,magnetics,helicopter,typical_low dk=0.0241 SI,1.0,True,"best at base 200 m, top 30 m, clearance 30 m, offset 0 m"
+T2,magnetics,fixed_wing,typical_low dk=0.0241 SI,0.0,False,"best at base 400 m, top 30 m, clearance 300 m, offset 0 m"
+T2,magnetics,helicopter,typical_high dk=0.0691 SI,1.0,True,"best at base 200 m, top 30 m, clearance 30 m, offset 0 m"
+T2,magnetics,fixed_wing,typical_high dk=0.0691 SI,0.0019,False,"best at base 400 m, top 30 m, clearance 300 m, offset 0 m"
+T3,helicopter_fdem,helicopter,body 10 ohm m in host 1000 ohm m,1.0,True,"best at base 300 m, top 30 m, clearance 30 m, offset 0 m, 1800 Hz"
+T3,helicopter_fdem,helicopter,body 10 ohm m in host 3000 ohm m,1.0,True,"best at base 300 m, top 30 m, clearance 30 m, offset 0 m, 1800 Hz"
+T4,helicopter_fdem,helicopter,body 3000 ohm m in host 100 ohm m,0.0002,False,"best at base 400 m, top 30 m, clearance 30 m, offset 0 m, 400 Hz"
+T4,helicopter_fdem,helicopter,body 3000 ohm m in host 300 ohm m,0.0001,False,"best at base 400 m, top 30 m, clearance 45 m, offset 0 m, 1800 Hz"

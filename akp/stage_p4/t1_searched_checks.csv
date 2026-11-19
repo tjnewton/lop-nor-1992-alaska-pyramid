@@ -1,0 +1,24 @@
+check,value,ok
+"pair on a made-up case: template only, mound only, p","3, 1, 0.6250",True
+reading rule on made-up counts,True,True
+"guard: the frozen check_freeze, as called by the frozen planting run",frozen paths changed since d5255b9e64a3e01b7ed6daffa0c825da4...,True
+guard: the P2e freeze commit is an ancestor of HEAD,d5255b9,True
+guard: code and environment files of the P2e freeze that differ now,[],True
+"guard: the P3 freeze passes (akp/stage_p2, paths, environment, installed SWE)",527fdd4,True
+guard: tile checksums were verified for the P2e freeze commit,True,True
+lidar files as downloaded in phase 2 (sha256),2,True
+"center as committed, m apart",0.0,True
+"relief patch: height as committed, m apart",0.0,True
+"template: committed hits of committed trials, as p2e_claim_pd.csv (scope all)",11 of 100,True
+template: frozen trials rerun on these windows equal the committed rows (rows),100,True
+"mound: cell, point, tile, miss, rotation and plant position as the template's trials (rows)",100,True
+trials counted (the route counts every trial),100,True
+template: found at stage one,57,True
+mound: found at stage one,0,True
+template: hits by the route's rule,11,True
+mound: hits by the route's rule,0,True
+discordant pairs: template only,11,True
+discordant pairs: mound only,0,True
+"exact two-sided binomial test on the discordant pairs, p",0.0009765625,True
+reading,"less often, significant",True
+"peak memory of this run, GB",1.75,True

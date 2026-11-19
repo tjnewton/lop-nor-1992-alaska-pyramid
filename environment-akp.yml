@@ -1,0 +1,41 @@
+# Conda env for the AKP project.
+# Create:  make env-akp   (env-akp.lock.txt records the environment that produced the results)
+# swe is NOT listed here: it is installed pinned + non-editable by `make env-akp`
+# (dev: git+file at a local SHA; result-bearing runs: `make pin-swe` at a merged main SHA).
+name: swe-akp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  # swe runtime deps that need compiled builds (conda, not pip)
+  - obspy>=1.4
+  - eqcorrscan>=0.5
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas>=2.0
+  - scikit-learn
+  - geopy
+  - tqdm
+  - click
+  - pyyaml
+  # geospatial
+  - gdal
+  - rasterio>=1.3
+  - rioxarray
+  - geopandas
+  - shapely
+  - pyproj
+  - xarray
+  # tooling
+  - jupyter
+  - ipykernel
+  - pre-commit
+  - pytest
+  # forward modelling (selected at S5-f).
+  - simpeg
+  - discretize
+  - llvm-openmp
+  - pip:
+      - devito

@@ -1,0 +1,294 @@
+level,unit,kind,key,name,year,spacing_km,covered_km2,land_km2,frac
+survey,pool,EM,F7QC01P9,Western Yukon Flats,2016.0,-9999.0,908,1074486,0.0008
+survey,pool,EM,YukonFlats,Yukon Flats 2010,2010.0,0.35,10490,1074486,0.0098
+survey,pool,EM,AK_54,Unga Island,1990.0,0.15,87,1074486,0.0001
+survey,pool,EM,DGGS_29,Southern NPR-A,2005.0,0.4,3726,1074486,0.0035
+survey,pool,EM,DGGS_29D,Southern NPR-A - Drenchwater,2005.0,0.2,23,1074486,0.0
+survey,pool,EM,Tok,Tok,2014.0,0.4,2578,1074486,0.0024
+survey,pool,EM,Fortymile_west,Western Fortymile Mining District,2007.0,0.4,668,1074486,0.0006
+survey,pool,EM,Fortymile,Fortymile mining district,1998.0,0.4,2742,1074486,0.0026
+survey,pool,EM,AKHighway,Alaska Highway Corridor,2006.0,0.4,8017,1074486,0.0075
+survey,pool,EM,AK_ak29,Circle 1993,1993.0,0.4,887,1074486,0.0008
+survey,pool,EM,DGGS_9F,Fairbanks 1994,1994.0,0.4,1572,1074486,0.0015
+survey,pool,EM,DGGS_9R,Richardson,1994.0,0.4,394,1074486,0.0004
+survey,pool,EM,DGGS_19,Headwaters of the Little Chena,1994.0,0.4,62,1074486,0.0001
+survey,pool,EM,DGGS_11,Iron Creek,1997.0,0.4,884,1074486,0.0008
+survey,searched,EM,DGGS_25,Ruby 1997,1997.0,0.4,1395,122238,0.0114
+survey,pool,EM,DGGS_15,Livengood,1998.0,0.4,592,1074486,0.0006
+survey,pool,EM,DGGS_26,Salcha River-Pogo,1999.0,0.4,2409,1074486,0.0022
+survey,pool,EM,DGGS_27,Salcha River-Pogo SE extension,2001.0,0.4,228,1074486,0.0002
+survey,pool,EM,DGGS_61,Broad Pass,2001.0,0.4,581,1074486,0.0005
+survey,pool,EM,DGGS_22,Liberty Bell,2001.0,0.4,684,1074486,0.0006
+survey,searched,EM,DGGS_7,Council,2002.0,0.4,1594,122238,0.013
+survey,pool,EM,DGGS_20,Southern Delta River,2002.0,0.4,1503,1074486,0.0014
+survey,pool,EM,DGGS_14,Liscum,2005.0,0.4,170,1074486,0.0002
+survey,pool,EM,DGGS_80,Black Mountain,2005.0,0.4,583,1074486,0.0005
+survey,pool,EM,DGGS_8,East Richardson,2005.0,0.4,579,1074486,0.0005
+survey,pool,EM,DGGS_16,Northeast Fairbanks,2005.0,0.4,1060,1074486,0.001
+survey,pool,EM,DGGS_34,Bonnifield,2007.0,0.4,1563,1074486,0.0015
+survey,pool,EM,DGGS_95,Slate Cr-Slana River,2008.0,0.4,1148,1074486,0.0011
+survey,pool,EM,DGGS_135,Ladue,2010.0,0.4,1898,1074486,0.0018
+survey,searched,EM,DGGS_155,Iditarod 2010,2010.0,0.4,1285,122238,0.0105
+survey,pool,EM,DGGS_256,Wrangellia,2013.0,0.4,3308,1074486,0.0031
+survey,pool,EM,AK_ak31,Valdez Creek,1993.0,0.4,206,1074486,0.0002
+survey,searched,EM,DGGS_236D,Southern Dishna River,2012.0,0.4,599,122238,0.0049
+survey,pool,EM,DGGS_10,Goodpaster,2004.0,0.4,539,1074486,0.0005
+survey,pool,EM,DGGS_30AB,Stikine - Duncan Canal,1997.0,0.4,1739,1074486,0.0016
+survey,pool,EM,DGGS_30E,Stikine - Groundhog Basin,1997.0,0.4,146,1074486,0.0001
+survey,pool,EM,DGGS_30C2,Stikine - Zarembo Island,1997.0,0.4,468,1074486,0.0004
+survey,pool,EM,DGGS_30C1,Stikine - NE Prince of Wales,1997.0,0.4,24,1074486,0.0
+survey,pool,EM,DGGS_30D,Stikine - Western Etolin,1997.0,0.4,219,1074486,0.0002
+survey,pool,EM,DGGS_12,Ketchikan 1999,1997.0,0.4,1798,1074486,0.0017
+survey,pool,EM,DGGS_336,Tonsina,2014.0,0.4,683,1074486,0.0006
+survey,pool,EM,DGGS_32,Koyukuk (Wiseman),1997.0,0.4,1401,1074486,0.0013
+survey,pool,EM,DGGS_377,Goldstream Valley,2016.0,0.1,254,1074486,0.0002
+survey,pool,EM,DGGS_Icy,Icy Cape,2016.0,-9999.0,128,1074486,0.0001
+survey,pool,EM,P949B5C2,IliamnaAK2012,2012.0,0.25,319,1074486,0.0003
+survey,searched,Mag_fine,AK_cady,Cady,-9999.0,0.4,12810,122238,0.1048
+survey,pool,Mag_fine,AK_cady,Cady,-9999.0,0.4,4701,1074486,0.0044
+survey,searched,Mag_fine,AK_ak07,Seward Peninsula,1971.0,0.4,9736,122238,0.0796
+survey,pool,Mag_fine,AK_ak07,Seward Peninsula,1971.0,0.4,1818,1074486,0.0017
+survey,pool,Mag_fine,AK_ak24_25,"Bethel '88, Phillips comp. 1/2 km grid",1988.0,0.4,20943,1074486,0.0195
+survey,searched,Mag_fine,AK_ak26_27_28,Nome 1993,1993.0,0.4,1065,122238,0.0087
+survey,pool,Mag_fine,AK_ak33_34,Fairbanks EM West,1994.0,0.4,1072,1074486,0.001
+survey,pool,Mag_fine,AK_ak30,Nyac Mining District,1993.0,0.4,528,1074486,0.0005
+survey,pool,Mag_fine,AK_4160ab,Annette Island,1986.0,0.4,321,1074486,0.0003
+survey,pool,Mag_fine,YukonFlats,Yukon Flats 2010,2010.0,0.35,10490,1074486,0.0098
+survey,pool,Mag_fine,AK_54,Unga Island,1990.0,0.15,87,1074486,0.0001
+survey,pool,Mag_fine,DGGS_29,Southern NPR-A,2005.0,0.4,3726,1074486,0.0035
+survey,pool,Mag_fine,DGGS_29D,Southern NPR-A - Drenchwater,2005.0,0.2,23,1074486,0.0
+survey,pool,Mag_fine,Tok,Tok,2014.0,0.4,2578,1074486,0.0024
+survey,pool,Mag_fine,Fortymile_west,Western Fortymile Mining District,2007.0,0.4,668,1074486,0.0006
+survey,pool,Mag_fine,Fortymile,Fortymile mining district,1998.0,0.4,2742,1074486,0.0026
+survey,pool,Mag_fine,AKHighway,Alaska Highway Corridor,2006.0,0.4,8017,1074486,0.0075
+survey,pool,Mag_fine,DGGS_380,Porcupine,2017.0,0.3,13460,1074486,0.0125
+survey,pool,Mag_fine,AK_ak29,Circle 1993,1993.0,0.4,887,1074486,0.0008
+survey,pool,Mag_fine,DGGS_9F,Fairbanks 1994,1994.0,0.4,1572,1074486,0.0015
+survey,pool,Mag_fine,DGGS_9R,Richardson,1994.0,0.4,394,1074486,0.0004
+survey,pool,Mag_fine,DGGS_19,Headwaters of the Little Chena,1994.0,0.4,62,1074486,0.0001
+survey,pool,Mag_fine,DGGS_11,Iron Creek,1997.0,0.4,884,1074486,0.0008
+survey,searched,Mag_fine,DGGS_25,Ruby 1997,1997.0,0.4,1395,122238,0.0114
+survey,pool,Mag_fine,DGGS_15,Livengood,1998.0,0.4,592,1074486,0.0006
+survey,pool,Mag_fine,DGGS_26,Salcha River-Pogo,1999.0,0.4,2409,1074486,0.0022
+survey,pool,Mag_fine,DGGS_27,Salcha River-Pogo SE extension,2001.0,0.4,228,1074486,0.0002
+survey,pool,Mag_fine,DGGS_61,Broad Pass,2001.0,0.4,581,1074486,0.0005
+survey,pool,Mag_fine,DGGS_22,Liberty Bell,2001.0,0.4,684,1074486,0.0006
+survey,searched,Mag_fine,DGGS_7,Council,2002.0,0.4,1594,122238,0.013
+survey,pool,Mag_fine,DGGS_20,Southern Delta River,2002.0,0.4,1503,1074486,0.0014
+survey,pool,Mag_fine,DGGS_14,Liscum,2005.0,0.4,170,1074486,0.0002
+survey,pool,Mag_fine,DGGS_80,Black Mountain,2005.0,0.4,583,1074486,0.0005
+survey,pool,Mag_fine,DGGS_8,East Richardson,2005.0,0.4,579,1074486,0.0005
+survey,pool,Mag_fine,DGGS_16,Northeast Fairbanks,2005.0,0.4,1060,1074486,0.001
+survey,pool,Mag_fine,DGGS_34,Bonnifield,2007.0,0.4,1563,1074486,0.0015
+survey,pool,Mag_fine,DGGS_95,Slate Cr-Slana River,2008.0,0.4,1148,1074486,0.0011
+survey,pool,Mag_fine,DGGS_135,Ladue,2010.0,0.4,1898,1074486,0.0018
+survey,searched,Mag_fine,DGGS_155,Iditarod 2010,2010.0,0.4,1285,122238,0.0105
+survey,pool,Mag_fine,DGGS_256,Wrangellia,2013.0,0.4,3308,1074486,0.0031
+survey,pool,Mag_fine,AK_ak31,Valdez Creek,1993.0,0.4,206,1074486,0.0002
+survey,searched,Mag_fine,DGGS_236D,Southern Dishna River,2012.0,0.4,599,122238,0.0049
+survey,pool,Mag_fine,DGGS_10,Goodpaster,2004.0,0.4,539,1074486,0.0005
+survey,pool,Mag_fine,DGGS_30AB,Stikine - Duncan Canal,1997.0,0.4,1739,1074486,0.0016
+survey,pool,Mag_fine,DGGS_30E,Stikine - Groundhog Basin,1997.0,0.4,146,1074486,0.0001
+survey,pool,Mag_fine,DGGS_30C2,Stikine - Zarembo Island,1997.0,0.4,468,1074486,0.0004
+survey,pool,Mag_fine,DGGS_30C1,Stikine - NE Prince of Wales,1997.0,0.4,24,1074486,0.0
+survey,pool,Mag_fine,DGGS_30D,Stikine - Western Etolin,1997.0,0.4,219,1074486,0.0002
+survey,pool,Mag_fine,DGGS_12,Ketchikan 1999,1997.0,0.4,1798,1074486,0.0017
+survey,pool,Mag_fine,DGGS_336,Tonsina,2014.0,0.4,683,1074486,0.0006
+survey,pool,Mag_fine,DGGS_32,Koyukuk (Wiseman),1997.0,0.4,1401,1074486,0.0013
+survey,pool,Mag_fine,DGGS_377,Goldstream Valley,2016.0,0.1,254,1074486,0.0002
+survey,pool,Mag_fine,YukonFlats_M,Yukon Flats 2010 - subset,2010.0,0.35,249,1074486,0.0002
+survey,pool,Mag_fine,P949B5C2,IliamnaAK2012,2012.0,0.25,319,1074486,0.0003
+stratum,searched,EM,pf|bedrock|forest,,,,239,4709,0.0508
+stratum,searched,EM,pf|bedrock|shrub,,,,580,5007,0.1158
+stratum,searched,EM,pf|bedrock|herb_wet,,,,80,1161,0.0689
+stratum,searched,EM,pf|bedrock|barren_ice,,,,4,58,0.069
+stratum,searched,EM,pf|glacial|forest,,,,0,554,0.0
+stratum,searched,EM,pf|glacial|shrub,,,,0,942,0.0
+stratum,searched,EM,pf|glacial|herb_wet,,,,0,30,0.0
+stratum,searched,EM,pf|glacial|barren_ice,,,,0,4,0.0
+stratum,searched,EM,pf|surficial|forest,,,,124,6715,0.0185
+stratum,searched,EM,pf|surficial|shrub,,,,374,12522,0.0299
+stratum,searched,EM,pf|surficial|herb_wet,,,,81,6811,0.0119
+stratum,searched,EM,pf|surficial|barren_ice,,,,3,34,0.0882
+stratum,searched,EM,pf|other|forest,,,,0,67,0.0
+stratum,searched,EM,pf|other|shrub,,,,0,31,0.0
+stratum,searched,EM,pf|other|herb_wet,,,,0,47,0.0
+stratum,searched,EM,nopf|bedrock|forest,,,,1107,17128,0.0646
+stratum,searched,EM,nopf|bedrock|shrub,,,,1003,20181,0.0497
+stratum,searched,EM,nopf|bedrock|herb_wet,,,,92,1679,0.0548
+stratum,searched,EM,nopf|bedrock|barren_ice,,,,35,823,0.0425
+stratum,searched,EM,nopf|glacial|forest,,,,0,818,0.0
+stratum,searched,EM,nopf|glacial|shrub,,,,0,1114,0.0
+stratum,searched,EM,nopf|glacial|herb_wet,,,,0,18,0.0
+stratum,searched,EM,nopf|glacial|barren_ice,,,,0,39,0.0
+stratum,searched,EM,nopf|surficial|forest,,,,432,11772,0.0367
+stratum,searched,EM,nopf|surficial|shrub,,,,519,11382,0.0456
+stratum,searched,EM,nopf|surficial|herb_wet,,,,36,5879,0.0061
+stratum,searched,EM,nopf|surficial|barren_ice,,,,5,162,0.0309
+stratum,searched,EM,nopf|other|forest,,,,0,252,0.0
+stratum,searched,EM,nopf|other|shrub,,,,1,67,0.0149
+stratum,searched,EM,nopf|other|herb_wet,,,,0,112,0.0
+stratum,searched,EM,nopf|other|barren_ice,,,,0,72,0.0
+stratum,searched,EM,unmapped|bedrock|forest,,,,5,200,0.025
+stratum,searched,EM,unmapped|bedrock|shrub,,,,61,793,0.0769
+stratum,searched,EM,unmapped|bedrock|herb_wet,,,,5,70,0.0714
+stratum,searched,EM,unmapped|bedrock|barren_ice,,,,60,3236,0.0185
+stratum,searched,EM,unmapped|glacial|forest,,,,0,23,0.0
+stratum,searched,EM,unmapped|glacial|shrub,,,,0,59,0.0
+stratum,searched,EM,unmapped|glacial|herb_wet,,,,0,2,0.0
+stratum,searched,EM,unmapped|glacial|barren_ice,,,,0,149,0.0
+stratum,searched,EM,unmapped|surficial|forest,,,,2,602,0.0033
+stratum,searched,EM,unmapped|surficial|shrub,,,,20,602,0.0332
+stratum,searched,EM,unmapped|surficial|herb_wet,,,,3,582,0.0052
+stratum,searched,EM,unmapped|surficial|barren_ice,,,,2,149,0.0134
+stratum,searched,EM,unmapped|other|forest,,,,0,171,0.0
+stratum,searched,EM,unmapped|other|shrub,,,,0,84,0.0
+stratum,searched,EM,unmapped|other|herb_wet,,,,0,101,0.0
+stratum,searched,EM,unmapped|other|barren_ice,,,,0,5225,0.0
+total,searched,EM,_all,,,,4873,122238,0.0399
+stratum,pool,EM,pf|bedrock|forest,,,,3267,22292,0.1466
+stratum,pool,EM,pf|bedrock|shrub,,,,3964,85807,0.0462
+stratum,pool,EM,pf|bedrock|herb_wet,,,,279,12900,0.0216
+stratum,pool,EM,pf|bedrock|barren_ice,,,,144,2938,0.049
+stratum,pool,EM,pf|glacial|forest,,,,485,10269,0.0472
+stratum,pool,EM,pf|glacial|shrub,,,,539,28712,0.0188
+stratum,pool,EM,pf|glacial|herb_wet,,,,140,8703,0.0161
+stratum,pool,EM,pf|glacial|barren_ice,,,,17,282,0.0603
+stratum,pool,EM,pf|surficial|forest,,,,4679,30605,0.1529
+stratum,pool,EM,pf|surficial|shrub,,,,3507,90057,0.0389
+stratum,pool,EM,pf|surficial|herb_wet,,,,1899,74891,0.0254
+stratum,pool,EM,pf|surficial|barren_ice,,,,75,2709,0.0277
+stratum,pool,EM,pf|other|forest,,,,52,306,0.1699
+stratum,pool,EM,pf|other|shrub,,,,11,746,0.0147
+stratum,pool,EM,pf|other|herb_wet,,,,34,2397,0.0142
+stratum,pool,EM,pf|other|barren_ice,,,,11,214,0.0514
+stratum,pool,EM,nopf|bedrock|forest,,,,6905,68490,0.1008
+stratum,pool,EM,nopf|bedrock|shrub,,,,6956,134362,0.0518
+stratum,pool,EM,nopf|bedrock|herb_wet,,,,471,7513,0.0627
+stratum,pool,EM,nopf|bedrock|barren_ice,,,,880,22621,0.0389
+stratum,pool,EM,nopf|glacial|forest,,,,967,23559,0.041
+stratum,pool,EM,nopf|glacial|shrub,,,,1743,53930,0.0323
+stratum,pool,EM,nopf|glacial|herb_wet,,,,272,8881,0.0306
+stratum,pool,EM,nopf|glacial|barren_ice,,,,100,1606,0.0623
+stratum,pool,EM,nopf|surficial|forest,,,,7660,48253,0.1587
+stratum,pool,EM,nopf|surficial|shrub,,,,3438,69218,0.0497
+stratum,pool,EM,nopf|surficial|herb_wet,,,,2015,30716,0.0656
+stratum,pool,EM,nopf|surficial|barren_ice,,,,243,4147,0.0586
+stratum,pool,EM,nopf|other|forest,,,,274,2232,0.1228
+stratum,pool,EM,nopf|other|shrub,,,,61,1917,0.0318
+stratum,pool,EM,nopf|other|herb_wet,,,,71,1410,0.0504
+stratum,pool,EM,nopf|other|barren_ice,,,,50,1824,0.0274
+stratum,pool,EM,unmapped|bedrock|forest,,,,309,6053,0.051
+stratum,pool,EM,unmapped|bedrock|shrub,,,,991,29482,0.0336
+stratum,pool,EM,unmapped|bedrock|herb_wet,,,,32,4650,0.0069
+stratum,pool,EM,unmapped|bedrock|barren_ice,,,,1630,61387,0.0266
+stratum,pool,EM,unmapped|glacial|forest,,,,72,1575,0.0457
+stratum,pool,EM,unmapped|glacial|shrub,,,,203,3933,0.0516
+stratum,pool,EM,unmapped|glacial|herb_wet,,,,104,1593,0.0653
+stratum,pool,EM,unmapped|glacial|barren_ice,,,,168,6056,0.0277
+stratum,pool,EM,unmapped|surficial|forest,,,,705,3568,0.1976
+stratum,pool,EM,unmapped|surficial|shrub,,,,345,11928,0.0289
+stratum,pool,EM,unmapped|surficial|herb_wet,,,,297,14605,0.0203
+stratum,pool,EM,unmapped|surficial|barren_ice,,,,240,13281,0.0181
+stratum,pool,EM,unmapped|other|forest,,,,252,2939,0.0857
+stratum,pool,EM,unmapped|other|shrub,,,,40,2811,0.0142
+stratum,pool,EM,unmapped|other|herb_wet,,,,66,3616,0.0183
+stratum,pool,EM,unmapped|other|barren_ice,,,,299,52502,0.0057
+total,pool,EM,_all,,,,56962,1074486,0.053
+stratum,searched,Mag_fine,pf|bedrock|forest,,,,427,4709,0.0907
+stratum,searched,Mag_fine,pf|bedrock|shrub,,,,1693,5007,0.3381
+stratum,searched,Mag_fine,pf|bedrock|herb_wet,,,,424,1161,0.3652
+stratum,searched,Mag_fine,pf|bedrock|barren_ice,,,,15,58,0.2586
+stratum,searched,Mag_fine,pf|glacial|forest,,,,0,554,0.0
+stratum,searched,Mag_fine,pf|glacial|shrub,,,,0,942,0.0
+stratum,searched,Mag_fine,pf|glacial|herb_wet,,,,0,30,0.0
+stratum,searched,Mag_fine,pf|glacial|barren_ice,,,,0,4,0.0
+stratum,searched,Mag_fine,pf|surficial|forest,,,,338,6715,0.0503
+stratum,searched,Mag_fine,pf|surficial|shrub,,,,2143,12522,0.1711
+stratum,searched,Mag_fine,pf|surficial|herb_wet,,,,1577,6811,0.2315
+stratum,searched,Mag_fine,pf|surficial|barren_ice,,,,13,34,0.3824
+stratum,searched,Mag_fine,pf|other|forest,,,,0,67,0.0
+stratum,searched,Mag_fine,pf|other|shrub,,,,8,31,0.2581
+stratum,searched,Mag_fine,pf|other|herb_wet,,,,16,47,0.3404
+stratum,searched,Mag_fine,nopf|bedrock|forest,,,,1792,17128,0.1046
+stratum,searched,Mag_fine,nopf|bedrock|shrub,,,,3457,20181,0.1713
+stratum,searched,Mag_fine,nopf|bedrock|herb_wet,,,,346,1679,0.2061
+stratum,searched,Mag_fine,nopf|bedrock|barren_ice,,,,94,823,0.1142
+stratum,searched,Mag_fine,nopf|glacial|forest,,,,0,818,0.0
+stratum,searched,Mag_fine,nopf|glacial|shrub,,,,0,1114,0.0
+stratum,searched,Mag_fine,nopf|glacial|herb_wet,,,,0,18,0.0
+stratum,searched,Mag_fine,nopf|glacial|barren_ice,,,,0,39,0.0
+stratum,searched,Mag_fine,nopf|surficial|forest,,,,976,11772,0.0829
+stratum,searched,Mag_fine,nopf|surficial|shrub,,,,1543,11382,0.1356
+stratum,searched,Mag_fine,nopf|surficial|herb_wet,,,,607,5879,0.1032
+stratum,searched,Mag_fine,nopf|surficial|barren_ice,,,,12,162,0.0741
+stratum,searched,Mag_fine,nopf|other|forest,,,,0,252,0.0
+stratum,searched,Mag_fine,nopf|other|shrub,,,,7,67,0.1045
+stratum,searched,Mag_fine,nopf|other|herb_wet,,,,31,112,0.2768
+stratum,searched,Mag_fine,nopf|other|barren_ice,,,,3,72,0.0417
+stratum,searched,Mag_fine,unmapped|bedrock|forest,,,,10,200,0.05
+stratum,searched,Mag_fine,unmapped|bedrock|shrub,,,,165,793,0.2081
+stratum,searched,Mag_fine,unmapped|bedrock|herb_wet,,,,20,70,0.2857
+stratum,searched,Mag_fine,unmapped|bedrock|barren_ice,,,,88,3236,0.0272
+stratum,searched,Mag_fine,unmapped|glacial|forest,,,,0,23,0.0
+stratum,searched,Mag_fine,unmapped|glacial|shrub,,,,0,59,0.0
+stratum,searched,Mag_fine,unmapped|glacial|herb_wet,,,,0,2,0.0
+stratum,searched,Mag_fine,unmapped|glacial|barren_ice,,,,0,149,0.0
+stratum,searched,Mag_fine,unmapped|surficial|forest,,,,8,602,0.0133
+stratum,searched,Mag_fine,unmapped|surficial|shrub,,,,96,602,0.1595
+stratum,searched,Mag_fine,unmapped|surficial|herb_wet,,,,183,582,0.3144
+stratum,searched,Mag_fine,unmapped|surficial|barren_ice,,,,10,149,0.0671
+stratum,searched,Mag_fine,unmapped|other|forest,,,,5,171,0.0292
+stratum,searched,Mag_fine,unmapped|other|shrub,,,,13,84,0.1548
+stratum,searched,Mag_fine,unmapped|other|herb_wet,,,,33,101,0.3267
+stratum,searched,Mag_fine,unmapped|other|barren_ice,,,,4,5225,0.0008
+total,searched,Mag_fine,_all,,,,16157,122238,0.1322
+stratum,pool,Mag_fine,pf|bedrock|forest,,,,5408,22292,0.2426
+stratum,pool,Mag_fine,pf|bedrock|shrub,,,,6308,85807,0.0735
+stratum,pool,Mag_fine,pf|bedrock|herb_wet,,,,893,12900,0.0692
+stratum,pool,Mag_fine,pf|bedrock|barren_ice,,,,290,2938,0.0987
+stratum,pool,Mag_fine,pf|glacial|forest,,,,507,10269,0.0494
+stratum,pool,Mag_fine,pf|glacial|shrub,,,,1549,28712,0.0539
+stratum,pool,Mag_fine,pf|glacial|herb_wet,,,,250,8703,0.0287
+stratum,pool,Mag_fine,pf|glacial|barren_ice,,,,17,282,0.0603
+stratum,pool,Mag_fine,pf|surficial|forest,,,,6913,30605,0.2259
+stratum,pool,Mag_fine,pf|surficial|shrub,,,,8379,90057,0.093
+stratum,pool,Mag_fine,pf|surficial|herb_wet,,,,4461,74891,0.0596
+stratum,pool,Mag_fine,pf|surficial|barren_ice,,,,104,2709,0.0384
+stratum,pool,Mag_fine,pf|other|forest,,,,71,306,0.232
+stratum,pool,Mag_fine,pf|other|shrub,,,,22,746,0.0295
+stratum,pool,Mag_fine,pf|other|herb_wet,,,,52,2397,0.0217
+stratum,pool,Mag_fine,pf|other|barren_ice,,,,13,214,0.0607
+stratum,pool,Mag_fine,nopf|bedrock|forest,,,,9021,68490,0.1317
+stratum,pool,Mag_fine,nopf|bedrock|shrub,,,,12428,134362,0.0925
+stratum,pool,Mag_fine,nopf|bedrock|herb_wet,,,,663,7513,0.0882
+stratum,pool,Mag_fine,nopf|bedrock|barren_ice,,,,1368,22621,0.0605
+stratum,pool,Mag_fine,nopf|glacial|forest,,,,1154,23559,0.049
+stratum,pool,Mag_fine,nopf|glacial|shrub,,,,4728,53930,0.0877
+stratum,pool,Mag_fine,nopf|glacial|herb_wet,,,,382,8881,0.043
+stratum,pool,Mag_fine,nopf|glacial|barren_ice,,,,158,1606,0.0984
+stratum,pool,Mag_fine,nopf|surficial|forest,,,,9304,48253,0.1928
+stratum,pool,Mag_fine,nopf|surficial|shrub,,,,7448,69218,0.1076
+stratum,pool,Mag_fine,nopf|surficial|herb_wet,,,,4072,30716,0.1326
+stratum,pool,Mag_fine,nopf|surficial|barren_ice,,,,262,4147,0.0632
+stratum,pool,Mag_fine,nopf|other|forest,,,,316,2232,0.1416
+stratum,pool,Mag_fine,nopf|other|shrub,,,,81,1917,0.0423
+stratum,pool,Mag_fine,nopf|other|herb_wet,,,,140,1410,0.0993
+stratum,pool,Mag_fine,nopf|other|barren_ice,,,,52,1824,0.0285
+stratum,pool,Mag_fine,unmapped|bedrock|forest,,,,420,6053,0.0694
+stratum,pool,Mag_fine,unmapped|bedrock|shrub,,,,1572,29482,0.0533
+stratum,pool,Mag_fine,unmapped|bedrock|herb_wet,,,,121,4650,0.026
+stratum,pool,Mag_fine,unmapped|bedrock|barren_ice,,,,2389,61387,0.0389
+stratum,pool,Mag_fine,unmapped|glacial|forest,,,,75,1575,0.0476
+stratum,pool,Mag_fine,unmapped|glacial|shrub,,,,310,3933,0.0788
+stratum,pool,Mag_fine,unmapped|glacial|herb_wet,,,,108,1593,0.0678
+stratum,pool,Mag_fine,unmapped|glacial|barren_ice,,,,197,6056,0.0325
+stratum,pool,Mag_fine,unmapped|surficial|forest,,,,787,3568,0.2206
+stratum,pool,Mag_fine,unmapped|surficial|shrub,,,,855,11928,0.0717
+stratum,pool,Mag_fine,unmapped|surficial|herb_wet,,,,729,14605,0.0499
+stratum,pool,Mag_fine,unmapped|surficial|barren_ice,,,,271,13281,0.0204
+stratum,pool,Mag_fine,unmapped|other|forest,,,,280,2939,0.0953
+stratum,pool,Mag_fine,unmapped|other|shrub,,,,72,2811,0.0256
+stratum,pool,Mag_fine,unmapped|other|herb_wet,,,,150,3616,0.0415
+stratum,pool,Mag_fine,unmapped|other|barren_ice,,,,323,52502,0.0062
+total,pool,Mag_fine,_all,,,,95473,1074486,0.0889

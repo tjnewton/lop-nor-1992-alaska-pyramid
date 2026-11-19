@@ -1,0 +1,12 @@
+name,kind,h_m,points_per_rayleigh_wavelength,at_hz,grid,points_millions,dt_ms,steps,predicted_gb,predicted_hours_each,simulations,fits,half_width_m,half_width_rule_m,edge_delay_s,edge_rule,note
+thawed_1200,"production, for comparison",10.0,15.4,4.0,721x365x132,34.7,1.4961,6589,5.4,0.41,2,True,3300.0,4200.0,2.27,0.5-1: broken from 100 m; 1-2: met; 2-4: met,
+thawed_850,"production, for comparison",10.0,21.81,2.0,721x365x132,34.7,2.1122,5759,5.4,0.36,2,True,3300.0,3300.0,3.29,0.5-1: met; 1-2: met,
+frozen_1200,"production, for comparison",10.0,15.4,4.0,721x365x132,34.7,1.1969,8236,5.4,0.52,2,True,3300.0,4200.0,2.27,0.5-1: broken from 100 m; 1-2: met; 2-4: met,
+frozen_850,"production, for comparison",10.0,21.81,2.0,721x365x132,34.7,1.1969,10162,5.4,0.64,2,True,3300.0,3300.0,3.29,0.5-1: met; 1-2: met,
+R1,run,7.0833,15.4,4.0,993x501x173,86.1,1.4961,8126,13.4,1.26,2,True,3300.0,3300.0,3.29,0.5-1: met; 1-2: met; 2-4: met,no gate
+R2,run,10.0,15.4,4.0,721x365x132,34.7,0.6529,15099,5.4,0.95,2,True,3300.0,4200.0,2.27,0.5-1: broken from 100 m; 1-2: met; 2-4: met,R2 is not run: gate sphere_thawed not run
+R3,run,10.0,15.4,4.0,721x365x132,34.7,1.4961,6589,5.4,0.41,2,True,3300.0,4200.0,2.27,0.5-1: broken from 100 m; 1-2: met; 2-4: met,no gate
+R4,run,9.2823,15.4,2.0,1289x649x140,117.1,0.606,27083,18.2,5.73,2,True,5700.0,6600.0,3.23,0.5-1: broken from 1800 m; 1-2: met,"R4 is not run: gate surface_soft not run, sphere_soft not run; needs --full-size"
+sphere_thawed,gate before R2,10.0,15.4,4.0,435x435x201,38.0,0.6529,3690,5.9,0.25,2,True,,,,,wavelet peak 2.5 Hz; frequencies 1 2 4 Hz
+surface_soft,gate before R4,9.2823,15.4,2.0,505x277x107,15.0,0.606,24095,2.3,0.65,1,True,,,,,wavelet peak 1.25 Hz; frequencies 2 Hz; needs --full-size
+sphere_soft,gate before R4,9.2823,15.4,2.0,869x439x213,81.3,0.606,7041,12.6,1.03,2,True,,,,,wavelet peak 1.25 Hz; frequencies 1 2 Hz; mirror plane y = 0; needs --full-size

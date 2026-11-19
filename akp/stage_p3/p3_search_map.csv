@@ -1,0 +1,13 @@
+cls,source,prior,searched_mass,cells_with_d,top1pct_post_share
+T1_low,g1a,W_cover,0.0,113394,0.7539
+T1_low,g1a,W_none,0.0,113394,0.6755
+T1_high,g1a,W_cover,0.0003,113394,0.7539
+T1_high,g1a,W_none,0.0003,113394,0.6757
+T2_low,g1a,W_cover,0.0139,113394,0.7556
+T2_low,g1a,W_none,0.0156,113394,0.6857
+T2_high,g1a,W_cover,0.0693,113394,0.7749
+T2_high,g1a,W_none,0.0578,113394,0.7057
+T3_host1000,g1a,W_cover,0.015,10215,0.7589
+T3_host1000,g1a,W_none,0.0206,10215,0.6894
+T3_host3000,g1a,W_cover,0.0165,10215,0.7597
+T3_host3000,g1a,W_none,0.0226,10215,0.6908

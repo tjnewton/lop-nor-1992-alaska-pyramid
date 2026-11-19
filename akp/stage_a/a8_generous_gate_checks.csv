@@ -1,0 +1,62 @@
+gate,attempt,check,value,passed,detail
+sphere_thawed,1,sphere_thawed_grid_shape,435x435x201,,"h 10.0 m, sponge 30 cells"
+sphere_thawed,1,sphere_thawed_points_millions,38.03,,
+sphere_thawed,1,sphere_thawed_time_step_s,0.0006528616913708074,,3690 steps
+sphere_thawed,1,sphere_thawed_run_seconds,675.5,,208 Mpts/s on OMP_NUM_THREADS threads
+sphere_thawed,1,sphere_thawed_peak_rss_gb,5.54,True,peak of the run's process; 146 bytes per point
+sphere_thawed,1,series_weak_vs_born_max_rel_err,0.0013773897190911821,True,tol 0.01
+sphere_thawed,1,series_rayleigh_limit_max_rel_err,0.0003256173873973367,True,tol 0.01
+sphere_thawed,1,series_optical_theorem_max_defect,2.9816451664337633e-15,True,tol 1e-06
+sphere_thawed,1,series_finite_r_to_far_field_max_rel_err,1.108912601077705e-06,True,tol 0.001
+sphere_thawed,1,born_pattern_vs_swe_scattering_max_rel_err,0.00015182412653613753,True,tol 0.001
+sphere_thawed,1,raster_sphere_volume_rel_err,-0.00010658322918166707,,
+sphere_thawed,1,born_raster_vs_series_max_rel_diff_contrast_1e-4,0.013050626304203283,True,finite-distance Born integral on the raster against the exact series at the gate rows; validates the integral
+sphere_thawed,1,born_raster_vs_series_max_rel_diff_contrast_gate,0.06794446720528713,,finite-distance Born integral on the raster against the exact series at the gate rows; the nonlinearity the weak gate carries
+sphere_thawed,1,series_weak_vs_born_rel_err_at_kpa_0.2,0.000259481038976217,True,0.38 Hz; judged
+sphere_thawed,1,series_weak_vs_born_rel_err_at_kpa_0.5,0.0002801848266433815,True,0.95 Hz; judged
+sphere_thawed,1,series_weak_vs_born_rel_err_at_kpa_1,0.00027258042695355034,True,1.91 Hz; judged
+sphere_thawed,1,series_weak_vs_born_rel_err_at_kpa_2,0.0013773897190911821,True,3.82 Hz; judged
+sphere_thawed,1,series_weak_vs_born_rel_err_at_kpa_4,0.0012984563672806537,True,7.64 Hz; not judged: above the gate's 4 Hz
+sphere_thawed,1,gate2_rows,24,,
+sphere_thawed,1,gate2_rows_failed,0,,
+sphere_thawed,1,gate2_max_abs_ratio_minus_1,0.10706317622595407,True,Verdict: every row
+sphere_thawed,1,gate2_max_abs_ratio_minus_1_without_near_nulls,0.10706317622595407,True,"context, not part of the verdict: 1 near-null rows left out"
+sphere_thawed,1,gate2_reference_energy_in_window_min,0.9999999809775899,True,share of each synthesized reference trace inside its window (convention check)
+sphere_thawed,1,gate2_scattered_max_over_incident,0.27164430010259,,
+surface_soft,1,surface_soft_grid_shape,505x277x107,,"h 9.28226572280991 m, sponge 30 cells"
+surface_soft,1,surface_soft_points_millions,14.97,,
+surface_soft,1,surface_soft_time_step_s,0.0006060035699546949,,24095 steps
+surface_soft,1,surface_soft_run_seconds,1977.2,,182 Mpts/s on OMP_NUM_THREADS threads
+surface_soft,1,surface_soft_peak_rss_gb,2.54,True,peak of the run's process; 170 bytes per point
+surface_soft,1,gate3_rayleigh_speed_rel_err,0.0020681770409318734,True,exact 285.81 m/s; tolerance 0.02
+surface_soft,1,gate3_rows,5,,
+surface_soft,1,gate3_rows_failed,0,,
+surface_soft,1,gate3_amp_max_abs_ratio_minus_1,0.056414956952808515,True,Verdict: every range and frequency
+surface_soft,1,gate3_h_over_v_fd_over_exact_f2_r1800.76,0.9710973851866678,,"particle motion: radial/vertical phase 101.6 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+surface_soft,1,gate3_h_over_v_fd_over_exact_f2_r2404.11,0.9484548723127748,,"particle motion: radial/vertical phase 100.7 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+surface_soft,1,gate3_h_over_v_fd_over_exact_f2_r2998.17,0.9623834529259867,,"particle motion: radial/vertical phase 101.4 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+surface_soft,1,gate3_h_over_v_fd_over_exact_f2_r3601.52,0.9624179498881686,,"particle motion: radial/vertical phase 101.2 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+sphere_soft,1,sphere_soft_grid_shape,869x439x213,,"h 9.28226572280991 m, sponge 30 cells"
+sphere_soft,1,sphere_soft_points_millions,81.26,,
+sphere_soft,1,sphere_soft_time_step_s,0.0006060035699546949,,7041 steps
+sphere_soft,1,sphere_soft_run_seconds,4125.0,,139 Mpts/s on OMP_NUM_THREADS threads
+sphere_soft,1,sphere_soft_peak_rss_gb,11.27,True,peak of the run's process; 139 bytes per point
+sphere_soft,1,series_weak_vs_born_max_rel_err,0.08370585653716811,False,tol 0.01
+sphere_soft,1,series_rayleigh_limit_max_rel_err,0.0028504243692432096,True,tol 0.01
+sphere_soft,1,series_optical_theorem_max_defect,5.01232221018752e-14,True,tol 1e-06
+sphere_soft,1,series_finite_r_to_far_field_max_rel_err,9.079942659973028e-07,True,tol 0.001
+sphere_soft,1,born_pattern_vs_swe_scattering_max_rel_err,0.00015000500113626636,True,tol 0.001
+sphere_soft,1,raster_sphere_volume_rel_err,-0.20480783208158848,,
+sphere_soft,1,born_raster_vs_series_max_rel_diff_contrast_1e-4,0.9680041548886577,False,finite-distance Born integral on the raster against the exact series at the gate rows; validates the integral
+sphere_soft,1,born_raster_vs_series_max_rel_diff_contrast_gate,0.9708512602079777,,finite-distance Born integral on the raster against the exact series at the gate rows; the nonlinearity the weak gate carries
+sphere_soft,1,series_weak_vs_born_rel_err_at_kpa_0.2,0.0004271852727617542,True,0.48 Hz; judged
+sphere_soft,1,series_weak_vs_born_rel_err_at_kpa_0.5,0.00041083708539568775,True,1.19 Hz; judged
+sphere_soft,1,series_weak_vs_born_rel_err_at_kpa_1,0.0005955979505638531,True,2.39 Hz; not judged: above the gate's 2 Hz
+sphere_soft,1,series_weak_vs_born_rel_err_at_kpa_2,0.0012575873175533214,True,4.77 Hz; not judged: above the gate's 2 Hz
+sphere_soft,1,series_weak_vs_born_rel_err_at_kpa_4,0.08370585653716811,False,9.55 Hz; not judged: above the gate's 2 Hz
+sphere_soft,1,gate2_rows,16,,
+sphere_soft,1,gate2_rows_failed,0,,
+sphere_soft,1,gate2_max_abs_ratio_minus_1,0.06299703781672594,True,Verdict: every row
+sphere_soft,1,gate2_max_abs_ratio_minus_1_without_near_nulls,0.06299703781672594,True,"context, not part of the verdict: 0 near-null rows left out"
+sphere_soft,1,gate2_reference_energy_in_window_min,0.9999991478717069,True,share of each synthesized reference trace inside its window (convention check)
+sphere_soft,1,gate2_scattered_max_over_incident,0.10955261792135335,,

@@ -1,0 +1,7 @@
+group,cluster,lead_event,baz_deg,upper_lag_s,flag_leftover_p_in_target_cell,p_alone_peak_bearing_deg,p_alone_peak_range_km,p_alone_pwin_peak_in_target_cell,with_arrival_peak_in_target_cell,with_arrival_peak_bearing_deg,with_arrival_peak_range_km
+0,2,tele_20150529T070009,344.286,13.8713,False,227.726,14.8661,True,True,312.879,19.105
+1,1,tele_20160824T103454,71.6065,16.4083,False,308.66,6.40312,True,True,312.879,19.105
+2,1,tele_20160410T102858,78.3456,41.7777,False,168.366,34.7131,True,True,312.709,17.6918
+3,0,tele_20200613T155124,41.1189,35.9088,False,45,46.669,False,True,312.709,17.6918
+5,2,tele_20150729T023559,343.58,23.7562,False,149.421,25.5539,False,True,313.025,20.5183
+6,0,tele_20160531T052347,47.1454,54.2601,False,198.435,6.32456,False,True,312.709,17.6918

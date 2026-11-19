@@ -1,0 +1,83 @@
+cls,survey_id,name,footprint,spacing_m,clearance_used_m,half_swath_m,share_in_footprint,cover_mass_in_footprint
+T1_low,AK_10001,Susitna 2012,v5,805.0,30.48,0.0,0.0,0.0203
+T1_low,AK_ak26_27_28,Nome 1993,v5,400.0,30.0,0.0,0.0,0.0011
+T1_low,DGGS_155,Iditarod 2010,v5,400.0,30.0,0.0,0.0,0.0028
+T1_low,DGGS_21,Petersville,v5,400.0,36.0,0.0,0.0,0.0064
+T1_low,DGGS_236D,Southern Dishna River,v5,400.0,30.0,0.0,0.0,0.0025
+T1_low,DGGS_25,Ruby 1997,v5,400.0,30.0,0.0,0.0,0.0019
+T1_low,DGGS_5,Chulitna,v5,400.0,30.0,0.0,0.0,0.0039
+T1_low,DGGS_7,Council,v5,400.0,30.0,0.0,0.0,0.0014
+T1_low,DGGS_GPR2022-1-a,Tanana River and Big Delta: Tanana block,boundary,400.0,188.0,0.0,0.0,0.0
+T1_low,DGGS_GPR2022-1-b,Tanana River and Big Delta: Chena block,boundary,400.0,352.0,0.0,0.0,0.0
+T1_low,DGGS_GPR2022-1-c,Tanana River and Big Delta: Healy block,boundary,400.0,295.0,0.0,0.0,0.0
+T1_low,DGGS_GPR2022-1-d,Tanana River and Big Delta: Eisen block,boundary,400.0,430.0,0.0,0.0,0.0
+T1_low,DGGS_GPR2022-1-e,Tanana River and Big Delta: North Pole block,boundary,400.0,180.0,0.0,0.0,0.0
+T1_low,DGGS_GPR2022-1-f,Tanana River and Big Delta: Eisen Infill block,boundary,200.0,422.0,0.0,0.0,0.0
+T1_low,DGGS_GPR2023-1,"Kuskokwim, northern Kuskokwim Mountains",boundary,400.0,184.0,0.0,0.0,0.0928
+T1_low,DGGS_GPR2024-1,"Kuskokwim, Sischu Mountains",boundary,400.0,192.0,0.0,0.0,0.0186
+T1_low,DGGS_GPR2026-2,"Kuskokwim, McGrath",boundary,400.0,100.0,0.0,0.0,0.0832
+T1_high,AK_10001,Susitna 2012,v5,805.0,30.48,0.0,0.0,0.0203
+T1_high,AK_ak26_27_28,Nome 1993,v5,400.0,30.0,0.0,0.0,0.0011
+T1_high,DGGS_155,Iditarod 2010,v5,400.0,30.0,0.0,0.0,0.0028
+T1_high,DGGS_21,Petersville,v5,400.0,36.0,0.0,0.0,0.0064
+T1_high,DGGS_236D,Southern Dishna River,v5,400.0,30.0,0.0,0.0,0.0025
+T1_high,DGGS_25,Ruby 1997,v5,400.0,30.0,0.0,0.0,0.0019
+T1_high,DGGS_5,Chulitna,v5,400.0,30.0,0.0,0.0,0.0039
+T1_high,DGGS_7,Council,v5,400.0,30.0,0.0,0.0,0.0014
+T1_high,DGGS_GPR2022-1-a,Tanana River and Big Delta: Tanana block,boundary,400.0,188.0,0.0,0.0,0.0
+T1_high,DGGS_GPR2022-1-b,Tanana River and Big Delta: Chena block,boundary,400.0,352.0,0.0,0.0,0.0
+T1_high,DGGS_GPR2022-1-c,Tanana River and Big Delta: Healy block,boundary,400.0,295.0,0.0,0.0,0.0
+T1_high,DGGS_GPR2022-1-d,Tanana River and Big Delta: Eisen block,boundary,400.0,430.0,0.0,0.0,0.0
+T1_high,DGGS_GPR2022-1-e,Tanana River and Big Delta: North Pole block,boundary,400.0,180.0,0.0,0.0,0.0
+T1_high,DGGS_GPR2022-1-f,Tanana River and Big Delta: Eisen Infill block,boundary,200.0,422.0,0.0,0.0,0.0
+T1_high,DGGS_GPR2023-1,"Kuskokwim, northern Kuskokwim Mountains",boundary,400.0,184.0,0.0,0.0,0.0928
+T1_high,DGGS_GPR2024-1,"Kuskokwim, Sischu Mountains",boundary,400.0,192.0,0.0,0.0,0.0186
+T1_high,DGGS_GPR2026-2,"Kuskokwim, McGrath",boundary,400.0,100.0,0.0,0.0,0.0832
+T2_low,AK_10001,Susitna 2012,v5,805.0,30.48,87.54375,0.2175,0.0203
+T2_low,AK_ak26_27_28,Nome 1993,v5,400.0,30.0,87.0,0.435,0.0011
+T2_low,DGGS_155,Iditarod 2010,v5,400.0,30.0,87.0,0.435,0.0028
+T2_low,DGGS_21,Petersville,v5,400.0,36.0,82.0,0.41,0.0064
+T2_low,DGGS_236D,Southern Dishna River,v5,400.0,30.0,87.0,0.435,0.0025
+T2_low,DGGS_25,Ruby 1997,v5,400.0,30.0,87.0,0.435,0.0019
+T2_low,DGGS_5,Chulitna,v5,400.0,30.0,87.0,0.435,0.0039
+T2_low,DGGS_7,Council,v5,400.0,30.0,87.0,0.435,0.0014
+T2_low,DGGS_GPR2022-1-a,Tanana River and Big Delta: Tanana block,boundary,400.0,188.0,0.0,0.0,0.0
+T2_low,DGGS_GPR2022-1-b,Tanana River and Big Delta: Chena block,boundary,400.0,352.0,0.0,0.0,0.0
+T2_low,DGGS_GPR2022-1-c,Tanana River and Big Delta: Healy block,boundary,400.0,295.0,0.0,0.0,0.0
+T2_low,DGGS_GPR2022-1-d,Tanana River and Big Delta: Eisen block,boundary,400.0,430.0,0.0,0.0,0.0
+T2_low,DGGS_GPR2022-1-e,Tanana River and Big Delta: North Pole block,boundary,400.0,180.0,0.0,0.0,0.0
+T2_low,DGGS_GPR2022-1-f,Tanana River and Big Delta: Eisen Infill block,boundary,200.0,422.0,0.0,0.0,0.0
+T2_low,DGGS_GPR2023-1,"Kuskokwim, northern Kuskokwim Mountains",boundary,400.0,184.0,0.0,0.0,0.0928
+T2_low,DGGS_GPR2024-1,"Kuskokwim, Sischu Mountains",boundary,400.0,192.0,0.0,0.0,0.0186
+T2_low,DGGS_GPR2026-2,"Kuskokwim, McGrath",boundary,400.0,100.0,0.0,0.0,0.0832
+T2_high,AK_10001,Susitna 2012,v5,805.0,30.48,147.91875000000002,0.3675,0.0203
+T2_high,AK_ak26_27_28,Nome 1993,v5,400.0,30.0,147.5,0.7375,0.0011
+T2_high,DGGS_155,Iditarod 2010,v5,400.0,30.0,147.5,0.7375,0.0028
+T2_high,DGGS_21,Petersville,v5,400.0,36.0,146.0,0.73,0.0064
+T2_high,DGGS_236D,Southern Dishna River,v5,400.0,30.0,147.5,0.7375,0.0025
+T2_high,DGGS_25,Ruby 1997,v5,400.0,30.0,147.5,0.7375,0.0019
+T2_high,DGGS_5,Chulitna,v5,400.0,30.0,147.5,0.7375,0.0039
+T2_high,DGGS_7,Council,v5,400.0,30.0,147.5,0.7375,0.0014
+T2_high,DGGS_GPR2022-1-a,Tanana River and Big Delta: Tanana block,boundary,400.0,188.0,0.0,0.0,0.0
+T2_high,DGGS_GPR2022-1-b,Tanana River and Big Delta: Chena block,boundary,400.0,352.0,0.0,0.0,0.0
+T2_high,DGGS_GPR2022-1-c,Tanana River and Big Delta: Healy block,boundary,400.0,295.0,0.0,0.0,0.0
+T2_high,DGGS_GPR2022-1-d,Tanana River and Big Delta: Eisen block,boundary,400.0,430.0,0.0,0.0,0.0
+T2_high,DGGS_GPR2022-1-e,Tanana River and Big Delta: North Pole block,boundary,400.0,180.0,0.0,0.0,0.0
+T2_high,DGGS_GPR2022-1-f,Tanana River and Big Delta: Eisen Infill block,boundary,200.0,422.0,0.0,0.0,0.0
+T2_high,DGGS_GPR2023-1,"Kuskokwim, northern Kuskokwim Mountains",boundary,400.0,184.0,0.0,0.0,0.0928
+T2_high,DGGS_GPR2024-1,"Kuskokwim, Sischu Mountains",boundary,400.0,192.0,0.0,0.0,0.0186
+T2_high,DGGS_GPR2026-2,"Kuskokwim, McGrath",boundary,400.0,100.0,111.0,0.555,0.0832
+T3_host1000,AK_ak26_27_28,Nome 1993,v5,400.0,30.0,154.0,0.77,0.0011
+T3_host1000,DGGS_155,Iditarod 2010,v5,400.0,30.0,154.0,0.77,0.0028
+T3_host1000,DGGS_21,Petersville,v5,400.0,36.0,144.5,0.7225,0.0064
+T3_host1000,DGGS_236D,Southern Dishna River,v5,400.0,30.0,154.0,0.77,0.0025
+T3_host1000,DGGS_25,Ruby 1997,v5,400.0,30.0,154.0,0.77,0.0019
+T3_host1000,DGGS_5,Chulitna,v5,400.0,30.0,154.0,0.77,0.0039
+T3_host1000,DGGS_7,Council,v5,400.0,30.0,154.0,0.77,0.0014
+T3_host3000,AK_ak26_27_28,Nome 1993,v5,400.0,30.0,166.0,0.83,0.0011
+T3_host3000,DGGS_155,Iditarod 2010,v5,400.0,30.0,166.0,0.83,0.0028
+T3_host3000,DGGS_21,Petersville,v5,400.0,36.0,159.0,0.795,0.0064
+T3_host3000,DGGS_236D,Southern Dishna River,v5,400.0,30.0,166.0,0.83,0.0025
+T3_host3000,DGGS_25,Ruby 1997,v5,400.0,30.0,166.0,0.83,0.0019
+T3_host3000,DGGS_5,Chulitna,v5,400.0,30.0,166.0,0.83,0.0039
+T3_host3000,DGGS_7,Council,v5,400.0,30.0,166.0,0.83,0.0014

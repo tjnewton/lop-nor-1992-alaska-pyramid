@@ -1,0 +1,35 @@
+check,scope,value
+count_excess_claim_count,nopf|bedrock|forest,22.0
+count_excess_control_count,nopf|bedrock|forest,4.0
+count_excess_p_conditional,nopf|bedrock|forest,0.015299457911592491
+count_excess_rate_ratio,nopf|bedrock|forest,3.210712341943924
+count_excess_rate_ratio_low,nopf|bedrock|forest,1.0904566550300252
+count_excess_rate_ratio_high,nopf|bedrock|forest,12.816585210355466
+count_excess_claim_count,nopf|bedrock|barren_ice,1.0
+count_excess_control_count,nopf|bedrock|barren_ice,0.0
+count_excess_p_conditional,nopf|bedrock|barren_ice,0.24224664812633492
+count_excess_rate_ratio,nopf|bedrock|barren_ice,inf
+count_excess_rate_ratio_low,nopf|bedrock|barren_ice,0.08020574598346139
+count_excess_rate_ratio_high,nopf|bedrock|barren_ice,inf
+control_max_x,t_low,0.010233667220924838
+claim_above_control_max,t_low,4.0
+control_max_x,t,-0.007096458704366924
+claim_above_control_max,t,2.0
+fit_expected_above_control_max,t_low,4.239542183205946
+exceedances_over_u,all,48.0
+exceedances_over_u,nopf|bedrock|forest,1.0
+weighted_share_of_exceedances,nopf|bedrock|forest,0.038295182113448976
+plants,claim,85.0
+found_rate,claim,0.611764705882353
+pass_given_found,claim,0.21153846153846154
+median_x_found,claim,0.12115226640471383
+plants,control,70.0
+found_rate,control,0.44285714285714284
+pass_given_found,control,0.45161290322580644
+median_x_found,control,0.414849273931477
+fisher_p_pass_given_found,claim vs control,0.027300643231547444
+mannwhitney_p_x_found,claim vs control,0.014954177464366336
+replication_p_detect,"claimed base, largest relief",0.1
+replication_ci_low,"claimed base, largest relief",0.04900468922148596
+replication_ci_high,"claimed base, largest relief",0.17622259774002255
+replication_n,"claimed base, largest relief",100.0

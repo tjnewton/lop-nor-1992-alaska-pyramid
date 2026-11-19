@@ -1,0 +1,10 @@
+check,value,passed
+strong_stage_weak_max_rel_err,0.099,True
+C_rg_dense_stiff_vp_850,1.005,
+C_rg_spread_dense_stiff_vp_850,0.126,True
+C_rg_dense_stiff_vp_1200,2.847,
+C_rg_spread_dense_stiff_vp_1200,0.029,True
+C_rg_near_void_vp_850,3.235,
+C_rg_spread_near_void_vp_850,1.725,False
+C_rg_near_void_vp_1200,1.851,
+C_rg_spread_near_void_vp_1200,0.064,True

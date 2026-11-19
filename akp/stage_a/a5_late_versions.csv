@@ -1,0 +1,20 @@
+version,reading,bounds,stations,median_holds_through_s,p05_holds_through_s
+line_denali_nome,not settled by amplitude,2,ANM TRF,15.0,0.0
+belt_denali_northwest,not settled by amplitude,2,TRF RND,15.0,30.0
+point_c4,not settled by amplitude,2,TRF TTA,15.0,60.0
+stretch_c4_map,not settled by amplitude,2,TRF TTA,15.0,60.0
+point_c7_west,not settled by amplitude,2,TRF TTA,15.0,60.0
+line_c7_unalakleet,not settled by amplitude,2,TRF TTA,15.0,30.0
+line_c18_susitna_valley,not settled by amplitude,2,PMR CUT,15.0,0.0
+point_c9_haarp,not settled by amplitude,2,SDG TOA,15.0,30.0
+point_c12_coordinates,not settled by amplitude,2,TRF TTA,15.0,60.0
+point_c13_farewell,not settled by amplitude,2,SKT TTA,15.0,60.0
+point_c14_telida,not settled by amplitude,2,TRF TTA,15.0,60.0
+point_c14_kaltag,not settled by amplitude,2,MLY TTA,15.0,60.0
+point_c15_yukon_charley,not settled by amplitude,2,PRP COL,15.0,60.0
+point_c16_fort_richardson,not settled by amplitude,2,PMS PMR,15.0,0.0
+point_c10_carey_lake,not settled by amplitude,2,TRF TTA,15.0,60.0
+point_c17_mcgrath,not settled by amplitude,2,SKT TTA,15.0,30.0
+disc_denali,not settled by amplitude,1,RND,15.0,30.0
+belt_denali,not settled by amplitude,1,RND,15.0,30.0
+valdez_town,not settled by amplitude,1,KLU,15.0,30.0

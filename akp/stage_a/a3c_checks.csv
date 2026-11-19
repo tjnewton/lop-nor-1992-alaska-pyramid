@@ -1,0 +1,108 @@
+check,value,detail
+median_nearest_site_km_reporters,143.87,
+imaging_box_frac_reporters_generous_vp_300,0.1336,r* 209.472 km
+imaging_valdez_reporters_generous_vp_300,1,
+imaging_box_frac_reporters_geo_vp_300,0.0,r* 4.537 km
+imaging_valdez_reporters_geo_vp_300,0,
+imaging_box_frac_reporters_generous_vp_500,0.0,r* 75.410 km
+imaging_valdez_reporters_generous_vp_500,0,
+imaging_box_frac_reporters_geo_vp_500,0.0,r* 2.830 km
+imaging_valdez_reporters_geo_vp_500,0,
+imaging_box_frac_reporters_generous_vp_850,0.0,r* 26.093 km
+imaging_valdez_reporters_generous_vp_850,0,
+imaging_box_frac_reporters_geo_vp_850,0.0,r* 1.532 km
+imaging_valdez_reporters_geo_vp_850,0,
+imaging_box_frac_reporters_generous_vp_1000,0.0,r* 18.852 km
+imaging_valdez_reporters_generous_vp_1000,0,
+imaging_box_frac_reporters_geo_vp_1000,0.0,r* 1.486 km
+imaging_valdez_reporters_geo_vp_1000,0,
+imaging_box_frac_reporters_generous_vp_1200,0.0,r* 13.092 km
+imaging_valdez_reporters_generous_vp_1200,0,
+imaging_box_frac_reporters_geo_vp_1200,0.0,r* 1.401 km
+imaging_valdez_reporters_geo_vp_1200,0,
+imaging_box_frac_reporters_generous_vp_1500,0.0,r* 8.379 km
+imaging_valdez_reporters_generous_vp_1500,0,
+imaging_box_frac_reporters_geo_vp_1500,0.0,r* 1.070 km
+imaging_valdez_reporters_geo_vp_1500,0,
+imaging_box_frac_reporters_generous_vp_2000,0.0,r* 4.713 km
+imaging_valdez_reporters_generous_vp_2000,0,
+imaging_box_frac_reporters_geo_vp_2000,0.0,r* 0.789 km
+imaging_valdez_reporters_geo_vp_2000,0,
+imaging_box_frac_reporters_generous_vp_3000,0.0,r* 2.666 km
+imaging_valdez_reporters_generous_vp_3000,0,
+imaging_box_frac_reporters_geo_vp_3000,0.0,r* 0.742 km
+imaging_valdez_reporters_geo_vp_3000,0,
+imaging_box_frac_reporters_generous_vp_4500,0.0,r* 1.516 km
+imaging_valdez_reporters_generous_vp_4500,0,
+imaging_box_frac_reporters_geo_vp_4500,0.0,r* 0.463 km
+imaging_valdez_reporters_geo_vp_4500,0,
+imaging_box_frac_reporters_generous_vp_6000,0.0,r* 0.933 km
+imaging_valdez_reporters_generous_vp_6000,0,
+imaging_box_frac_reporters_geo_vp_6000,0.0,r* 0.291 km
+imaging_valdez_reporters_geo_vp_6000,0,
+recorder_sites_reporters,19,
+median_nearest_site_km_operating,127.47,
+imaging_box_frac_operating_generous_vp_300,0.3056,r* 209.472 km
+imaging_valdez_operating_generous_vp_300,1,
+imaging_box_frac_operating_geo_vp_300,0.0,r* 4.537 km
+imaging_valdez_operating_geo_vp_300,0,
+imaging_box_frac_operating_generous_vp_500,0.0702,r* 75.410 km
+imaging_valdez_operating_generous_vp_500,1,
+imaging_box_frac_operating_geo_vp_500,0.0,r* 2.830 km
+imaging_valdez_operating_geo_vp_500,0,
+imaging_box_frac_operating_generous_vp_850,0.0,r* 26.093 km
+imaging_valdez_operating_generous_vp_850,0,
+imaging_box_frac_operating_geo_vp_850,0.0,r* 1.532 km
+imaging_valdez_operating_geo_vp_850,0,
+imaging_box_frac_operating_generous_vp_1000,0.0,r* 18.852 km
+imaging_valdez_operating_generous_vp_1000,0,
+imaging_box_frac_operating_geo_vp_1000,0.0,r* 1.486 km
+imaging_valdez_operating_geo_vp_1000,0,
+imaging_box_frac_operating_generous_vp_1200,0.0,r* 13.092 km
+imaging_valdez_operating_generous_vp_1200,0,
+imaging_box_frac_operating_geo_vp_1200,0.0,r* 1.401 km
+imaging_valdez_operating_geo_vp_1200,0,
+imaging_box_frac_operating_generous_vp_1500,0.0,r* 8.379 km
+imaging_valdez_operating_generous_vp_1500,0,
+imaging_box_frac_operating_geo_vp_1500,0.0,r* 1.070 km
+imaging_valdez_operating_geo_vp_1500,0,
+imaging_box_frac_operating_generous_vp_2000,0.0,r* 4.713 km
+imaging_valdez_operating_generous_vp_2000,0,
+imaging_box_frac_operating_geo_vp_2000,0.0,r* 0.789 km
+imaging_valdez_operating_geo_vp_2000,0,
+imaging_box_frac_operating_generous_vp_3000,0.0,r* 2.666 km
+imaging_valdez_operating_generous_vp_3000,0,
+imaging_box_frac_operating_geo_vp_3000,0.0,r* 0.742 km
+imaging_valdez_operating_geo_vp_3000,0,
+imaging_box_frac_operating_generous_vp_4500,0.0,r* 1.516 km
+imaging_valdez_operating_generous_vp_4500,0,
+imaging_box_frac_operating_geo_vp_4500,0.0,r* 0.463 km
+imaging_valdez_operating_geo_vp_4500,0,
+imaging_box_frac_operating_generous_vp_6000,0.0,r* 0.933 km
+imaging_valdez_operating_generous_vp_6000,0,
+imaging_box_frac_operating_geo_vp_6000,0.0,r* 0.291 km
+imaging_valdez_operating_geo_vp_6000,0,
+recorder_sites_operating,94,
+half_wavelength_km_4hz_vp_1200,0.15,lambda/2 at the most favorable band edge and the A3-0 floor
+half_s_wavelength_km_4hz_vp_1200,0.0833,lambda_S/2 at the most favorable band edge and the A3-0 floor
+imaging_box_frac_vp_300,0.1336,"= reporters, generous r*"
+imaging_valdez_vp_300,1,
+imaging_box_frac_vp_500,0.0,"= reporters, generous r*"
+imaging_valdez_vp_500,0,
+imaging_box_frac_vp_850,0.0,"= reporters, generous r*"
+imaging_valdez_vp_850,0,
+imaging_box_frac_vp_1000,0.0,"= reporters, generous r*"
+imaging_valdez_vp_1000,0,
+imaging_box_frac_vp_1200,0.0,"= reporters, generous r*"
+imaging_valdez_vp_1200,0,
+imaging_box_frac_vp_1500,0.0,"= reporters, generous r*"
+imaging_valdez_vp_1500,0,
+imaging_box_frac_vp_2000,0.0,"= reporters, generous r*"
+imaging_valdez_vp_2000,0,
+imaging_box_frac_vp_3000,0.0,"= reporters, generous r*"
+imaging_valdez_vp_3000,0,
+imaging_box_frac_vp_4500,0.0,"= reporters, generous r*"
+imaging_valdez_vp_4500,0,
+imaging_box_frac_vp_6000,0.0,"= reporters, generous r*"
+imaging_valdez_vp_6000,0,
+recorder_sites,19,

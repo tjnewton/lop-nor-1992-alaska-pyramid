@@ -1,0 +1,84 @@
+gate,attempt,check,value,passed,detail
+3,1,surface_grid_shape,461x221x102,,"h 10.0 m, sponge 30 cells"
+3,1,surface_points_millions,10.39,,
+3,1,surface_time_step_s,0.0029922827521162007,,2356 steps
+3,1,surface_run_seconds,131.6,,186 Mpts/s on OMP_NUM_THREADS threads
+3,1,surface_peak_rss_gb,2.23,True,process peak so far; 214 bytes per point if this run set it
+3,1,gate3_rayleigh_speed_rel_err,0.0028178628588544363,True,exact 615.83 m/s; tolerance 0.02
+3,1,gate3_rows,9,,
+3,1,gate3_rows_failed,6,,
+3,1,gate3_amp_max_abs_ratio_minus_1,0.2765744079315159,False,Verdict: every range and frequency
+3,1,gate3_h_over_v_fd_over_exact_f2_r1800,1.3094795118625817,,"particle motion: radial/vertical phase 96.0 deg (a quarter cycle, less k h / 2 = 5.8 deg for the half-cell offset of vx)"
+3,1,gate3_h_over_v_fd_over_exact_f2_r2400,1.2891456523833922,,"particle motion: radial/vertical phase 97.4 deg (a quarter cycle, less k h / 2 = 5.8 deg for the half-cell offset of vx)"
+3,1,gate3_h_over_v_fd_over_exact_f2_r3000,1.37192419096209,,"particle motion: radial/vertical phase 97.3 deg (a quarter cycle, less k h / 2 = 5.8 deg for the half-cell offset of vx)"
+3,1,gate3_h_over_v_fd_over_exact_f2_r3600,1.281087568397273,,"particle motion: radial/vertical phase 98.2 deg (a quarter cycle, less k h / 2 = 5.8 deg for the half-cell offset of vx)"
+3,1,gate3_h_over_v_fd_over_exact_f4_r1800,1.225868593498983,,"particle motion: radial/vertical phase 106.4 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+3,1,gate3_h_over_v_fd_over_exact_f4_r2400,1.2112652823963919,,"particle motion: radial/vertical phase 101.2 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+3,1,gate3_h_over_v_fd_over_exact_f4_r3000,1.2712893161644965,,"particle motion: radial/vertical phase 101.6 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+3,1,gate3_h_over_v_fd_over_exact_f4_r3600,1.141182006778919,,"particle motion: radial/vertical phase 101.4 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+3,1,surface_points_per_rayleigh_wavelength_at_4hz,15.4,,
+3,1,surface_source_depth_m,50.0,,"scheme: stress imaging, z order 2-4-6-8 over the top four cells"
+solver,0,explosion_full_space_div_over_analytic_max_dev,0.011982372233372951,True,
+solver,0,explosion_full_space_curl_leak_max,0.0019488105748208244,True,
+log3,1,gate3_attempt1_diagnosis,,False,"FAIL (speed passed; 6 of 8 amplitude rows failed, ratios 0.72-0.92). Two bugs, both in the measurement, found from the archived traces and one small diagnostic run (vz against the eigenfunction by depth: within 4% at every level but the first). (1) Receivers were read through Devito's interpolation of a staggered field, which averages neighbors (1/4, 1/2, 1/4): at the first vz level it mixed in the zero above the surface (factor 0.75). Fixed in a8_elastic3d.simulate: samples are read by index. (2) The side margins were sized to the wall, but a grazing Rayleigh wave is reflected from the sponge's inner edge (9-45% of the direct wave in the archived traces, inside the windows at 3000 and 3600 m). Fixed in surface_setup: margins to the inner edge. Grid of attempt 1: 461x221x102. The gate, its ranges, frequencies, windows and tolerances are unchanged."
+3,2,surface_grid_shape,483x281x102,,"h 10.0 m, sponge 30 cells"
+3,2,surface_points_millions,13.84,,
+3,2,surface_time_step_s,0.0029922827521162007,,2356 steps
+3,2,surface_run_seconds,165.4,,197 Mpts/s on OMP_NUM_THREADS threads
+3,2,surface_peak_rss_gb,2.56,True,peak of the run's process; 185 bytes per point
+3,2,gate3_rayleigh_speed_rel_err,0.003000187910327856,True,exact 615.83 m/s; tolerance 0.02
+3,2,gate3_rows,9,,
+3,2,gate3_rows_failed,0,,
+3,2,gate3_amp_max_abs_ratio_minus_1,0.042893470062828065,True,Verdict: every range and frequency
+3,2,gate3_h_over_v_fd_over_exact_f2_r1800,1.0040640258535476,,"particle motion: radial/vertical phase 93.9 deg (a quarter cycle, less k h / 2 = 5.8 deg for the half-cell offset of vx)"
+3,2,gate3_h_over_v_fd_over_exact_f2_r2400,0.9508996146457552,,"particle motion: radial/vertical phase 98.1 deg (a quarter cycle, less k h / 2 = 5.8 deg for the half-cell offset of vx)"
+3,2,gate3_h_over_v_fd_over_exact_f2_r3000,0.9954530019759873,,"particle motion: radial/vertical phase 96.9 deg (a quarter cycle, less k h / 2 = 5.8 deg for the half-cell offset of vx)"
+3,2,gate3_h_over_v_fd_over_exact_f2_r3600,1.0035093242790447,,"particle motion: radial/vertical phase 94.9 deg (a quarter cycle, less k h / 2 = 5.8 deg for the half-cell offset of vx)"
+3,2,gate3_h_over_v_fd_over_exact_f4_r1800,0.9423452895708635,,"particle motion: radial/vertical phase 105.5 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+3,2,gate3_h_over_v_fd_over_exact_f4_r2400,0.970079978005285,,"particle motion: radial/vertical phase 102.4 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+3,2,gate3_h_over_v_fd_over_exact_f4_r3000,0.9561557652591575,,"particle motion: radial/vertical phase 100.9 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+3,2,gate3_h_over_v_fd_over_exact_f4_r3600,0.975700438972266,,"particle motion: radial/vertical phase 101.9 deg (a quarter cycle, less k h / 2 = 11.7 deg for the half-cell offset of vx)"
+3,2,surface_points_per_rayleigh_wavelength_at_4hz,15.4,,
+3,2,surface_source_depth_m,50.0,,"scheme: stress imaging, z order 2-4-6-8 over the top four cells"
+3,2,surface_side_half_width_m,1100.0,,receiver line to the side sponges' inner edges (rule 4b)
+3,2,surface_end_margin_m,310.0,,source and last receiver to the end sponges' inner edges
+3,2,surface_depth_m,700.0,,to the bottom sponge's inner edge
+reference,0,points_per_s_wavelength_at_4hz,16.7,True,
+reference,0,lamb_residue_vs_modal_rel_diff,3.798375147745503e-08,True,"gate three's reference, two derivations"
+reference,0,a3b2_weak_check_edge_wave_delay_right_s,1.98,,"2-D stage, weak check at 2 Hz: predicted delay of the source line's edge wave from the right sponge edge; an earlier run recorded an unidentified second incident wave at 1.923 s (a lead, not a result)"
+reference,0,a3b2_weak_check_edge_wave_delay_left_s,0.811,,"the same from the left sponge edge (inside the 2 Hz pulse's tail, so not separable there)"
+reference,0,series_weak_vs_born_max_rel_err,0.0013773897190911821,True,tol 0.01
+reference,0,series_rayleigh_limit_max_rel_err,0.00033877928498604604,True,tol 0.01
+reference,0,series_optical_theorem_max_defect,6.066105592631e-15,True,tol 1e-06
+reference,0,series_finite_r_to_far_field_max_rel_err,1.0094739575361444e-06,True,tol 0.001
+reference,0,born_pattern_vs_swe_scattering_max_rel_err,0.00015182412653613753,True,tol 0.001
+reference,0,raster_sphere_volume_rel_err,-0.00010658322918166707,,
+reference,0,born_raster_vs_series_max_rel_diff_contrast_1e-4,0.013050626304203283,True,finite-distance Born integral on the raster against the exact series at the gate rows; validates the integral
+reference,0,born_raster_vs_series_max_rel_diff_contrast_gate,0.06794446720528713,,finite-distance Born integral on the raster against the exact series at the gate rows; the nonlinearity the weak gate carries
+1-2,1,sphere_grid_shape,435x435x201,,"h 10.0 m, sponge 30 cells"
+1-2,1,sphere_points_millions,38.03,,
+1-2,1,sphere_time_step_s,0.0014961413760581003,,1611 steps
+1-2,1,sphere_run_seconds,304.0,,201 Mpts/s on OMP_NUM_THREADS threads
+1-2,1,sphere_peak_rss_gb,5.37,True,peak of the run's process; 141 bytes per point
+1-2,1,sphere_predicted_peak_gb_from_small_case,7.04,True,185 bytes per point measured on the half-space run
+1-2,1,sphere_flat_half_width_m,1870.0,True,edge wave 1.44 s after the plane wave; windows need 1.43 s
+1-2,1,sphere_receiver_margin_m,200.0,,"axial receivers to the top and bottom sponge (reached near normal incidence, where it is matched)"
+1-2,1,gate1_rows,24,,
+1-2,1,gate1_rows_failed,0,,
+1-2,1,gate1_max_abs_ratio_minus_1,0.09105778369061746,True,Verdict: every row
+1-2,1,gate1_max_abs_ratio_minus_1_without_near_nulls,0.09105778369061746,True,"context, not part of the verdict: 1 near-null rows left out"
+1-2,1,gate1_reference_energy_in_window_min,0.999999984066886,True,share of each synthesized reference trace inside its window (convention check)
+1-2,1,gate1_scattered_max_over_incident,0.002850978693955759,,
+1-2,1,sphere_incident_late_over_peak,0.21111848334382782,,"no-body run at the body center, after the incident window: the sheet's edge wave"
+1-2,1,sphere_incident_late_onset_s,1.2017886201669405,True,"first time after the pulse that |div v| passes 1% of its peak, from the plane wave's arrival; rule 4a predicts the edge wave centered at 1.44 s, starting about 1.04 s"
+1-2,1,sphere_incident_amp_div_over_kp,2.882835507138868e-10,,incident velocity amplitude at f0 from div v / k_P
+1-2,1,sphere_weak_run_seconds,273.6,,
+1-2,1,sphere_weak_peak_rss_gb,5.47,True,
+1-2,1,gate2_rows,24,,
+1-2,1,gate2_rows_failed,0,,
+1-2,1,gate2_max_abs_ratio_minus_1,0.15216809183200875,True,Verdict: every row
+1-2,1,gate2_max_abs_ratio_minus_1_without_near_nulls,0.1353772675245044,True,"context, not part of the verdict: 3 near-null rows left out"
+1-2,1,gate2_reference_energy_in_window_min,0.9999985894183107,True,share of each synthesized reference trace inside its window (convention check)
+1-2,1,gate2_scattered_max_over_incident,0.25151901401073956,,
+1-2,1,sphere_stone_run_seconds,293.5,,
+1-2,1,sphere_stone_peak_rss_gb,5.46,True,

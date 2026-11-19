@@ -1,0 +1,83 @@
+check,value,detail
+cases_in_tables,R1 R2 R3 R4,
+cases_with_rows,R1 R2 R3 R4,
+cases_at_production_base,R1 R2,four body variants
+cases_at_largest_base,R3 R4,as simulated only
+rows,320,
+committed_rows_reproduced,144,
+reopen_threshold,0.05,
+any_reopening_row_fires,True,
+reopening_rows_that_fire,3,R2:assumed_linear:equal R2:assumed_squared:prior R2:assumed_squared:equal
+measured_base_effect_R1_2-4,1.0753,"median ratio of R3 to thawed_1200 in the case's band, 1.0 to 2.6 km, unflagged rows"
+measured_base_effect_R2_2-4,1.0753,"median ratio of R3 to thawed_1200 in the case's band, 1.0 to 2.6 km, unflagged rows"
+reopening_fires_as_simulated,False,
+largest_exposure_as_simulated_none_prior,0.239089,R2 2-4 as_simulated cleanest_record_stacked at 17.865 km
+largest_exposure_as_simulated_none_cover,0.140522,R2 2-4 as_simulated cleanest_record_stacked at 17.865 km
+largest_exposure_as_simulated_none_equal,0.308722,R2 2-4 as_simulated cleanest_record_stacked at 17.865 km
+largest_exposure_as_simulated_none_equal_cover,0.156437,R2 2-4 as_simulated cleanest_record_stacked at 17.865 km
+largest_exposure_as_simulated_generous_prior,0.030943,R2 2-4 as_simulated cleanest_record_stacked at 4.519 km
+largest_exposure_as_simulated_generous_cover,0.016723,R2 2-4 as_simulated cleanest_record_stacked at 4.519 km
+largest_exposure_as_simulated_generous_equal,0.043404,R2 2-4 as_simulated cleanest_record_stacked at 4.519 km
+largest_exposure_as_simulated_generous_equal_cover,0.020366,R2 2-4 as_simulated cleanest_record_stacked at 4.519 km
+reopening_fires_assumed_linear,True,R2:equal
+largest_exposure_assumed_linear_none_prior,0.506909,R2 2-4 assumed_linear cleanest_record_stacked at 31.648 km
+largest_exposure_assumed_linear_none_cover,0.373916,R2 2-4 assumed_linear cleanest_record_stacked at 31.648 km
+largest_exposure_assumed_linear_none_equal,0.565131,R2 2-4 assumed_linear cleanest_record_stacked at 31.648 km
+largest_exposure_assumed_linear_none_equal_cover,0.388442,R2 2-4 assumed_linear cleanest_record_stacked at 31.648 km
+largest_exposure_assumed_linear_generous_prior,0.042939,R2 2-4 assumed_linear cleanest_record_stacked at 5.659 km
+largest_exposure_assumed_linear_generous_cover,0.022159,R2 2-4 assumed_linear cleanest_record_stacked at 5.659 km
+largest_exposure_assumed_linear_generous_equal,0.060068,R2 2-4 assumed_linear cleanest_record_stacked at 5.659 km
+largest_exposure_assumed_linear_generous_equal_cover,0.026743,R2 2-4 assumed_linear cleanest_record_stacked at 5.659 km
+reopening_fires_assumed_squared,True,R2:prior R2:equal
+largest_exposure_assumed_squared_none_prior,0.974438,R2 2-4 assumed_squared cleanest_record_stacked at 56.066 km
+largest_exposure_assumed_squared_none_cover,0.974514,R2 2-4 assumed_squared cleanest_record_stacked at 56.066 km
+largest_exposure_assumed_squared_none_equal,0.977633,R2 2-4 assumed_squared cleanest_record_stacked at 56.066 km
+largest_exposure_assumed_squared_none_equal_cover,0.975137,R2 2-4 assumed_squared cleanest_record_stacked at 56.066 km
+largest_exposure_assumed_squared_generous_prior,0.057661,R2 2-4 assumed_squared cleanest_record_stacked at 6.891 km
+largest_exposure_assumed_squared_generous_cover,0.028556,R2 2-4 assumed_squared cleanest_record_stacked at 6.891 km
+largest_exposure_assumed_squared_generous_equal,0.080131,R2 2-4 assumed_squared cleanest_record_stacked at 6.891 km
+largest_exposure_assumed_squared_generous_equal_cover,0.034268,R2 2-4 assumed_squared cleanest_record_stacked at 6.891 km
+reopening_fires_measured_base,False,
+largest_exposure_measured_base_none_prior,0.290148,R2 2-4 measured_base cleanest_record_stacked at 20.638 km
+largest_exposure_measured_base_none_cover,0.181355,R2 2-4 measured_base cleanest_record_stacked at 20.638 km
+largest_exposure_measured_base_none_equal,0.362446,R2 2-4 measured_base cleanest_record_stacked at 20.638 km
+largest_exposure_measured_base_none_equal_cover,0.198112,R2 2-4 measured_base cleanest_record_stacked at 20.638 km
+largest_exposure_measured_base_generous_prior,0.033718,R2 2-4 measured_base cleanest_record_stacked at 4.797 km
+largest_exposure_measured_base_generous_cover,0.018037,R2 2-4 measured_base cleanest_record_stacked at 4.797 km
+largest_exposure_measured_base_generous_equal,0.047268,R2 2-4 measured_base cleanest_record_stacked at 4.797 km
+largest_exposure_measured_base_generous_equal_cover,0.021906,R2 2-4 measured_base cleanest_record_stacked at 4.797 km
+reopening_fires_primary,False,
+largest_exposure_primary_none_prior,0.290148,R2 2-4 measured_base cleanest_record_stacked at 20.638 km
+largest_exposure_primary_none_cover,0.181355,R2 2-4 measured_base cleanest_record_stacked at 20.638 km
+largest_exposure_primary_none_equal,0.362446,R2 2-4 measured_base cleanest_record_stacked at 20.638 km
+largest_exposure_primary_none_equal_cover,0.198112,R2 2-4 measured_base cleanest_record_stacked at 20.638 km
+largest_exposure_primary_generous_prior,0.033718,R2 2-4 measured_base cleanest_record_stacked at 4.797 km
+largest_exposure_primary_generous_cover,0.018037,R2 2-4 measured_base cleanest_record_stacked at 4.797 km
+largest_exposure_primary_generous_equal,0.047268,R2 2-4 measured_base cleanest_record_stacked at 4.797 km
+largest_exposure_primary_generous_equal_cover,0.021906,R2 2-4 measured_base cleanest_record_stacked at 4.797 km
+fit_exponent_R1_2-4,-0.5078,
+fit_share_at_1km_R1_2-4,0.1226,
+rayleigh_speed_ms_R1_2-4,436.2,
+repeatable_share_R1_2-4,0.4374666400456705,
+stacking_floor_factor_R1_2-4,0.6614,
+fit_exponent_R2_2-4,-0.5031,
+fit_share_at_1km_R2_2-4,0.211,
+rayleigh_speed_ms_R2_2-4,615.8,
+repeatable_share_R2_2-4,0.4374666400456705,
+stacking_floor_factor_R2_2-4,0.6614,
+fit_exponent_R3_2-4,-0.4802,
+fit_share_at_1km_R3_2-4,0.1497,
+rayleigh_speed_ms_R3_2-4,615.8,
+repeatable_share_R3_2-4,0.4374666400456705,
+stacking_floor_factor_R3_2-4,0.6614,
+fit_exponent_R4_1-2,-0.4723,
+fit_share_at_1km_R4_1-2,0.1049,
+rayleigh_speed_ms_R4_1-2,285.8,
+repeatable_share_R4_1-2,0.6180936221883535,
+stacking_floor_factor_R4_1-2,0.7862,
+base_factor_linear,1.333,
+base_factor_squared,1.778,
+base_ratio_2-4_fit_window_min_median_max,1.061 1.075 1.094,"R3 over thawed_1200, 1.0 to 2.6 km, unflagged rows"
+base_ratio_0.5-1_min_median_max,1.438 1.543 1.637,all ranges; 30 of 30 rows carry the edge-wave flag
+base_ratio_1-2_min_median_max,0.936 1.027 1.574,all ranges; 0 of 30 rows carry the edge-wave flag
+base_ratio_2-4_min_median_max,1.028 1.075 1.424,all ranges; 0 of 30 rows carry the edge-wave flag

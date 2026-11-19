@@ -1,0 +1,16 @@
+check,value
+committed_threshold,5.0
+committed_medians_reproduced,True
+pooled_median_min_0.5-1,0.2798
+pooled_median_max_0.5-1,0.342
+pooled_median_min_1-2,0.1882
+pooled_median_max_1-2,0.207
+pooled_median_min_2-4,0.2674
+pooled_median_max_2-4,0.2986
+pooled_median_min_4-8,0.1687
+pooled_median_max_4-8,0.3393
+largest_share_over_lowest_median_beyond_1km,0.786
+share_below_lowest_median_beyond_1km,True
+largest_share_smoothed_over_lowest_median_beyond_1km,0.821
+share_smoothed_below_lowest_median_beyond_1km,True
+cases_compared,R1 R2 R3 R4 frozen_1200 frozen_850 thawed_1200 thawed_850

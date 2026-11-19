@@ -1,0 +1,17 @@
+check,value
+rg_imaging_box_frac_reporters_q_inf,0.0
+rg_imaging_valdez_reporters_q_inf,0.0
+rg_imaging_box_frac_reporters_q_100,0.0
+rg_imaging_valdez_reporters_q_100,0.0
+rg_imaging_box_frac_reporters_q_50,0.0
+rg_imaging_valdez_reporters_q_50,0.0
+rg_imaging_box_frac_reporters_q_20,0.0
+rg_imaging_valdez_reporters_q_20,0.0
+rg_imaging_box_frac_operating_q_inf,0.0111
+rg_imaging_valdez_operating_q_inf,1.0
+rg_imaging_box_frac_operating_q_100,0.0
+rg_imaging_valdez_operating_q_100,0.0
+rg_imaging_box_frac_operating_q_50,0.0
+rg_imaging_valdez_operating_q_50,0.0
+rg_imaging_box_frac_operating_q_20,0.0
+rg_imaging_valdez_operating_q_20,0.0

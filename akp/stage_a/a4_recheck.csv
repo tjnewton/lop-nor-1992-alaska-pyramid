@@ -1,0 +1,23 @@
+label,priority,source,start_s,end_s,keys,found_medium,found_large,n_keys,verdict
+C3_16m02_depth,P1,C3,962,1007,150 | 700 | 550 | below the surface/under the surface/down,4,4,4,agree
+C3_16m07_top_depth,P1,C3,962,1007,top of the black pyramid was 150 feet down,0,1,1,listen
+C3_03m28_location,P1,C3,208,230,between nome and mount denali/between nome and denali,1,1,1,agree
+C3_29m07_belt,P1,C3,1747,1802,within 50 miles of denali | northwest of denali | 45 | 55,4,4,4,agree
+C4_07m45_location,P1,C4,465,485,60 miles west of mount mckinley | bearing to nome,2,2,2,agree
+C4_08m01_size_depth,P1,C4,481,526,700 | 150 | 550,3,3,3,agree
+C4_05m56_distance,P1,C4,356,371,60 to 70 miles,1,1,1,agree
+C7_01m56_depth_size,P1,C7,116,141,100 feet below the surface | 550 feet tall | great pyramid of giza,3,3,3,agree
+C7_16m30_base_depth,P1,C7,990,1005,700 feet below the surface,1,1,1,agree
+C7_00m51_location,P1,C7,51,66,60 miles west of mount mckinley | not surveyed to date,2,2,2,agree
+C7_19m24_location,P1,C7,1164,1179,east of unalakleet | west of mount denali,1,2,2,listen
+C7_20m18_location,P1,C7,1218,1233,east of unalakleet | west of mount denali,1,2,2,listen
+C3_07m35_broadcast,P2,C3,455,530,december | byline | vibrations from this explosion | may 22,4,3,4,listen
+C3_08m33_material,P2,C3,513,533,bigger than the one in egypt | solid or hollow,2,2,2,agree
+C3_10m09_channel13,P2,C3,609,651,channel 13 | general manager,2,2,2,agree
+C3_06m46_map,P2,C3,406,426,christmas card,1,1,1,agree
+C3_17m02_power,P2,C3,1022,1034,power all of alaska and canada,1,1,1,agree
+C4_09m40_stone,P2,C4,580,610,made out of stone | basalt,2,2,2,agree
+C4_12m58_test,P2,C4,778,803,one megaton/1 megaton | may 22,2,2,2,agree
+C7_15m23_black_stone,P2,C7,923,935,black stone,1,1,1,agree
+C7_26m31_dates,P2,C7,1591,1616,late november | early december | egypt,3,3,3,agree
+C7_01m30_news,P2,C7,90,102,late 1992,1,1,1,agree

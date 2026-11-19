@@ -1,0 +1,10 @@
+check,scope,value
+segments,rows_ew,8774.0
+band_rms_nT_median,rows_ew,10.732
+band_rms_nT_p90,rows_ew,42.068
+segments,cols_ns,8599.0
+band_rms_nT_median,cols_ns,14.685
+band_rms_nT_p90,cols_ns,52.712
+bird_height_m_p10,altbird,31.5
+bird_height_m_median,altbird,35.5
+bird_height_m_p90,altbird,46.1

@@ -1,0 +1,10 @@
+id,kind,tier,source_type,date,date_precision,label,location_stated,apex_depth_ft,base_depth_ft,height_ft
+,context,,,1992-05-21,day,Lop Nor nuclear explosion,,,,
+,context,,,1992-10-12,day,"Cairo earthquake, epicenter near Dahshur",,,,
+,claim_stated,,,1992-11/1992-12,stated as late November or early December,"Anchorage television broadcast, as the versions state",,,,
+K3,context,primary,,1992-05-20/1993-12-31,archive window searched,Anchorage Daily News search: no such story,,,,
+K5,context,primary,,1992-05-20/1993-12-31,archive window searched,AP wire search: no Alaska link,,,,
+K2,context,primary,,1993-02-11,day,Nature paper: mantle layer under northern Alaska,,,,
+K4,context,primary,,1993-02-11,day,New York Times report on the Nature paper,,,,
+K7,context,primary,,1992-10-15,day,"Nature paper: sharp, flat core–mantle boundary near Alaska",,,,
+K6,context,primary,,1993-04-14,day,Alaska Science Forum column on the result,,,,

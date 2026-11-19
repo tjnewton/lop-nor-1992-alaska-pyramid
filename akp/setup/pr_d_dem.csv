@@ -1,0 +1,7 @@
+product,scope,n_tiles,bytes,note
+ifsar_5m,probe_tile,1,793310549,"USGS Alaska 5 Meter AK_IFSAR_2010 49; res=5.0 epsg=3338 11880x23289 tiled=True window=(256, 256)"
+arcticdem_2m_v4.1,probe_tile,1,1091301303,"47_13_1_2_2m_v4.1; res=2.0 epsg=3413 25100x25100 tiled=True window=(256, 256)"
+ifsar_5m,mckinley_nome,608,105875189757,"exact TNM sizeInBytes sum over all 12 project vintages; vintages overlap, so this is an upper bound on one-vintage coverage"
+arcticdem_2m_v4.1,mckinley_nome,209,234447754519,projected: mean of 10 HEAD sizes x n_tiles; sample min/max=447076552/1399824292
+ifsar_5m,valdez,12,3942859800,"exact TNM sizeInBytes sum over all 4 project vintages; vintages overlap, so this is an upper bound on one-vintage coverage"
+arcticdem_2m_v4.1,valdez,9,10415667900,projected: mean of 9 HEAD sizes x n_tiles; sample min/max=164982340/1399482305

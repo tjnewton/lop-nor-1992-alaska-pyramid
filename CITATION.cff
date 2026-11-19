@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or these tables, please cite the paper and this archive."
+title: "Code and tables for: Could seismic waves from the 1992 Lop Nor nuclear explosion have revealed a pyramid buried in Alaska?"
+authors:
+  - family-names: Newton
+    given-names: Tyler J.
+    affiliation: Independent researcher
+    orcid: "https://orcid.org/0000-0002-1560-6553"
+license: MIT
+repository-code: "https://github.com/tjnewton/lop-nor-1992-alaska-pyramid"
+keywords:
+  - seismology
+  - teleseismic scattering
+  - P-to-Rayleigh
+  - coda
+  - Alaska
+  - Lop Nor
+  - misinformation

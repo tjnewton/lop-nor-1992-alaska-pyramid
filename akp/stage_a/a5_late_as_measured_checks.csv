@@ -1,0 +1,35 @@
+check,value,note
+bound_at_committed_start_range,0.13283665408162013,graded-sediment case as measured (no allowance)
+bound_min,0.011668180543443672,graded-sediment case as measured (no allowance)
+bound_max,0.09270827863417205,graded-sediment case as measured (no allowance)
+bound_far_min,0.011668180543443672,graded-sediment case as measured (no allowance)
+bound_far_max,0.04984089259744942,graded-sediment case as measured (no allowance)
+open_waveform_bound_min,0.00150888772203027,graded-sediment case as measured (no allowance)
+open_waveform_bound_max,0.030438900409691265,graded-sediment case as measured (no allowance)
+open_waveform_q_least_min,440.7100026003198,graded-sediment case as measured (no allowance)
+crossing_committed_median_max_km,0.4,graded-sediment case as measured (no allowance)
+crossing_high_snr_median_max_km,0.7,graded-sediment case as measured (no allowance)
+crossing_p05_spreading_range_min_km,3.6832351299855612,graded-sediment case as measured (no allowance)
+crossing_p05_spreading_range_max_km,4.7685380096869325,graded-sediment case as measured (no allowance)
+crossing_col1992_spreading_range_max_km,3.5918385831094644,graded-sediment case as measured (no allowance)
+threshold_q_least_min,338.36812044839536,graded-sediment case as measured (no allowance)
+threshold_speed_at_least_q,0.2970197527226553,graded-sediment case as measured (no allowance)
+threshold_q_least_for_faster_than_1_kms,538.1016881579791,graded-sediment case as measured (no allowance)
+threshold_speed_below_kms_max,4.238924446864197,graded-sediment case as measured (no allowance)
+bound_at_committed_start_range_with_allowance,0.1540819789917043,as in a5_late_checks.csv or a5_late_crossing.csv
+bound_min_with_allowance,0.013534339311660369,as in a5_late_checks.csv or a5_late_crossing.csv
+bound_max_with_allowance,0.10753564322758759,as in a5_late_checks.csv or a5_late_crossing.csv
+bound_far_min_with_allowance,0.013534339311660369,as in a5_late_checks.csv or a5_late_crossing.csv
+bound_far_max_with_allowance,0.057812231264191216,as in a5_late_checks.csv or a5_late_crossing.csv
+open_waveform_bound_min_with_allowance,0.00150888772203027,as in a5_late_checks.csv or a5_late_crossing.csv
+open_waveform_bound_max_with_allowance,0.03530716763292498,as in a5_late_checks.csv or a5_late_crossing.csv
+open_waveform_q_least_min_with_allowance,298.08923855211185,as in a5_late_checks.csv or a5_late_crossing.csv
+crossing_committed_median_max_km_with_allowance,0.8,as in a5_late_checks.csv or a5_late_crossing.csv
+crossing_high_snr_median_max_km_with_allowance,0.8,as in a5_late_checks.csv or a5_late_crossing.csv
+crossing_p05_spreading_range_min_km_with_allowance,2.7684758129744997,as in a5_late_checks.csv or a5_late_crossing.csv
+crossing_p05_spreading_range_max_km_with_allowance,5.933925897371134,as in a5_late_checks.csv or a5_late_crossing.csv
+crossing_col1992_spreading_range_max_km_with_allowance,5.304687489233683,as in a5_late_checks.csv or a5_late_crossing.csv
+threshold_q_least_min_with_allowance,147.05669718005592,as in a5_late_checks.csv or a5_late_crossing.csv
+threshold_speed_at_least_q_with_allowance,0.5309760955926287,as in a5_late_checks.csv or a5_late_crossing.csv
+threshold_q_least_for_faster_than_1_kms_with_allowance,344.6616796452301,as in a5_late_checks.csv or a5_late_crossing.csv
+threshold_speed_below_kms_max_with_allowance,4.238924446864197,as in a5_late_checks.csv or a5_late_crossing.csv

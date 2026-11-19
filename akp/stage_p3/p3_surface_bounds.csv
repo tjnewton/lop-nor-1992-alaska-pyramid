@@ -1,0 +1,14 @@
+signature,case,quantity,value,units
+drape,mud_top30,max_relief,50.4482,m
+drape,mud_top46,max_relief,56.4826,m
+drape,sand_top30,max_relief,4.9746,m
+drape,sand_top46,max_relief,5.6236,m
+drape,square_plan,fourfold_peak_share,0.196,of relief
+drape,square_plan,fourfold_rms_share,0.0658,of relief
+thermal,bound,excess_flux,0.0533,W/m2
+thermal,bound,mean_thaw_flux,14.7704,W/m2
+thermal,bound,active_layer_change,3.6108,mm
+thermal,bound,seasonal_subsidence_change,1.0833,mm
+thermal,bound,insar_noise,5.0,mm
+thermal,bound,surface_temperature_change,0.0053,K
+thermal,bound,tir_netd,0.05,K

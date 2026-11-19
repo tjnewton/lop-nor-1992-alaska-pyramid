@@ -1,0 +1,13 @@
+row,range_km,component,share_of_component
+d83_row,1.972,band,0.003617
+d83_row,1.972,c3_belt,0.010322
+d83_row,1.972,c4_point,0.0
+d83_row,1.972,valdez,0.037359
+largest_row_generous_attenuation,5.208,band,0.018437
+largest_row_generous_attenuation,5.208,c3_belt,0.034668
+largest_row_generous_attenuation,5.208,c4_point,0.0
+largest_row_generous_attenuation,5.208,valdez,0.15982
+largest_row_no_attenuation,25.763,band,0.333558
+largest_row_no_attenuation,25.763,c3_belt,0.545786
+largest_row_no_attenuation,25.763,c4_point,0.005667
+largest_row_no_attenuation,25.763,valdez,0.922807

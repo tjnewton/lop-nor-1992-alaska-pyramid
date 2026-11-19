@@ -1,0 +1,9 @@
+check,value,ok
+"pair on a made-up case: template only, mound only, p","3, 1, 0.6250",True
+reading rule on made-up counts,True,True
+mound: the committed summary follows from the committed trials,True,True
+"mound: tile, window, rotation, stratum, veto and weight as the mound's trials (rows)",100,True
+"template, nearest planted base and relief: tile, window, rotation, stratum, veto and weight as the mound's trials (rows)",100,True
+"template, the mound's length and relief: tile, window, rotation, stratum, veto and weight as the mound's trials (rows)",100,True
+"template through the relief route against itself, 24 windows: discordant pairs",0,True
+"peak memory of this run, GB",1.38,True

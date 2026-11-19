@@ -1,0 +1,83 @@
+check,value,of,ok,note
+self_check_with_arrival_decisive_groups_in_target_cell,4,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_decisive_p,0.0333333,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_decisive_noise_groups_in_target_cell,0,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_decisive_pwin_groups_in_target_cell,4,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_decisive_pwin_rank,0.0333333,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_decisive_peak_range_km_median,18.3984,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_eielson_groups_in_target_cell,4,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_eielson_p,0.0333333,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_eielson_peak_range_km_median,20.5183,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_null_cells_max_groups,0,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_power,0.62069,,,synthetic of self_check(); see its asserts for what is required
+self_check_with_arrival_reading,pass,,,synthetic of self_check(); see its asserts for what is required
+self_check_floor_s,1.5,,,synthetic of self_check(); see its asserts for what is required
+self_check_null_cells,29,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_decisive_groups_in_target_cell,0,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_decisive_p,1.0,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_decisive_noise_groups_in_target_cell,0,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_decisive_pwin_groups_in_target_cell,3,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_decisive_pwin_rank,0.0333333,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_decisive_peak_range_km_median,42.3615,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_eielson_groups_in_target_cell,0,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_eielson_p,1.0,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_eielson_peak_range_km_median,42.3615,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_null_cells_max_groups,1,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_power,0.931034,,,synthetic of self_check(); see its asserts for what is required
+self_check_without_arrival_reading,fail,,,synthetic of self_check(); see its asserts for what is required
+elements,21,,,IM EK* BHZ; on the two arms: 20; off them: EKB
+sample_rate_hz,40.0,20,True,decimated to `of` in phase 2
+sensor_models,2,,,CMG3ESP_20S_750; CMG3T_EKA3C_20S
+elements_with_closed_epoch,1,,,EKB to 2017-04-20
+min_elements,19,21,,ceil of a7's share 17/19
+centroid_lat,55.3335,,,
+centroid_lon,-3.13927,,,
+centroid_shift_without_off_arm_km,0.168509,,,"centroid of the arm elements only, from the centroid used"
+arm_crossing_from_centroid_km,1.35261,,,limit: Key's center seismometer is not identified; the arms cross at bearing 268 deg from the centroid
+arm_B_axis_deg,22.2573,,,
+arm_R_axis_deg,111.667,,,
+precheck_0.5-1_rg_unaliased,3,4,False,"a6 rows at the band edges, both Rg velocities; smallest alias radius 1.08 s/km; largest sidelobe 0.67; against steep P: 4 of 4"
+precheck_1-2_rg_unaliased,1,4,False,"a6 rows at the band edges, both Rg velocities; smallest alias radius 0.54 s/km; largest sidelobe 0.72; against steep P: 3 of 4"
+teleseisms_passing_source_rule,43,46,,"deep >= 300 km, M 6.0-6.8, 30-95 deg; of = before the isolation rule"
+teleseism_candidates,38,60,,"largest first, after the pP rule and >= 19 BHZ epochs"
+korean_tests_with_bhz_epoch,5,6,,2006-10-09: 0; 2009-05-25: 21; 2013-02-12: 21; 2016-01-06: 21; 2016-09-09: 21; 2017-09-03: 20 (elements with an epoch)
+candidates_in_key_sector,8,43,,back-azimuth 340 to 30 deg (Key p. 35); teleseisms only: 8; in Key's strongest sector 0-10 deg: 0; within 5 deg outside the sector: 19
+candidate_source_groups,11,,,"a7 rule, 3 deg; groups with an event in Key's sector: 3; phase 2 regroups the events used"
+candidate_baz_sectors,4,12,,"30 deg sectors from north, start:count 0:8 30:24 210:4 240:7"
+a7_noise_window_margin_s,3.17441,0,,"a7.event_maps asserts this is positive: the last pre-P noise window stays clear of P, worst candidate"
+target_range_km,13.9867,,,
+target_bearing_deg,312.321,,,
+target_x_km,-10.3415,,,
+target_y_km,9.4171,,,
+target_lat,55.4179,,,
+target_lon,-3.30257,,,
+target_from_key_km,1.1709,,,
+target_from_gupta_km,1.1709,,,
+key_lag_by_a7_formula_s,4.76047,4.8,,"Key's range, bearing and speed with his P wave give his delay (of = p. 34): the sign conventions agree"
+decisive_floor_s,1.5,5,,candidates; before rounding down 1.879 s; binding event tele_20200915T034128; recomputed in phase 2 on the events used
+eielson_floor_events_imaging_target_cell_at_key_scan_speed,0,43,,"a7.valid at the grid cell nearest the target, scan speed 2.494 km/s"
+eielson_floor_events_imaging_target_cell_at_gupta_scan_speed,0,43,,"a7.valid at the grid cell nearest the target, scan speed 2.924 km/s"
+decisive_floor_events_imaging_target_cell_at_key_scan_speed,43,43,,"a7.valid at the grid cell nearest the target, scan speed 2.494 km/s"
+decisive_floor_events_imaging_target_cell_at_gupta_scan_speed,43,43,,"a7.valid at the grid cell nearest the target, scan speed 2.924 km/s"
+blind_zone_ILAR_eielson_nearest_km_fastest,19.2516,31.8578,,"scan speed 3.2 km/s, value = smallest, of = largest over events and bearings; median 24.0"
+blind_zone_ILAR_eielson_nearest_km_slowest,10.0841,12.7207,,scan speed 1.5 km/s; median 11.3
+blind_zone_EKA_eielson_nearest_km_fastest,20.368,29.2084,,"scan speed 3.2 km/s, value = smallest, of = largest over events and bearings; median 24.0"
+blind_zone_EKA_eielson_nearest_km_slowest,10.3822,12.2761,,scan speed 1.5 km/s; median 11.3
+blind_zone_EKA_decisive_nearest_km_fastest,10.8629,15.5778,,"scan speed 3.2 km/s, value = smallest, of = largest over events and bearings; median 12.8"
+blind_zone_EKA_decisive_nearest_km_slowest,5.53716,6.54727,,scan speed 1.5 km/s; median 6.0
+cell_0.5-1_radial_km,6.91938,,,
+cell_0.5-1_cross_km,4.06291,,,
+cell_0.5-1_imaging_error_km,2.29262,,,"peak of the noise-free image to the target point; recorded, not asserted"
+null_cells_kept_0.5-1_step_10deg,29,35,True,"left out: 6 overlap the target cell, 0 not admitted at both speeds for every candidate; ok = at least 19; used"
+null_cells_kept_0.5-1_step_5deg,57,71,True,"left out: 14 overlap the target cell, 0 not admitted at both speeds for every candidate; ok = at least 19; not used"
+smallest_p_0.5-1,0.0333333,0.05,True,"1 / (kept cells + target), step 10 deg"
+marked_cells_0.5-1,3,3,,"mirror_arm_B 92 deg -> cell at 92 deg, kept; antipode 132 deg -> cell at 132 deg, kept; mirror_arm_R 271 deg -> cell at 272 deg, kept"
+earliest_lag_median_s_0.5-1_kept_cells_range,4.17428,4.95322,,"value = smallest, of = largest over kept cells; target 4.26 s"
+cell_1-2_radial_km,6.18409,,,
+cell_1-2_cross_km,2.28258,,,
+cell_1-2_imaging_error_km,0.879407,,,"peak of the noise-free image to the target point; recorded, not asserted"
+null_cells_kept_1-2_step_10deg,32,35,True,"left out: 3 overlap the target cell, 0 not admitted at both speeds for every candidate; ok = at least 19; used"
+null_cells_kept_1-2_step_5deg,64,71,True,"left out: 7 overlap the target cell, 0 not admitted at both speeds for every candidate; ok = at least 19; not used"
+smallest_p_1-2,0.030303,0.05,True,"1 / (kept cells + target), step 10 deg"
+marked_cells_1-2,3,3,,"mirror_arm_B 92 deg -> cell at 92 deg, kept; antipode 132 deg -> cell at 132 deg, kept; mirror_arm_R 271 deg -> cell at 272 deg, kept"
+earliest_lag_median_s_1-2_kept_cells_range,4.17428,4.95322,,"value = smallest, of = largest over kept cells; target 4.26 s"

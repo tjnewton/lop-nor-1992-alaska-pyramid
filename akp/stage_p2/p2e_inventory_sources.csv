@@ -1,0 +1,7 @@
+kind,source,cite,url,file,status,content_type,bytes,ok,fetched
+volcanic_vents,"Cameron & Nye 2014, Preliminary database of Quaternary vents in Alaska (DGGS MP 153)",doi:10.14509/27357,https://dggs.alaska.gov/webpubs/data/mp153_AK-Quaternary-vents.zip,mp153_AK-Quaternary-vents.zip,200,application/zip,551448,1,cached
+volcanic_vents_report,"Cameron & Nye 2014, MP 153 report (defines the vents' Loc_conf codes)",doi:10.14509/27357,https://dggs.alaska.gov/webpubs/dggs/mp/text/mp153.pdf,mp153.pdf,200,application/pdf,664345,1,cached
+glacial_limits,"Kaufman et al. 2011, Alaska Palaeo-Glacier Atlas v2 (NOAA WDS-Paleo 2011-104)",doi:10.1016/B978-0-444-53447-7.00033-7,https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/alaska-glacier-atlas/arcgis/APG_v2_ArcGIS.zip,APG_v2_ArcGIS.zip,200,application/zip,2469192,1,cached
+pingo_suitability,"Karjalainen et al. 2020, spatial predictions of pingo occurrence (modeled, ~1 km)",doi:10.1594/PANGAEA.922771,https://download.pangaea.de/dataset/922771/files/Datasets.zip,Karjalainen2020_Datasets.zip,200,application/zip,14169626,1,cached
+pingo_locations,"Holmes 1967, Location of pingos and pingolike mounds in interior Alaska (USGS OFR 67-115)",doi:10.3133/ofr67115,https://pubs.usgs.gov/of/1967/0115/report.pdf,Holmes1967_ofr67115.pdf,200,application/pdf,5249070,1,cached
+mines_prospects,"USGS Alaska Resource Data File (ARDF): mines, prospects and occurrences","USGS Mineral Resources Data System, mrdata.usgs.gov/ardf",https://mrdata.usgs.gov/ardf/ardf.zip,ardf.zip,200,application/zip,2653748,1,ok

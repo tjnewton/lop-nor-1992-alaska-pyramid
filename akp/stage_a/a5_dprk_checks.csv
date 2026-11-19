@@ -1,0 +1,16 @@
+check,value,of,triggered,detail
+catalog_explosions,3,3,False,dprk_2016-01-06 mb5.1 USGS; dprk_2016-09-09 mb5.3 USGS; dprk_2017-09-03 mb6.3 USGS
+download_estimate_bytes,33624000,2000000000,False,4 bytes per sample over every requested window (upper bound)
+stations_measured_dprk_2016-01-06,43,46,,AK.JPK:no data; AK.SKN:no data; TA.H23K:no data
+stations_measured_dprk_2016-09-09,44,47,,AK.JPK:no data; XV.F4TN:no data; XV.FNN2:no data
+stations_measured_dprk_2017-09-03,69,71,,AK.SKN:no data; TA.L20K:no data
+usable_records_0.5-1,91,156,,"snr >= 5, covered, no gaps, not clipped; valid clutter cells of the usable: 5-15s:90; 15-30s:84; 30-60s:81"
+usable_records_1-2,145,156,,"snr >= 5, covered, no gaps, not clipped; valid clutter cells of the usable: 5-15s:137; 15-30s:133; 30-60s:121"
+usable_records_2-4,113,156,,"snr >= 5, covered, no gaps, not clipped; valid clutter cells of the usable: 5-15s:109; 15-30s:103; 30-60s:89"
+usable_records_4-8,24,156,,"snr >= 5, covered, no gaps, not clipped; valid clutter cells of the usable: 5-15s:12; 15-30s:6; 30-60s:0"
+nn_p_cells_above_noise,4,4,False,"positive control, nearest-neighbor median vs noise p95: 1-2Hz/P:0.691 vs 0.625 (n=109, 55 km, |lag| 0.38 s); 2-4Hz/P:0.570 vs 0.453 (n=84, 60 km, |lag| 0.55 s); 4-8Hz/P:0.420 vs 0.326 (n=17, 73 km, |lag| 0.60 s); 0.5-1Hz/P:0.866 vs 0.802 (n=67, 58 km, |lag| 0.23 s)"
+nn_coda_cells_above_noise,1,10,,"nearest-neighbor median vs noise p95: 1-2Hz/5-15:0.467 vs 0.695 (n=100, 54 km, |lag| 1.35 s); 1-2Hz/15-30:0.463 vs 0.590 (n=97, 53 km, |lag| 0.97 s); 1-2Hz/30-60:0.328 vs 0.489 (n=81, 58 km, |lag| 1.25 s); 2-4Hz/5-15:0.501 vs 0.489 (n=76, 61 km, |lag| 0.91 s); 2-4Hz/15-30:0.392 vs 0.423 (n=67, 61 km, |lag| 0.88 s); 2-4Hz/30-60:0.264 vs 0.312 (n=52, 60 km, |lag| 1.12 s); 4-8Hz/5-15:0.339 vs 0.376 (n=5, 73 km, |lag| 0.88 s); 0.5-1Hz/5-15:0.715 vs 0.839 (n=66, 57 km, |lag| 0.34 s); 0.5-1Hz/15-30:0.696 vs 0.757 (n=58, 61 km, |lag| 0.35 s); 0.5-1Hz/30-60:0.605 vs 0.644 (n=56, 61 km, |lag| 0.45 s)"
+closest_bin_coda_cells_above_noise,2,10,,"reported beside the rule, the shortest separation bin: 1-2Hz/5-15:0.438 vs 0.741 (n=9, 2 km, |lag| 1.43 s); 1-2Hz/15-30:0.543 vs 0.674 (n=9, 2 km, |lag| 0.17 s); 1-2Hz/30-60:0.330 vs 0.536 (n=9, 2 km, |lag| 1.20 s); 2-4Hz/5-15:0.578 vs 0.480 (n=9, 2 km, |lag| 0.88 s); 2-4Hz/15-30:0.338 vs 0.432 (n=9, 2 km, |lag| 1.05 s); 2-4Hz/30-60:0.319 vs 0.370 (n=9, 2 km, |lag| 1.18 s); 4-8Hz/5-15:0.459 vs 0.379 (n=2, 2 km, |lag| 0.77 s); 0.5-1Hz/5-15:0.827 vs 0.904 (n=6, 2 km, |lag| 0.04 s); 0.5-1Hz/15-30:0.758 vs 0.855 (n=6, 2 km, |lag| 0.04 s); 0.5-1Hz/30-60:0.730 vs 0.798 (n=6, 2 km, |lag| 0.05 s)"
+back_projection_ruled_out,0,,,plan S3 rule: nearest-pair coda coherence at the noise level in every cell
+cache_bytes,11823158,,,"$AKP_DATA/a5: this script's catalog, StationXML and miniSEED"
+gate_pass,1,,,

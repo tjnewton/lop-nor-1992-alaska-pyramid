@@ -1,0 +1,45 @@
+level,band,value,n,range_m,at_least,case,spreading_range_m
+"pooled median, way valid",0.5-1,0.303754,87,0.0,False,,
+"pooled fifth percentile, way valid",0.5-1,0.171859,87,100.0,False,thawed_850,
+"pooled median, way all",0.5-1,0.302378,88,0.0,False,,
+"pooled fifth percentile, way all",0.5-1,0.171899,88,100.0,False,thawed_850,
+"pooled median, way high_snr",0.5-1,0.27335,58,0.0,False,,
+"pooled fifth percentile, way high_snr",0.5-1,0.168231,58,100.0,False,thawed_850,
+1992 record at IU.COL,0.5-1,0.138199,1,100.0,False,thawed_1200,
+"station ANM, median of its usable records",0.5-1,0.293534,1,0.0,False,,
+"station BWN, median of its usable records",0.5-1,0.341987,1,0.0,False,,
+"station CUT, median of its usable records",0.5-1,0.171619,1,100.0,False,thawed_850,
+"station KLU, median of its usable records",0.5-1,0.422376,1,0.0,False,,
+"station MLY, median of its usable records",0.5-1,0.397288,2,0.0,False,,
+"station PMR, median of its usable records",0.5-1,0.193919,1,100.0,False,thawed_850,
+"station TRF, median of its usable records",0.5-1,0.280753,1,0.0,False,,
+"station TTA, median of its usable records",0.5-1,0.258969,1,0.0,False,,
+"pooled median, way valid",1-2,0.20559,131,500.0,False,R5,
+"pooled fifth percentile, way valid",1-2,0.099966,131,1500.0,True,R5,2784.151786
+"pooled median, way all",1-2,0.206313,136,500.0,False,R5,
+"pooled fifth percentile, way all",1-2,0.100249,136,1500.0,True,R5,2768.45166
+"pooled median, way high_snr",1-2,0.187453,113,700.0,False,R5,
+"pooled fifth percentile, way high_snr",1-2,0.098853,113,1500.0,True,R5,2847.2256
+1992 record at IU.COL,1-2,0.072422,1,2400.0,True,R5,5304.681881
+"station ANM, median of its usable records",1-2,0.154716,3,900.0,False,R5,
+"station BWN, median of its usable records",1-2,0.240087,3,400.0,False,R5,
+"station CUT, median of its usable records",1-2,0.459683,2,200.0,False,R4,
+"station KLU, median of its usable records",1-2,0.331112,3,300.0,False,R4,
+"station MLY, median of its usable records",1-2,0.239759,3,400.0,False,R5,
+"station PMR, median of its usable records",1-2,0.413828,3,200.0,False,R4,
+"station TRF, median of its usable records",1-2,0.147088,3,900.0,False,R5,
+"station TTA, median of its usable records",1-2,0.357745,2,300.0,False,R4,
+"pooled median, way valid",2-4,0.290961,103,800.0,False,R5,
+"pooled fifth percentile, way valid",2-4,0.100225,103,3000.0,True,R2 R5,4853.954905
+"pooled median, way all",2-4,0.290743,107,800.0,False,R5,
+"pooled fifth percentile, way all",2-4,0.103141,107,3000.0,True,R2 R5,4583.403038
+"pooled median, way high_snr",2-4,0.252441,72,800.0,False,R5,
+"pooled fifth percentile, way high_snr",2-4,0.090647,72,3000.0,True,R2 R5,5933.982345
+1992 record at IU.COL,2-4,0.104445,1,3000.0,True,R2 R5,4469.612322
+"station ANM, median of its usable records",2-4,0.402109,1,400.0,False,R5,
+"station BWN, median of its usable records",2-4,0.469633,2,300.0,False,R5,
+"station KLU, median of its usable records",2-4,0.243616,3,1200.0,False,R5,
+"station MLY, median of its usable records",2-4,0.352761,3,400.0,False,R5,
+"station PMR, median of its usable records",2-4,0.479966,1,300.0,False,R5,
+"station TRF, median of its usable records",2-4,0.639926,1,200.0,False,R5,
+"station TTA, median of its usable records",2-4,0.258008,1,800.0,False,R5,
