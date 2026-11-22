@@ -2,7 +2,7 @@
 
 Code and tables for the paper of that title (Tyler J. Newton, submitted to *Seismica* as a Report; preprint: *to be added*). A popular story holds that seismic waves from the 21 May 1992 Lop Nor explosion revealed a pyramid buried in Alaska. The paper tests whether any recording of that explosion could have shown such a body, and returned its place, depth or shape.
 
-This repository holds what is needed to reproduce the paper's numbers and figures: the analysis code, the tables behind every number, the figure script and the software environment. Archived at Zenodo: *DOI to be added at the first release*.
+This repository holds what is needed to reproduce the paper's numbers and figures: the analysis code, the tables behind every number, the figure script and the software environment. Archived at Zenodo: https://doi.org/10.5281/zenodo.24450418.
 
 ## Layout
 
