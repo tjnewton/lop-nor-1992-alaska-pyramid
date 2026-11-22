@@ -856,7 +856,7 @@ def fig7() -> None:
               "P coda of the reference records: median", "the same: 5th percentile", "the 1992 record at IU.COL",
               "nearest station that recorded the explosion", "nearest station operating, no reading reported"]
     fig.legend(handles, labels, loc="upper center", ncol=2, bbox_to_anchor=(0.54, 1.0), fontsize=7, columnspacing=1.6, handlelength=2.2, frameon=False)
-    fig.text(0.095, 0.012, "Stations inside a claimed area have no distance to mark and are not shown (Table 2). Every bound is listed in Table S7.",
+    fig.text(0.095, 0.012, "Stations inside a claimed area have no distance to mark and are not shown (Table 2). Every bound is listed in Table S6.",
              fontsize=7, color=INK2, va="bottom")
     fig.canvas.draw()
     over = fig.get_tightbbox(fig.canvas.get_renderer())
