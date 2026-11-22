@@ -8,7 +8,7 @@
       "orcid": "0000-0002-1560-6553"
     }
   ],
-  "description": "Analysis code and the tables behind every number of a Seismica Report that tests whether recordings of the 21 May 1992 Lop Nor nuclear explosion could have revealed a pyramid buried in Alaska: station coverage of the time, coda levels of regional records, three-dimensional simulations of P scattered into Rayleigh waves by a compact shallow body, and the array method. Code under the MIT licence; tables and figures under CC BY 4.0 (see LICENSE-DATA.md).",
+  "description": "Analysis code and the tables behind every number of a Seismica Report that tests whether recordings of the 21 May 1992 Lop Nor nuclear explosion could have revealed a pyramid buried in Alaska: station coverage of the time, coda levels of regional records, three-dimensional simulations of P scattered into Rayleigh waves by a compact shallow body, and the array method. Code under the MIT license; tables and figures under CC BY 4.0 (see LICENSE-DATA.md).",
   "license": "MIT",
   "keywords": [
     "seismology",
